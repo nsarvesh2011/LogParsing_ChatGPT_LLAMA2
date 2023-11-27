@@ -1,0 +1,31 @@
+,EventTemplate,Occurrences
+0,Please provide the output of the template delimited by backticks.,541
+1,Please provide the output of the abstracted variables.,42
+2,"What is the output?
+
+Note: The output will be a string, so please make sure to use the correct syntax when printing it.",3
+3,Please provide the output for this log message.,2
+4,Please provide the output of the abstracted log message.,259
+5,Please provide the output of the abstracted template.,356
+6,"SQM: Queued {files} for upload with pattern: {pattern}, flags: {flags}.",2
+7,SQM: Warning: Failed to upload all unsent reports. [HRESULT = {result} - E_FAIL],2
+8,Please help me to extract the template from this log message.,2
+9,Please provide the output of the template delimited by backticks for the given log message.,4
+10,Please provide the corresponding template.,280
+11,Output: Expecting attribute name [HRESULT = {result} - CBS_E_MANIFEST_INVALID_ITEM],224
+12,"
+Session: {session} initialized by client WindowsUpdateAgent.
+",230
+13,Can you please provide the template of this log message?,43
+14,"What is the output?
+
+Output: Session: {session} initialized by client WindowsUpdateAgent.",2
+15,Can you please provide the extracted template?,1
+16,{},1
+17,"What is the output?
+
+Note: The output will be a string, so please make sure to enclose it in quotes when you submit your answer.",1
+18,Please provide the output of the log message template.,1
+19,Please provide the output of the log message template abstraction.,1
+20,Please provide the output of the template.,2
+21,Please provide the output of the abstracted log template.,1

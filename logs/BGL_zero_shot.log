@@ -1,0 +1,4000 @@
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `CE sym {symbol}, at {address}, mask {mask}`
+ =================== 
+Template: `ciod: failed to read message prefix on control stream (CioStream socket to {ip}:{port}`
+ =================== 
+Template: `ciod: failed to read message prefix on control stream (CioStream socket to {ip}:{port}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `force load/store alignment...............{}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_number}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} error {correction_type}`
+ =================== 
+Template: `instruction cache {error_type} error {correction_type}`
+ =================== 
+Template: `generating core.{core_number}`
+ =================== 
+Template: `generating core.{core_number}`
+ =================== 
+Template: `ciod: cpu {cpu_num} at treeaddr {tree_addr} sent unrecognized message {message}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{year}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_version}`
+ =================== 
+Template: `generating core.{year}`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `1 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `CE sym {symbol}, at {address}, mask {mask}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `CE sym {symbol}, at {address}, mask {mask}`
+ =================== 
+Template: `generating core.{port}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {var1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `data {variable1} error interrupt`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `ciod: Message code {code} is not {value1} or {value2}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `data address: {address}`
+ =================== 
+Template: `data address: {address}`
+ =================== 
+Template: `machine check: {error_type}......................{error_code}`
+ =================== 
+Template: `machine check: {error_type}......................{error_code}`
+ =================== 
+Template: `program interrupt: {cause}......{code}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data address: {address}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data address: {address}`
+ =================== 
+Template: `data address: {address}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data address: {address}`
+ =================== 
+Template: `machine check: {error_type}......................{error_code}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data {noun} {noun}`
+ =================== 
+Template: `data address: {address}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `exception syndrome register: {register}`
+ =================== 
+Template: `exception syndrome register: {register}`
+ =================== 
+Template: `exception syndrome register: {register}`
+ =================== 
+Template: `exception syndrome register: {register}`
+ =================== 
+Template: `program interrupt: {cause}......{code}`
+ =================== 
+Template: `program interrupt: {cause}......{code}`
+ =================== 
+Template: `data address: {address}`
+ =================== 
+Template: `exception syndrome register: {register}`
+ =================== 
+Template: `machine check: {error_type}......................{error_code}`
+ =================== 
+Template: `data store interrupt caused by {variable}`
+ =================== 
+Template: `machine check: {error_type}......................{error_code}`
+ =================== 
+Template: `data store interrupt caused by {variable}`
+ =================== 
+Template: `program interrupt: {cause}......{code}`
+ =================== 
+Template: `program interrupt: {cause}......{code}`
+ =================== 
+Template: `program interrupt: {reason}...{code}`
+ =================== 
+Template: `program interrupt: {reason}...{code}`
+ =================== 
+Template: `program interrupt: {cause} instruction.........{code}`
+ =================== 
+Template: `program interrupt: {reason}......{code}`
+ =================== 
+Template: `store operation.............................{}`
+ =================== 
+Template: `store operation.............................{}`
+ =================== 
+Template: `machine state register: {state}`
+ =================== 
+Template: `data store interrupt caused by {source}.........{code}`
+ =================== 
+Template: `problem state (0=sup,1=usr).......{}`
+ =================== 
+Template: `data store interrupt caused by {source}.........{code}`
+ =================== 
+Template: `data store interrupt caused by {source}.........{code}`
+ =================== 
+Template: `floating point instr. enabled.....{var}`
+ =================== 
+Template: `floating point instr. enabled.....{var}`
+ =================== 
+Template: `floating point instr. enabled.....{var}`
+ =================== 
+Template: `auxiliary processor.........................{}`
+ =================== 
+Template: `machine check enable..............{0}`
+ =================== 
+Template: `machine check enable..............{0}`
+ =================== 
+Template: `floating pt ex mode {mode} enable......{value}`
+ =================== 
+Template: `program interrupt: {reason}..{code}`
+ =================== 
+Template: `debug interrupt enable............{}`
+ =================== 
+Template: `floating pt ex mode {mode} enable......{value}`
+ =================== 
+Template: `{} ordering exception.....................{}`
+ =================== 
+Template: `{} ordering exception.....................{}`
+ =================== 
+Template: `data address space................{variable}`
+ =================== 
+Template: `data address space................{variable}`
+ =================== 
+Template: `program interrupt: {reason}......{code}`
+ =================== 
+Template: `core configuration register: {register_value}`
+ =================== 
+Template: `program interrupt: {reason}......{code}`
+ =================== 
+Template: `program interrupt: {variable1} {variable2} update.............{variable3}`
+ =================== 
+Template: `guaranteed instruction cache block touch.{index}`
+ =================== 
+Template: `guaranteed instruction cache block touch.{index}`
+ =================== 
+Template: `program interrupt: {variable} cr field .............{variable}`
+ =================== 
+Template: `program interrupt: {variable} cr field .............{variable}`
+ =================== 
+Template: `program interrupt: {variable} cr field .............{variable}`
+ =================== 
+Template: `guaranteed data cache block touch........{integer}`
+ =================== 
+Template: `program interrupt: {variable} cr field .............{variable}`
+ =================== 
+Template: `force load/store alignment...............{}`
+ =================== 
+Template: `icache prefetch depth....................{}`
+ =================== 
+Template: `machine state register: {state}`
+ =================== 
+Template: `machine state register: {state}`
+ =================== 
+Template: `icache prefetch threshold................{threshold}`
+ =================== 
+Template: `icache prefetch threshold................{threshold}`
+ =================== 
+Template: `machine state register: {state}`
+ =================== 
+Template: `wait state enable.................{}`
+ =================== 
+Template: `critical input interrupt enable...{variable}`
+ =================== 
+Template: `problem state (0=sup,1=usr).......{}`
+ =================== 
+Template: `problem state (0=sup,1=usr).......{}`
+ =================== 
+Template: `floating point instr. enabled.....{var}`
+ =================== 
+Template: `special purpose registers:`
+ =================== 
+Template: `lr:{lr} cr:{cr} xer:{xer} ctr:{ctr}`
+ =================== 
+Template: `rts internal error`
+ =================== 
+Template: `floating pt ex mode {mode} enable......{value}`
+ =================== 
+Template: `floating pt ex mode {mode} enable......{value}`
+ =================== 
+Template: `debug wait {action}.................{value}`
+ =================== 
+Template: `floating pt ex mode {mode} enable......{value}`
+ =================== 
+Template: `instruction address space.........{variable}`
+ =================== 
+Template: `data address space................{variable}`
+ =================== 
+Template: `data address space................{variable}`
+ =================== 
+Template: `data address space................{variable}`
+ =================== 
+Template: `core configuration register: {register_value}`
+ =================== 
+Template: `core configuration register: {register_value}`
+ =================== 
+Template: `core configuration register: {register_value}`
+ =================== 
+Template: `core configuration register: {register_value}`
+ =================== 
+Template: `core configuration register: {register_value}`
+ =================== 
+Template: `core configuration register: {register_value}`
+ =================== 
+Template: `disable store gathering..................{}`
+ =================== 
+Template: `disable store gathering..................{}`
+ =================== 
+Template: `disable store gathering..................{}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `generating core.{year}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `ciod: failed to read message prefix on control stream (CioStream socket to {ip}:{port}`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `CE sym {symbol}, at {address}, mask {mask}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_number}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error creating node map from file {file_path}: {error_message}`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `generating core.{port}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `1 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {symbol}, at {address}, mask {mask}`
+ =================== 
+Template: `CE sym {num1}, at {hex1}, mask {hex2}`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{var}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{number}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{number}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_number}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `program {status}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `program interrupt: {reason}......{code}`
+ =================== 
+Template: `program interrupt: {reason}......{code}`
+ =================== 
+Template: `program interrupt: {reason}...{code}`
+ =================== 
+Template: `data store interrupt caused by {variable}`
+ =================== 
+Template: `data store interrupt caused by {source}.........{code}`
+ =================== 
+Template: `data store interrupt caused by {source}.........{code}`
+ =================== 
+Template: `auxiliary processor.........................{}`
+ =================== 
+Template: `auxiliary processor.........................{}`
+ =================== 
+Template: `auxiliary processor.........................{}`
+ =================== 
+Template: `program interrupt: {reason}..{code}`
+ =================== 
+Template: `program interrupt: {reason}......{code}`
+ =================== 
+Template: `program interrupt: {reason}......{code}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `program {status}`
+ =================== 
+Template: `program {status}`
+ =================== 
+Template: `instruction address: {address}`
+ =================== 
+Template: `exception syndrome register: {register}`
+ =================== 
+Template: `program interrupt: {reason}......{code}`
+ =================== 
+Template: `program interrupt: {reason}...{code}`
+ =================== 
+Template: `data store interrupt caused by {variable}`
+ =================== 
+Template: `data store interrupt caused by {variable}`
+ =================== 
+Template: `auxiliary processor.........................{}`
+ =================== 
+Template: `CE sym {symbol}, at {address}, mask {mask}`
+ =================== 
+Template: `Node {card} is not fully functional`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_number}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: ` {number} double-hummer alignment exceptions`
+ =================== 
+Template: `{} double-hummer alignment exceptions`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_number}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{variable}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `CE sym {symbol}, at {address}, mask {mask}`
+ =================== 
+Template: `ciod: Error creating node map from file {file_path}: Bad file descriptor`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `CE sym {int1}, at {hex1}, mask {hex2}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_number}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `Ido chip status changed: {chip_id} ip={ip_address} v={version} t={type} status={status} {timestamp}`
+ =================== 
+Template: `Can not get assembly information for node {node}`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{variable}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_number}`
+ =================== 
+Template: `generating core.{core_version}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{status_code}`
+ =================== 
+Template: `ciod: Missing or invalid fields on line {line_number} of node map file {file_path}`
+ =================== 
+Template: `1 torus receiver {direction} input pipe error(s) (dcr {code}) detected and corrected`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{number}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{port}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_number}`
+ =================== 
+Template: `generating core.{year}`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_number}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `Node {card} is not fully functional`
+ =================== 
+Template: `ciod: duplicate canonical-rank {rank1} to logical-rank {rank2} mapping at line {line} of node map file {file}`
+ =================== 
+Template: `ciod: Error creating node map from file {file_path}: Block device required`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{number}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{variable}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{var}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{variable}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{var}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{year}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `{timestamp} double-hummer alignment exceptions`
+ =================== 
+Template: `{timestamp} double-hummer alignment exceptions`
+ =================== 
+Template: `{timestamp} double-hummer alignment exceptions`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{variable}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{number}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{year}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `CE sym {symbol}, at {address}, mask {mask}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `rts panic! - stopping execution`
+ =================== 
+Template: `rts panic! - stopping execution`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{timestamp} double-hummer alignment exceptions`
+ =================== 
+Template: `{timestamp} double-hummer alignment exceptions`
+ =================== 
+Template: `{timestamp} {event} alignment exceptions`
+ =================== 
+Template: `{timestamp} {event} alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{timestamp} double-hummer alignment exceptions`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{year}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `ciod: Error creating node map from file {file_path}: Permission denied`
+ =================== 
+Template: `ciod: Z coordinate {z_coord} exceeds physical dimension {phys_dim} at line {line_num} of node map file {file_path}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `1 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{variable}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{variable}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{var}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `rts: kernel terminated for reason {reason}rts: bad message header: invalid cpu, type={type}, cpu={cpu}, index={index}, total={total}`
+ =================== 
+Template: `debug wait {action}.................{value}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `{integer} floating point alignment exceptions`
+ =================== 
+Template: `{integer} floating point alignment exceptions`
+ =================== 
+Template: `{integer} floating point alignment exceptions`
+ =================== 
+Template: `{integer} floating point alignment exceptions`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{var}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{variable}`
+ =================== 
+Template: `{count} floating point alignment exceptions`
+ =================== 
+Template: `1 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{integer} floating point alignment exceptions`
+ =================== 
+Template: `{count} floating point alignment exceptions`
+ =================== 
+Template: `{count} floating point alignment exceptions`
+ =================== 
+Template: `{integer} floating point alignment exceptions`
+ =================== 
+Template: `{integer} floating point alignment exceptions`
+ =================== 
+Template: `{integer} floating point alignment exceptions`
+ =================== 
+Template: `{integer} floating point alignment exceptions`
+ =================== 
+Template: `{integer} floating point alignment exceptions`
+ =================== 
+Template: `{integer} floating point alignment exceptions`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `CE sym {num1}, at {hex}, mask {hex2}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{number}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{var}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{number}`
+ =================== 
+Template: `generating core.{pid}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{var}`
+ =================== 
+Template: `generating core.{variable}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{variable}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{process_id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{version}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `generating core.{id}`
+ =================== 
+Template: `generating core.{core_id}`
+ =================== 
+Template: `1 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `New ido chip inserted into the database: {ido_chip} ip={ip_address} v={version} t={type}`
+ =================== 
+Template: `New ido chip inserted into the database: {ido_chip} ip={ip_address} v={version} t={type}`
+ =================== 
+Template: `{} is not fully functional`
+ =================== 
+Template: `Node card status: {alert_0}, {alert_1}, {alert_2}, {alert_3} is (are) active. Clock Mode is {clock_mode}. Clock Select is {clock_select}. Phy JTAG Reset is {phy_jtag_reset}. ASIC JTAG Reset is {asic_jtag_reset}. Temperature Mask is {temperature_mask}. {temperature_error}. Temperature Limit Error Latch is {temperature_limit_error_latch}. PGOOD is {pgood}. PGOOD error latch is {pgood_error_latch}. MPGOOD is {mpgood}. MPGOOD error latch is {mpgood_error_latch}. The 2.5 volt rail is {volt_2_5}. The 1.5 volt rail is {volt_1_5}.`
+ =================== 
+Template: `Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found}`
+ =================== 
+Template: `Can not get assembly information for node {node}`
+ =================== 
+Template: `New ido chip inserted into the database: {ido_chip} ip={ip_address} v={version} t={type}`
+ =================== 
+Template: `Can not get assembly information for node {node}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `Node card status: no ALERTs are active. Clock Mode is {Clock Mode}. Clock Select is {Clock Select}. Phy JTAG Reset is {Phy JTAG Reset}. ASIC JTAG Reset is {ASIC JTAG Reset}. Temperature Mask is {Temperature Mask}. {Temperature Error}. Temperature Limit Error Latch is {Temperature Limit Error Latch}. PGOOD IS {PGOOD}. PGOOD ERROR LATCH IS {PGOOD ERROR LATCH}. MPGOOD IS {MPGOOD}. MPGOOD ERROR LATCH IS {MPGOOD ERROR LATCH}. The 2.5 volt rail is {2.5 volt rail}. The 1.5 volt rail is {1.5 volt rail}.`
+ =================== 
+Template: `Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found}`
+ =================== 
+Template: `Node {card} is not fully functional`
+ =================== 
+Template: `Node card status: no ALERTs are active. Clock Mode is {Clock Mode}. Clock Select is {Clock Select}. Phy JTAG Reset is {Phy JTAG Reset}. ASIC JTAG Reset is {ASIC JTAG Reset}. Temperature Mask is {Temperature Mask}. {Temperature Error}. Temperature Limit Error Latch is {Temperature Limit Error Latch}. PGOOD IS {PGOOD}. PGOOD ERROR LATCH IS {PGOOD ERROR LATCH}. MPGOOD IS {MPGOOD}. MPGOOD ERROR LATCH IS {MPGOOD ERROR LATCH}. The 2.5 volt rail is {2.5 volt rail}. The 1.5 volt rail is {1.5 volt rail}.`
+ =================== 
+Template: `Ido chip status changed: {chip_id} ip={ip_address} v={version} t={type} status={status} {timestamp}`
+ =================== 
+Template: `Ido chip status changed: {chip_id} ip={ip_address} v={version} t={type} status={status} {timestamp}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `PrepareForService shutting down NodeCard(mLctn({}), mCardSernum({}), mLp({}), mIp({}), mType({})) as part of Service Action 310`
+ =================== 
+Template: `Ido chip status changed: {chip_id} ip={ip_address} v={version} t={type} status={status} {timestamp}`
+ =================== 
+Template: `Can not get assembly information for node {node}`
+ =================== 
+Template: `Can not get assembly information for node {node}`
+ =================== 
+Template: `Node {card} is not fully functional`
+ =================== 
+Template: `Can not get assembly information for node {node}`
+ =================== 
+Template: `Node {card} is not fully functional`
+ =================== 
+Template: `Node card status: no ALERTs are active. Clock Mode is {Clock Mode}. Clock Select is {Clock Select}. Phy JTAG Reset is {Phy JTAG Reset}. ASIC JTAG Reset is {ASIC JTAG Reset}. Temperature Mask is {Temperature Mask}. {Temperature Error}. Temperature Limit Error Latch is {Temperature Limit Error Latch}. PGOOD IS {PGOOD}. PGOOD ERROR LATCH IS {PGOOD ERROR LATCH}. MPGOOD IS {MPGOOD}. MPGOOD ERROR LATCH IS {MPGOOD ERROR LATCH}. The 2.5 volt rail is {2.5 volt rail}. The 1.5 volt rail is {1.5 volt rail}.`
+ =================== 
+Template: `rts tree/torus link training failed: wanted: {var1} {var2} {var3}+ {var4}- {var5}+ {var6}- {var7}+ {var8}- got: {var1} {var2} {var3}- {var5}- {var7}+ {var8}-`
+ =================== 
+Template: `CE sym {int1}, at {hex1}, mask {hex2}`
+ =================== 
+Template: `1 tree receiver {int} in re-synch state event(s) (dcr {hex}) detected`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {int1}, at {hex1}, mask {hex2}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: LOGIN chdir({dir}) failed: {reason}`
+ =================== 
+Template: `ciod: LOGIN chdir({dir}) failed: {reason}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP}:{PORT}: {REASON}`
+ =================== 
+Template: `ciod: Missing or invalid fields on line {line_number} of node map file {file_path}`
+ =================== 
+Template: `rts: kernel terminated for reason {reason}`
+ =================== 
+Template: `rts: kernel terminated for reason {reason}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected`
+ =================== 
+Template: `ciod: LOGIN chdir({dir}) failed: {reason}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `1 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: ` {number} double-hummer alignment exceptions`
+ =================== 
+Template: ` {number} double-hummer alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `1 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `CE sym {num1}, at {hex1}, mask {hex2}`
+ =================== 
+Template: `Node card status: no ALERTs are active. Clock Mode is {Clock Mode}. Clock Select is {Clock Select}. Phy JTAG Reset is {Phy JTAG Reset}. ASIC JTAG Reset is {ASIC JTAG Reset}. Temperature Mask is {Temperature Mask}. {Temperature Error}. Temperature Limit Error Latch is {Temperature Limit Error Latch}. PGOOD IS {PGOOD}. PGOOD ERROR LATCH IS {PGOOD ERROR LATCH}. MPGOOD IS {MPGOOD}. MPGOOD ERROR LATCH IS {MPGOOD ERROR LATCH}. The 2.5 volt rail is {2.5 volt rail}. The 1.5 volt rail is {1.5 volt rail}.`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `{timestamp} double-hummer alignment exceptions`
+ =================== 
+Template: `{timestamp} double-hummer alignment exceptions`
+ =================== 
+Template: `{timestamp} double-hummer alignment exceptions`
+ =================== 
+Template: `{timestamp} double-hummer alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `{number} double-hummer alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `NFS Mount failed on {server}, slept {seconds} seconds, retrying ({attempt})`
+ =================== 
+Template: `NFS Mount failed on {server}, slept {seconds} seconds, retrying ({attempt})`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `{} errors(s) detected and corrected on rank {}, symbol {}, bit {}`
+ =================== 
+Template: `ciod: generated {num} core files for program {program}`
+ =================== 
+Template: `CE sym {var1}, at {var2}, mask {var3}`
+ =================== 
+Template: `Lustre mount FAILED : {server} : point {mount_point}`
+ =================== 
+Template: `Lustre mount FAILED : {var1} : point {var2}`
+ =================== 
+Template: `4 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `Lustre mount FAILED : {server} : point {mount_point}`
+ =================== 
+Template: `Lustre mount FAILED : {server} : point {mount_point}`
+ =================== 
+Template: `Lustre mount FAILED : {server} : point {mount_point}`
+ =================== 
+Template: `Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found}`
+ =================== 
+Template: `1 torus receiver {direction} input pipe error(s) (dcr {code}) detected and corrected`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {reason}`
+ =================== 
+Template: `Lustre mount FAILED : {var1} : point {var2}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `Lustre mount FAILED : {server} : point {mount_point}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `Lustre mount FAILED : {server} : point {mount_point}`
+ =================== 
+Template: `ciod: pollControlDescriptors: Detected the {debugger_status}.`
+ =================== 
+Template: `ciod: In packet from node {node} ({location}), message code {code} is not {expected} or {unexpected} (softheader={header})`
+ =================== 
+Template: `1 torus receiver {direction} input pipe error(s) (dcr {code}) detected and corrected`
+ =================== 
+Template: `1 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `CE sym {symbol}, at {address}, mask {mask}`
+ =================== 
+Template: `ciod: Error loading {file_path}: invalid or missing program image, {error_message}`
+ =================== 
+Template: `ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP}:{PORT}: {REASON}`
+ =================== 
+Template: `suppressing further interrupts of same type`
+ =================== 
+Template: `ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP_ADDRESS}:{PORT}: {ERROR_MESSAGE}`
+ =================== 
+Template: `ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP}:{PORT}: {REASON}`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected`
+ =================== 
+Template: `Lustre mount FAILED : {server} : point {mount_point}`
+ =================== 
+Template: `ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP_ADDRESS}:{PORT}: {ERROR_MESSAGE}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `Ido chip status changed: {chip_id} ip={ip_address} v={version} t={type} status={status} {timestamp}`
+ =================== 
+Template: `Node card status: no ALERTs are active. Clock Mode is {Clock Mode}. Clock Select is {Clock Select}. Phy JTAG Reset is {Phy JTAG Reset}. ASIC JTAG Reset is {ASIC JTAG Reset}. Temperature Mask is {Temperature Mask}. {Temperature Error}. Temperature Limit Error Latch is {Temperature Limit Error Latch}. PGOOD IS {PGOOD}. PGOOD ERROR LATCH IS {PGOOD ERROR LATCH}. MPGOOD IS {MPGOOD}. MPGOOD ERROR LATCH IS {MPGOOD ERROR LATCH}. The 2.5 volt rail is {2.5 volt rail}. The 1.5 volt rail is {1.5 volt rail}.`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found}`
+ =================== 
+Template: `Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `rts: bad message header: expecting type {type1} instead of type {type2} (softheader={softheader}) PSR0={psr0} PSR1={psr1} PRXF={prxf} PIXF={pixf}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected`
+ =================== 
+Template: `1 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP_ADDRESS}:{PORT}: {ERROR_MESSAGE}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `CE sym {symbol}, at {address}, mask {mask}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `critical input interrupt (unit={unit} bit={bit}): warning for torus y+ wire`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {symbol}, at {address}, mask {mask}`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `CE sym {var1}, at {var2}, mask {var3}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `ciod: generated {num_files} core files for program {program_path}`
+ =================== 
+Template: `CE sym {var1}, at {var2}, mask {var3}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP_ADDRESS}:{PORT}: {ERROR_MESSAGE}`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected`
+ =================== 
+Template: `1 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP}:{PORT}: {REASON}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `suppressing further interrupts of {same type}`
+ =================== 
+Template: `4 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `{} tree receiver {} in re-synch state event(s) (dcr {}) detected`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP_ADDRESS}:{PORT}: {ERROR_MESSAGE}`
+ =================== 
+Template: `data cache {action} {error_type} detected. {attempting} to {correct}`
+ =================== 
+Template: `data cache {action} {error_type} detected. {attempting} to {correct}`
+ =================== 
+Template: `data cache {action} {error_type} detected. {attempting} to {correct}`
+ =================== 
+Template: `data cache {action} {error_type} detected. {attempting} to {correct}`
+ =================== 
+Template: `data cache {action} {error_type} detected. {attempting} to {correct}`
+ =================== 
+Template: `data cache {action} {error_type} detected. {attempting} to {correct}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `{} complete`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected`
+ =================== 
+Template: `1 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `ciod: Error loading {program_name}: {error_message}`
+ =================== 
+Template: `critical input interrupt (unit={unit} bit={bit}): warning for torus z- wire`
+ =================== 
+Template: `16 tree receiver {int} in re-synch state event(s) (dcr {hex}) detected`
+ =================== 
+Template: `rts: kernel terminated for reason {reason}`
+ =================== 
+Template: `Error receiving packet on tree network, expecting type {type1} instead of type {type2} (softheader={header}) PSR0={psr0} PSR1={psr1} PRXF={prxf} PIXF={pixf}`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `CE sym {num1}, at {hex}, mask {hex2}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `4 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: invalid or missing program image, {error_message}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {hex1} dear {hex2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {variable1} dear {variable2}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {variable1} dear {variable2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{count} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {variable1} dear {variable2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `CE sym {num1}, at {hex}, mask {hex2}`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `CE sym {num1}, at {hex1}, mask {hex2}`
+ =================== 
+Template: `2 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `ciod: generated {num} core files for program {program}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{date} {message}`
+ =================== 
+Template: `Error receiving packet on tree network, expecting type {type1} instead of type {type2} (softheader={header}) PSR0={psr0} PSR1={psr1} PRXF={prxf} PIXF={pixf}`
+ =================== 
+Template: `program interrupt: {reason}...{code}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `CE sym {num1}, at {hex1}, mask {hex2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `5 torus receiver {direction} input pipe error(s) (dcr {code}) detected and corrected`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `{} L{} EDRAM error(s) (dcr {}) detected and corrected`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `2 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `rts: kernel terminated for reason {reason}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `iar {var1} dear {var2}`
+ =================== 
+Template: `{number} floating point alignment exceptions`
+ =================== 
+Template: `ciod: generated {num} core files for program {program}`
+ =================== 
+Template: `1 ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `rts: kernel terminated for reason {reason}`
+ =================== 
+Template: `Error receiving packet on tree network, expecting type {type1} instead of type {type2} (softheader={header}) PSR0={psr0} PSR1={psr1} PRXF={prxf} PIXF={pixf}`
+ =================== 
+Template: `Error receiving packet on tree network, expecting type {type1} instead of type {type2} (softheader={header}) PSR0={psr0} PSR1={psr1} PRXF={prxf} PIXF={pixf}`
+ =================== 
+Template: `critical input interrupt (unit={unit} bit={bit}): warning for torus z+ wire, suppressing further interrupts of same type`
+ =================== 
+Template: `ciod: generated {num} core files for program {program}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found}`
+ =================== 
+Template: `Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found}`
+ =================== 
+Template: `rts: kernel terminated for reason {reason}`
+ =================== 
+Template: `Error receiving packet on tree network, expecting type {type1} instead of type {type2} (softheader={header}) PSR0={psr0} PSR1={psr1} PRXF={prxf} PIXF={pixf}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `18507114 torus sender z- retransmission error(s) (dcr {hex_code}) detected and corrected over {time} seconds`
+ =================== 
+Template: `{} torus sender z- retransmission error(s) (dcr {}) detected and corrected over {} seconds`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `ciod: generated {num} core files for program {path}`
+ =================== 
+Template: `Lustre mount FAILED : {server} : {block_id} : {location}`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr})`
+ =================== 
+Template: `MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr})`
+ =================== 
+Template: `MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr})`
+ =================== 
+Template: `MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr})`
+ =================== 
+Template: `MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr})`
+ =================== 
+Template: `MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr})`
+ =================== 
+Template: `MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr})`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, {error_message}`
+ =================== 
+Template: `ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, {error_message}`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, {error_message}`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Connection reset by peer`
+ =================== 
+Template: `ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, {error_message}`
+ =================== 
+Template: `ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, {error_message}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `dbcr0={dbcr0} dbsr={dbsr} ccr0={ccr0}`
+ =================== 
+Template: `ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed`
+ =================== 
+Template: `r24={var1} r25={var2} r26={var3} r27={var4}`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `{} tree receiver {} in re-synch state event(s) (dcr {}) detected over {} seconds`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found}`
+ =================== 
+Template: `ciod: Received signal {signal}, code={code}, errno={errno}, address={address}`
+ =================== 
+Template: `CE sym {symbol}, at {address}, mask {mask}`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `{} total interrupts. {} critical input interrupts. {} microseconds total spent on critical input interrupts, {} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `{} total interrupts. {} critical input interrupts. {} microseconds total spent on critical input interrupts, {} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `{} total interrupts. {} critical input interrupts. {} microseconds total spent on critical input interrupts, {} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: ` {total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `0 microseconds spent in the {signal_type} signal handler during {num_calls} calls. {max_time} microseconds was the maximum time for a single instance of a {ddr_type} ddr.`
+ =================== 
+Template: `{} total interrupts. {} critical input interrupts. {} microseconds total spent on critical input interrupts, {} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `{} total interrupts. {} critical input interrupts. {} microseconds total spent on critical input interrupts, {} microseconds max time in a critical input interrupt.`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {var1}, at {var2}, mask {var3}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `1 ddr error(s) detected and corrected on rank {rank}, symbol {symbol} over {time} seconds`
+ =================== 
+Template: `PrepareForService shutting down Node card(mLctn({}), mCardSernum({}), mLp({}), mIp({}), mType({})) as part of Service Action {}`
+ =================== 
+Template: `Kernel detected {count} integer alignment exceptions ({last_exception}) iar {iar}, dear {dear}`
+ =================== 
+Template: `1 tree receiver {int} in re-synch state event(s) (dcr {hex}) detected over {int} seconds`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `CE sym {int}, at {hex}, mask {hex}`
+ =================== 
+Template: `{} ddr error(s) detected and corrected on rank {}, symbol {} over {} seconds`
+ =================== 
+Template: `CE sym {sym}, at {address}, mask {mask}`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected over {time} seconds`
+ =================== 
+Template: `minus normalized number..................{number}`
+ =================== 
+Template: `Lustre mount FAILED : {server} : {block_id} : {location}`
+ =================== 
+Template: `fraction rounded.........................{value}`
+ =================== 
+Template: `Node {card} is not fully functional`
+ =================== 
+Template: `critical input interrupt (unit={unit} bit={bit}): warning for tree {tree} wire, suppressing further interrupts of same type`
+ =================== 
+Template: `size of scratchpad portion of L3.........{size} ({unit})`
+ =================== 
+Template: `Kernel detected {count} integer alignment exceptions ({first_exception}) iar {iar}, dear {dear}`
+ =================== 
+Template: `Kernel detected {num} integer alignment exceptions ({num}) iar {hex}, dear {hex} ({num}) iar {hex}, dear {hex} ({num}) iar {hex}, dear {hex} ({num}) iar {hex}, dear {hex} ({num}) iar {hex}, dear {hex} ({num}) iar {hex}, dear {hex} ({num}) iar {hex}, dear {hex} ({num}) iar {hex}, dear {hex}`
+ =================== 
+Template: `Kernel detected {count} integer alignment exceptions ({first_exception}) iar {iar1}, dear {dear1} ({second_exception}) iar {iar2}, dear {dear2} ({third_exception}) iar {iar3}, dear {dear3} ({fourth_exception}) iar {iar4}, dear {dear4} ({fifth_exception}) iar {iar5}, dear {dear5} ({sixth_exception}) iar {iar6}, dear {dear6} ({seventh_exception}) iar {iar7}, dear {dear7} ({eighth_exception}) iar {iar8}, dear {dear8}`
+ =================== 
+Template: `Kernel detected {num} integer alignment exceptions ({num}) iar {hex}, dear {hex} ({num}) iar {hex}, dear {hex} ({num}) iar {hex}, dear {hex} ({num}) iar {hex}, dear {hex} ({num}) iar {hex}, dear {hex} ({num}) iar {hex}, dear {hex} ({num}) iar {hex}, dear {hex} ({num}) iar {hex}, dear {hex}`
+ =================== 
+Template: `Kernel detected {integer} integer alignment exceptions ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex}`
+ =================== 
+Template: `Kernel detected {integer} integer alignment exceptions ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex}`
+ =================== 
+Template: `Kernel detected {integer} integer alignment exceptions ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer})`
+ =================== 
+Template: `Kernel detected {integer} integer alignment exceptions ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer}) iar {hex}, dear {hex} ({integer})`
+ =================== 
+Template: `ciod: Error loading {file_path}: invalid or missing program image, {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: invalid or missing program image, {error_message}`
+ =================== 
+Template: `1 ddr error(s) detected and corrected on rank {rank}, symbol {symbol} over {time} seconds`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected over {time} seconds`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: invalid or missing program image, {error_message}`
+ =================== 
+Template: `ciod: Error loading {file_path}: invalid or missing program image, {error_message}`
+ =================== 
+Template: `{} ddr error(s) detected and corrected on rank {}, symbol {} over {} seconds`
+ =================== 
+Template: `ciod: LOGIN chdir({directory}) failed: {error}`
+ =================== 
+Template: `ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed`
+ =================== 
+Template: `ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed`
+ =================== 
+Template: `{} ddr error(s) detected and corrected on rank {}, symbol {} over {} seconds`
+ =================== 
+Template: `ciod: Error loading {file_path}: {error_message}`
+ =================== 
+Template: `critical input interrupt (unit={unit} bit={bit}): warning for torus z+ wire, suppressing further interrupts of same type`
+ =================== 
+Template: `{} ddr error(s) detected and corrected on rank {}, symbol {} over {} seconds`
+ =================== 
+Template: `{} ddr error(s) detected and corrected on rank {}, symbol {} over {} seconds`
+ =================== 
+Template: `ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed`
+ =================== 
+Template: `ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected over {time} seconds`
+ =================== 
+Template: `ciod: pollControlDescriptors: Detected the {debugger_status}.`
+ =================== 
+Template: `{} L{} EDRAM error(s) (dcr {}) detected and corrected over {} seconds`
+ =================== 
+Template: `total of {count} ddr error(s) detected and corrected over {time} seconds`
+ =================== 
+Template: `ciod: pollControlDescriptors: Detected the {debugger_status}.`
+ =================== 
+Template: `ciod: generated {num} core files for program {program}`
+ =================== 
+Template: `ciod: Error loading {file_path}: program image too big, {size} > {max_size}`
+ =================== 
+Template: `fpr29={hex} {hex} {hex} {hex}`
+ =================== 
+Template: `Machine State Register: {register_value}`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `instruction cache {error_type} corrected`
+ =================== 
+Template: `ciod: generated {num} core files for program {program}`
+ =================== 

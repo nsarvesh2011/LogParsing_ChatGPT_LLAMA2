@@ -1,0 +1,246 @@
+,EventTemplate,Occurrences
+0,Running task <*> in stage <*> (TID <*>),298
+1,Got assigned task <*>,295
+2,Finished task <*> in <*>. <*> bytes result sent to driver,224
+3,local,87
+4,"total = <*>, boot = -<*>, init = <*>, finish = <*>",87
+5,Found block <*> locally,83
+6,Found block <*>,71
+7,<*>,65
+8,computing it,59
+9,total = <*> boot = -<*> init = <*> finish = <*>,53
+10,"total = <*>, boot = <*>, init = <*>, finish = <*>",43
+11,"bytes in memory (estimated size <*> B, free <*> KB)",37
+12,Finished task <*> in <*>. <*> result sent to driver,31
+13,Started reading broadcast variable <*>,30
+14,What is the template of the input log?,25
+15,total=<*> boot=<*> init=<*> finish=<*>,23
+16,bytes in memory,23
+17,Finished task <*> in <*> (<*>) result sent to driver,19
+18,"bytes in memory (estimated size <*> KB, free <*> KB)",18
+19,Finished task <*> in <*>. <*>,18
+20,Please enter a template for the log message:,17
+21,total = <*>,17
+22,Found block locally,16
+23,log,13
+24,"({""estimatedSize"": ""<*> B"", ""freeSpace"": ""<*> KB""})",10
+25,finish,9
+26,Reading broadcast variable <*>,9
+27,total = <*> boot = <*> init = <*> finish = <*>,8
+28,{<*>},7
+29,": The size of the input log file, which is",6
+30,<*> KB,6
+31,Finished task <*> in <*> (result sent to driver),6
+32,Reading broadcast variable <*> took <*> ms,5
+33,Backticks delimited output:,4
+34,Reading <*> took <*> ms,4
+35,<*>-<*>-<*> <*>,4
+36,Reading <*>,4
+37,init = <*>,4
+38,times_total = <*>,4
+39,Please provide a template to extract the corresponding variables.,4
+40,finish = <*>,4
+41,{<*>} {<*>},3
+42,total = 41boot = 19init = 22finish = <*>,3
+43,total = 41boot = 16init = 25finish = <*>,3
+44,total = 40boot = 19init = 21finish = <*>,3
+45,total = 41boot = 17init = 24finish = <*>,3
+46,total = 40boot = 20init = 20finish = <*>,3
+47,init,3
+48,total = 39boot = 18init = 21finish = <*>,3
+49,: __________________ Enter a placeholder for,3
+50,$ <*>,3
+51,total = 40boot = 15init = 25finish = <*>,3
+52,total = 43boot = 15init = 27finish = <*>,3
+53,view acls: <*>,2
+54,authentication disabled; ui acls disabled;,2
+55,total,2
+56,"times_total = <*>, times_boot = -<*>, times_init = <*>, times_finish = <*>",2
+57,total = 41boot = 20init = 21finish = <*>,2
+58,total = 40boot = 26init = 14finish = <*>,2
+59,total = 39boot = 20init = 19finish = <*>,2
+60,total = 41boot = -82init = 123finish = <*>,2
+61,total = 41boot = 23init = 18finish = <*>,2
+62,Running task <*> in stage <*>,2
+63,total = 41boot = 18init = 23finish = <*>,2
+64,total = 40boot = 18init = 22finish = <*>,2
+65,"({""size"": <*>,""free"": <*>})",2
+66,total = 41boot = 21init = 20finish = <*>,2
+67,Input split: hdfs://<*>:9000/pjhe/logs/<*>.log:<*>+<*>,2
+68,"({""estimatedSize"": <*>,""freeMemory"": <*>})",2
+69,total = 39boot = 23init = 16finish = <*>,2
+70,total = 39boot = 15init = 24finish = <*>,2
+71,total = 40boot = 14init = 26finish = <*>,2
+72,times_finish = <*>,2
+73,"times_total = <*>, times_boot = <*>, times_init = <*>, times_finish = <*>",2
+74,total = 41boot = 15init = 25finish = <*>,2
+75,stopped,1
+76,Starting remoting,1
+77,Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-<*>],1
+78,Successfully started service 'sparkExecutorActorSystem' on port <*>.,1
+79,MemoryStore started with capacity <*> GB,1
+80,spark://<*>,1
+81,driver_name=<*>&license_number=<*>,1
+82,<*>-<*>-<*> <*> <*> mesos-slave-<*>,1
+83,Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port <*>.,1
+84,Server created on <*>,1
+85,Trying to register <*>,1
+86,Registered BlockManager,1
+87,{<*>} {<*>} {<*>},1
+88,block broadcast_9 stored as values in memory estimated size <*> KB free <*> KB,1
+89,Block broadcast_8 stored as values in memory,1
+90,"mapred.tip.id is deprecated. Instead, use mapreduce.task.id",1
+91,mapreduce.task.attempt.id,1
+92,mapreduce.task.ismap,1
+93,"mapred.job.id is deprecated. Instead, use mapreduce.job.id",1
+94,"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition",1
+95,block broadcast_0_piece0,1
+96,Block broadcast_0 stored as values in memory,1
+97,"block broadcast_4_piece0 stored as bytes in memory (estimated size <*> B, free <*> KB)",1
+98,Block broadcast_4,1
+99,"block broadcast_3_piece0 stored as bytes in memory (estimated size <*> B, free <*> KB)",1
+100,Block broadcast_3 stored as values in memory,1
+101,"block broadcast_1_piece0 stored as bytes in memory (<*> B, <*> KB)",1
+102,Block broadcast_1 stored as values in memory,1
+103,"block broadcast_2_piece0 stored as bytes in memory (estimated size <*> B, free <*> KB)",1
+104,Block broadcast_2 stored as values in memory,1
+105,total = 41boot = 15init = 26finish = <*>,1
+106,total = 40boot = 7init = 33finish = <*>,1
+107,Finished task <*> in stage <*>. <*> bytes result sent to driver,1
+108,Running task <*> in <*>,1
+109,Reading broadcast variable <*> took <*>,1
+110,block broadcast_11_piece0,1
+111,block broadcast_11 stored values in memory estimated size <*> KB free <*> KB,1
+112,block broadcast_12 stored as values in memory estimated size <*> KB free <*> KB,1
+113,total = 40boot = 5init = 35finish = <*>,1
+114,block broadcast_13 stored as values in memory,1
+115,total = 40boot = -129init = 169finish = <*>,1
+116,block broadcast_14_piece0,1
+117,block broadcast_14 stored as values in memory estimated size <*> KB free <*> KB,1
+118,block broadcast_15_piece0,1
+119,block broadcast_16_piece0,1
+120,block broadcast_16 stored values in memory estimated size <*> KB free <*> KB,1
+121,Partition rdd_11_0,1
+122,Partition rdd_11_4,1
+123,Partition rdd_11_3,1
+124,Partition,1
+125,total = 41boot = 28init = 13finish = <*>,1
+126,block broadcast_17_piece0,1
+127,block broadcast_17 stored as values in memory,1
+128,block broadcast_18_piece0,1
+129,block broadcast_18 stored values in memory estimated size <*> KB free <*> KB,1
+130,Running <*> in <*>,1
+131,block broadcast_19_piece0,1
+132,total = 40boot = -127init = 167finish = <*>,1
+133,block broadcast_20 stored as values in memory,1
+134,total = 39boot = 22init = 17finish = <*>,1
+135,block broadcast_21_piece0,1
+136,block broadcast_21 stored values in memory estimated size <*> KB free <*> KB,1
+137,block broadcast_22 stored as values in memory estimated size <*> KB free <*> KB,1
+138,block broadcast_23_piece0,1
+139,block broadcast_24 stored as values in memory,1
+140,total = 41boot = -98init = 139finish = <*>,1
+141,total = 40boot = 17init = 23finish = <*>,1
+142,block broadcast_25_piece0,1
+143,block broadcast_25 stored as values in memory,1
+144,block broadcast_27_piece0,1
+145,block broadcast_27 stored values in memory estimated size <*> KB free <*> KB,1
+146,block broadcast_28 stored as values in memory,1
+147,block broadcast_29_piece0,1
+148,block broadcast_29 stored as values in memory,1
+149,block broadcast_30 stored as values in memory,1
+150,total = 41boot = -58init = 98finish = <*>,1
+151,block broadcast_31 stored as values in memory,1
+152,total = 41boot = -84init = 125finish = <*>,1
+153,total = 39boot = 21init = 18finish = <*>,1
+154,block broadcast_32 stored values in memory,1
+155,block broadcast_33 stored as values in memory,1
+156,Saved output of task 'attempt_201706092018_0024_m_000002_998',1
+157,to hdfs://10.<*>:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000001,1
+158,attempt_201706092018_0024_m_000004_1026,1
+159,attempt_201706092018_0024_m_000002_998: Committed,1
+160,attempt_201706092018_0024_m_000003_1012,1
+161,attempt_201706092018_0024_m_000001_984,1
+162,attempt_201706092018_0024_m_000000_970,1
+163,template is used to extract these placeholders and print them on the output. Note: The input,1
+164,total = 40boot = -400init = 440finish = <*>,1
+165,attempt_201706092018_0024_m_000044_1129: Committed,1
+166,attempt_201706092018_0024_m_000043_1128: Committed,1
+167,attempt_201706092018_0024_m_000040_1125,1
+168,Saved output of task 'attempt_201706092018_0024_m_000042_1127',1
+169,attempt_201706092018_0024_m_000042_1127,1
+170,attempt_201706092018_0024_m_000041_1126,1
+171,attempt_201706092018_0024_m_000083_1138,1
+172,. Output:,1
+173,attempt_201706092018_0024_m_000084_1141,1
+174,attempt_201706092018_0024_m_000080_1135,1
+175,hdfs://10.<*>:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000082,1
+176,attempt_201706092018_0024_m_000082_1137,1
+177,attempt_201706092018_0024_m_000081_1136,1
+178,attempt_201706092018_0024_m_000124_1151,1
+179,Output:,1
+180,attempt_201706092018_0024_m_000120_1145,1
+181,to hdfs://10.<*>:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000121,1
+182,attempt_201706092018_0024_m_000122_1147,1
+183,attempt_201706092018_0024_m_000121_1146,1
+184,attempt_201706092018_0024_m_000160_1155,1
+185,total = 38boot = -45init = 83finish = <*>,1
+186,attempt_201706092018_0024_m_000163_1158,1
+187,attempt_201706092018_0024_m_000164_1159,1
+188,total = 37boot = -54init = 91finish = <*>,1
+189,total = 37boot = -62init = 99finish = <*>,1
+190,attempt_201706092018_0024_m_000162_1157,1
+191,to hdfs://10.<*>:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000161,1
+192,attempt_201706092018_0024_m_000161_1156,1
+193,block broadcast_34 stored as values in memory,1
+194,<*> <*>,1
+195,attempt_201706092018_0025_m_000003_1198: Committed,1
+196,attempt_201706092018_0025_m_000000_1166,1
+197,attempt_201706092018_0025_m_000002_1194: Committed,1
+198,attempt_201706092018_0025_m_000001_1180: Committed,1
+199,started reading broadcast variable,1
+200,block broadcast_37 stored values in memory estimated size <*> KB free <*> KB,1
+201,Block broadcast_36 stored as values in memory,1
+202,Expected output:,1
+203,total = 65boot = 10init = 45finish = <*>,1
+204,total = 45boot = 19init = 26finish = <*>,1
+205,total = 41boot = 24init = 17finish = <*>,1
+206,Input split: hdfs://<*>:9000/pjhe/logs/<*>.log:<*>,1
+207,total = 48boot = 8init = 35finish = <*>,1
+208,total = 48boot = 10init = 33finish = <*>,1
+209,total = 40boot = 22init = 18finish = <*>,1
+210,Please enter a template for the input log:,1
+211,total = 49boot = 16init = 28finish = <*>,1
+212,total = 38boot = 16init = 22finish = <*>,1
+213,total = 43boot = 23init = 19finish = <*>,1
+214,total = 47boot = 5init = 37finish = <*>,1
+215,"({""estimatedSize"": <*>,""freeSpace"": <*>})",1
+216,total = 48boot = 5init = 38finish = <*>,1
+217,total = 38boot = 34init = 4finish = <*>,1
+218,total = 46boot = 16init = 25finish = <*>,1
+219,total = 50boot = 6init = 39finish = <*>,1
+220,total = 43boot = 17init = 25finish = <*>,1
+221,total = 47boot = 17init = 23finish = <*>,1
+222,total = 41boot = 9init = 31finish = <*>,1
+223,total = 48boot = 17init = 25finish = <*>,1
+224,total = 40boot = 24init = 16finish = <*>,1
+225,total = 40boot = 13init = 27finish = <*>,1
+226,block broadcast_38_piece0,1
+227,block broadcast_38 stored as values in memory,1
+228,total = 40boot = 26init = 13finish = <*>,1
+229,total = 43boot = 13init = 29finish = <*>,1
+230,total = 40boot = 10init = 29finish = <*>,1
+231,total = 41boot = 35init = 5finish = <*>,1
+232,total = 41boot = 34init = 6finish = <*>,1
+233,total = 40boot = -27init = 66finish = <*>,1
+234,total = 41boot = -24init = 64finish = <*>,1
+235,total = 41boot = -15init = 55finish = <*>,1
+236,total = 41boot = 31init = 9finish = <*>,1
+237,block broadcast_39_piece0,1
+238,total = 40boot = 16init = 24finish = <*>,1
+239,total = 40boot = 21init = 19finish = <*>,1
+240,total = 39boot = 19init = 20finish = <*>,1
+241,total = 40boot = 27init = 13finish = <*>,1
+242,Started reading <*>,1
+243,block broadcast_40 stored as values in memory,1
+244,total = 41boot = 27init = 14finish = <*>,1

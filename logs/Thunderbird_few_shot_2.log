@@ -1,0 +1,4108 @@
+Expected output: `session closed ({user})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo $(echo "$(logmessage)" | awk '{print $2}')`
+
+Note: The output will be a log message delimited by backticks, and you must abstract variables with `{placeholders}` to extract the corresponding template.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo $(echo "$(logmessage)" | awk '{print $2}')`
+
+Note: The output will be a log message delimited by backticks, and you must abstract variables with `{placeholders}` to extract the corresponding template.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo $(echo "$(logmessage)" | awk '{print $2}')`
+
+Note: The output will be a log message delimited by backticks, and you must abstract variables with `{placeholders}` to extract the corresponding template.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo $(echo "$(logmessage)" | awk '{print $2}')`
+
+Note: The output will be a log message delimited by backticks, and you must abstract variables with `{placeholders}` to extract the corresponding template.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo $(echo "$(logmessage)" | awk '{print $2}')`
+
+Note: The output will be a log message delimited by backticks, and you must abstract variables with `{placeholders}` to extract the corresponding template.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo $(echo "$(logmessage)" | awk '{print $2}')`
+
+Note: The output will be a log message delimited by backticks, and you must abstract variables with `{placeholders}` to extract the corresponding template.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo $(echo "$(logmessage)" | awk '{print $2}')`
+
+Note: The output will be a log message delimited by backticks, and you must abstract variables with `{placeholders}` to extract the corresponding template.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo $(echo "$(logmessage)" | awk '{print $2}')`
+
+Note: The output will be a log message delimited by backticks, and you must abstract variables with `{placeholders}` to extract the corresponding template.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo $(echo "$(logmessage)" | awk '{print $2}')`
+
+Note: The output will be a log message delimited by backticks, and you must abstract variables with `{placeholders}` to extract the corresponding template.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo $(echo "$(logmessage)" | awk '{print $2}')`
+
+Note: The output will be a log message delimited by backticks, and you must abstract variables with `{placeholders}` to extract the corresponding template.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo $(echo "$(logmessage)" | awk '{print $2}')`
+
+Note: The output will be a log message delimited by backticks, and you must abstract variables with `{placeholders}` to extract the corresponding template.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo $(echo "$(logmessage)" | awk '{print $2}')`
+
+Note: The output will be a log message delimited by backticks, and you must abstract variables with `{placeholders}` to extract the corresponding template.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo $(echo "$(logmessage)" | awk '{print $2}')`
+
+Note: The output will be a log message delimited by backticks, and you must abstract variables with `{placeholders}` to extract the corresponding template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo $(echo "$(logmessage)" | awk '{print $2}')`
+
+Note: The output will be a log message delimited by backticks, and you must abstract variables with `{placeholders}` to extract the corresponding template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `connection {'service': 'lost'}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Output: `qualifying ({domain_name})`.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Output: `qualifying ({domain})`.
+ =================== 
+Output: `qualifying ({domain_name})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `qualifying ({domain_name})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Output: `to=root, ctladdr=root (0/0), delay=00:00:03, xdelay=00:00:00, mailer=relay, pri=1623894, relay=[{placeholders}], dsn=4.0.0, stat=Deferred: Connection refused by {placeholders}`
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `qualifying ({domain_name})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+What is the output?
+```
+DHCPACK ({service}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)
+```
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `DHCPREQUEST ({ip}): unknown lease {lease}.`
+ =================== 
+Output: `DHCPREQUEST ({ip}): unknown lease {lease}.`
+ =================== 
+Output: `DHCPREQUEST ({ip}): unknown lease {lease}.`
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+What is the output?
+```
+DHCPACK ({service}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)
+```
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+What is the output?
+```
+DHCPOFFER ({service}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)
+```
+ =================== 
+What is the output?
+```
+DHCPOFFER ({service}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)
+```
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `DHCPREQUEST ({ip}): unknown lease {lease}.`
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `DHCPREQUEST ({ip}): unknown lease {lease}.`
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `DHCPREQUEST ({ip}): unknown lease {lease}.`
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+What is the output?
+```
+DHCPACK ({service}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)
+```
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+What is the output?
+```
+DHCPOFFER ({service}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)
+```
+ =================== 
+What is the output?
+```
+DHCPOFFER ({service}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)
+```
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `DHCPREQUEST ({ip}): unknown lease {lease}.`
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `DHCPREQUEST ({ip}): unknown lease {lease}.`
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `DHCPREQUEST ({ip}): unknown lease {lease}.`
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the abstracted variables for the given log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Output: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the output of the following command:
+```bash
+echo "$LOG_MESSAGE" | awk -F'`` '{print $2}'
+```
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the template delimited by backticks.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the output?
+```
+removing ftp
+```
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the output?
+```
+removing ftp
+```
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the output?
+```
+removing ftp
+```
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the output?
+```
+removing ftp
+```
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the output?
+```
+removing ftp
+```
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Output: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `My {service} ({host}) unknown; sleeping for retry`.
+ =================== 
+Expected output: `My {service} ({host}) unknown; sleeping for retry`.
+ =================== 
+Expected output: `My {service} ({host}) unknown; sleeping for retry`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `My {service} ({host}) unknown; sleeping for retry`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `My {service} ({host}) unknown; sleeping for retry`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+What is the output?
+```
+(supports {placeholders})
+```
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `IRQ0 ({placeholders})`.
+ =================== 
+Expected output: `IRQ2 ({placeholders})`.
+ =================== 
+Expected output: `IRQ{9}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the output of the following command:
+```
+echo $(sed -n 's/.*\(PCI Interrupt Routing Table \).*//g' /var/log/messages)
+```
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the abstracted variables.
+ =================== 
+Please provide the abstracted variables.
+ =================== 
+Please provide the abstracted variables.
+ =================== 
+Please provide the abstracted variables.
+ =================== 
+Please provide the abstracted variables.
+ =================== 
+Please provide the abstracted variables.
+ =================== 
+Please provide the abstracted variables.
+ =================== 
+Please provide the abstracted variables.
+ =================== 
+Please provide the abstracted variables.
+ =================== 
+Please provide the abstracted variables.
+ =================== 
+Please provide the abstracted variables.
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the abstracted variables.
+ =================== 
+Note: The placeholders are case-sensitive, so make sure to use the correct casing when replacing them with your variables.
+ =================== 
+Please provide the extracted template.
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the abstracted template.
+ =================== 
+Please provide the abstracted template.
+ =================== 
+Please provide the abstracted template.
+ =================== 
+Please provide the abstracted template.
+ =================== 
+Please provide the abstracted template.
+ =================== 
+What is the output?
+```
+Trace cache: {placeholders}
+```
+ =================== 
+What is the output?
+```
+Trace cache: {placeholders}
+```
+ =================== 
+What is the output?
+```
+Trace cache: {placeholders}
+```
+ =================== 
+What is the output?
+```
+Trace cache: {placeholders}
+```
+ =================== 
+What is the output?
+```
+Trace cache: {placeholders}
+```
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `Disabling {service}`.
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command: `echo "$LOG_MESSAGE" | awk -F '```' '{print $2}'`
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `removing {service}`
+ =================== 
+Please provide the extracted template.
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the output of the following command:
+```
+echo "$log_message" | awk -F'`` '{print $2}'
+```
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `RNG ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please help me to extract the template of the log message.
+ =================== 
+Please help me to extract the template of the log message.
+ =================== 
+Please help me to extract the template of the log message.
+ =================== 
+Please help me to extract the template of the log message.
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `autorun ({placeholders})`
+ =================== 
+Expected output: `autorun ({placeholders})`
+ =================== 
+Please provide the output of the log message template.
+ =================== 
+Please provide the output of the log message template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+What is the output?
+```
+RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)
+```
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the output of the following command:
+```
+echo "$LOG_MESSAGE" | awk -F'`` '{print $2}'
+```
+ =================== 
+Output: `startup ({service})`.
+ =================== 
+Expected output: `startup ({service})`.
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the output of the template extraction.
+ =================== 
+Please provide the abstracted variables from the log message.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the corresponding template.
+ =================== 
+What is the output?
+```
+ Registering {module}
+```
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `connection ({service})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the output of the template delimited by backticks.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+What is the output?
+```
+Now running on {placeholders} privileges.
+```
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `connection {'service': 'lost'}`.
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the output you want.
+ =================== 
+Note: The log message may contain placeholders for variables, which will be replaced with actual values when the template is rendered.
+ =================== 
+Please provide the output you want.
+ =================== 
+Please provide the output you want.
+ =================== 
+Note: The log message may contain placeholders for variables, which will be replaced with actual values when the template is rendered.
+ =================== 
+Note: The log message may contain placeholders for variables, which will be replaced with actual values when the template is rendered.
+ =================== 
+Please provide the log message delimited by backticks.
+ =================== 
+Please provide the log message delimited by backticks.
+ =================== 
+Please provide the log message delimited by backticks.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message delimited by backticks.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Expected output: ` Warning: we failed to resolve data source name {data_source}`.
+ =================== 
+Expected output: `connection ({service})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Output: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`
+ =================== 
+Output: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`
+ =================== 
+Output: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the input log's template delimited by backticks.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message template delimited by backticks.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message template delimited by backticks.
+ =================== 
+Please provide the log message delimited by backticks.
+ =================== 
+Please provide the log message delimited by backticks.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message template delimited by backticks.
+ =================== 
+Please provide the log message template delimited by backticks.
+ =================== 
+Please provide the log message delimited by backticks.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Output: ` Warning: we failed to resolve {placeholders}`.
+ =================== 
+Expected output: `startup ({service})`.
+ =================== 
+What is the output?
+```
+Now running on {placeholders} privileges.
+```
+ =================== 
+Please provide the output of the template delimited by backticks.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+What is the template of the log message?
+ =================== 
+Output: `not allocating {service} for non-ethernet device {device}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `error ({port}): Address already in use.`
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the abstracted variables from the log message.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the template of the log message.
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `removing {service}`
+ =================== 
+Expected output: `removing {service}`
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the abstracted variables.
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)`
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Output: `qualifying ({domain_name})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Output: `qualifying ({domain_name})`.
+ =================== 
+Output: `qualifying ({domain})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `qualifying ({domain_name})`.
+ =================== 
+Output: `qualifying ({domain_name})`.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `session closed ({user})`.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `connection {'service': 'lost'}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+What is the template of the log message?
+
+Note: The log message may contain placeholders for variables that are not explicitly mentioned in the question.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any {datasource}`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.
+ =================== 
+Output: `No configuration change required ({placeholders})`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `data_thread({datasource}) got not answer from any`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 

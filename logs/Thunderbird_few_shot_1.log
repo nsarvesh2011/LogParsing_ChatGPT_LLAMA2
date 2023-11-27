@@ -1,0 +1,4004 @@
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {hour} via cron`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {hour} via cron`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {hour} via cron`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {hour} via cron`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {hour} via cron`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {hour} via cron`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {hour} via cron`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {hour} via cron`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {hour} via cron`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {hour} via cron`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {hour} via cron`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {hour} via cron`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {hour} via cron`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {hour} via cron`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `Local disconnected: Connection closed from {placeholders}.`
+ =================== 
+Expected output: `connection lost: {'Connection closed.'}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Output: `unable to qualify {domain_name} -- using short name`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Output: `unable to qualify {domain_name} -- using short name`
+ =================== 
+Output: `unable to qualify {domain_name} -- using short name`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Output: `unable to qualify {domain_name} -- using short name`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Output: `unable to qualify {domain_name} -- using short name`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1`
+ =================== 
+Expected output: `DHCPOFFER from {address} via eth1`.
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Output: `DHCPACK from {address} via eth1`.
+ =================== 
+Expected output: `DHCPREQUEST from {address} via eth1`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Output: `DHCPREQUEST from {address} via eth1: unknown lease {lease}.`
+ =================== 
+Output: `DHCPREQUEST from {address} via eth1: unknown lease {lease}.`
+ =================== 
+Output: `DHCPREQUEST from {address} via eth1: unknown lease {lease}.`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Output: `DHCPACK from {address} via eth1`.
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1`
+ =================== 
+Expected output: `DHCPOFFER from {address} via eth1`.
+ =================== 
+Expected output: `DHCPOFFER from {address} via eth1`.
+ =================== 
+Expected output: `DHCPREQUEST from {address} via eth1`.
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Output: `DHCPREQUEST from {address} via eth1: unknown lease {lease}.`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Output: `DHCPREQUEST from {address} via eth1: unknown lease {lease}.`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Output: `DHCPREQUEST from {address} via eth1: unknown lease {lease}.`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Output: `DHCPACK from {address} via eth1`.
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1`
+ =================== 
+Expected output: `DHCPOFFER from {address} via eth1`.
+ =================== 
+Expected output: `DHCPOFFER from {address} via eth1`.
+ =================== 
+Expected output: `DHCPREQUEST from {address} via eth1`.
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Output: `DHCPREQUEST from {address} via eth1: unknown lease {lease}.`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Output: `DHCPREQUEST from {address} via eth1: unknown lease {lease}.`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1: network {network} no free leases`
+ =================== 
+Output: `DHCPREQUEST from {address} via eth1: unknown lease {lease}.`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Output: `RD_update ({address}/var/lib/ganglia/rrds/{node}/pkts_out.rrd): illegal attempt to update using time {time} when last update time is {last_time} (`
+
+Note that the backticks are used to enclose the variables in the output, so you must use them in the correct position in the template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `kernel time sync disabled via eth0`
+ =================== 
+Expected output: `time reset {timestamp}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Output: `RRD_update ({address}/var/lib/ganglia/rrds/D Nodes/{node_name}/pkts_out.rrd): illegal attempt to update using time {time} when last update time is {last_update_time} (minimum one second step)`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Note: The `#` characters are used to indicate that they are part of the log message, not part of the output.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Output: `RRD_update ({address}/var/lib/ganglia/rrds/D Nodes/{node_name}/pkts_out.rrd): illegal attempt to update using time {time} when last update time is {last_update_time} (minimum one second step)`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Output: `RRD_update ({address}) via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Output: `RRD_update ({time}) illegal attempt to update using {time} when last update time is {last_time} (minimum one second step)`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `synchronized to {stratum} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Note: The log messages may contain other information such as timestamps, hostnames, and IP addresses, but for this challenge, we will focus on extracting the template from the given log message.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Output: `RRD_update ({time}) illegal attempt to update using {time} when last update time is {last_time} (minimum one second step)`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {address} via eth1`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {address} via eth1`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {address} via eth1`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+ =================== 
+Expected output: `CMD from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Output: `RRD_update ({address}/var/lib/ganglia/rrds/D Nodes/{node_name}/pkts_out.rrd): illegal attempt to update using time {time} when last update time is {last_update_time} (minimum one second step)`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `My unqualified host name ({address}) unknown; sleeping for retry`.
+ =================== 
+Expected output: `My unqualified host name ({unqualified_host_name}) unknown; sleeping for retry`.
+ =================== 
+Expected output: `My unqualified host name ({unqualified_host_name}) unknown; sleeping for retry`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `My unqualified host name ({unqualified_host_name}) unknown; sleeping for retry`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `My unqualified host name ({unqualified_host_name}) unknown; sleeping for retry`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template depending on the input.
+ =================== 
+Expected output: `S0 S4 S5`
+ =================== 
+Expected output: `DSDT from {address} via eth1`.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Expected output: `HPET from {address} via eth1`.
+ =================== 
+Expected output: `HPET id: {base}`
+ =================== 
+Note: The log messages may contain non-printable characters, so you must use the appropriate escaping mechanisms to handle them correctly.
+ =================== 
+Note: The log messages may contain placeholders for variables, such as `{address}`, `{bus}`, `{bus_irq}`, `{global_irq}`, and `{high level}`.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Expected output: `IRQ0 used by {override}.`
+ =================== 
+Expected output: `IRQ2 used by {override}.`
+ =================== 
+Expected output: `IRQ9 used by {override}.`
+ =================== 
+Note: The log messages may vary based on your environment and configuration.
+ =================== 
+Expected output: `LAPIC from 0x01 via eth1`
+ =================== 
+Expected output: `LAPIC from 0x02 via eth1`
+ =================== 
+Expected output: `LAPIC from 0x03 via eth1`
+ =================== 
+Expected output: `LAPIC from 0x04 via eth1`
+ =================== 
+Expected output: `LAPIC_NMI from 0x01 via eth1`
+ =================== 
+Expected output: `LAPIC_NMI from 0x02 via eth1`
+ =================== 
+Expected output: `LAPIC_NMI from 0x03 via eth1`
+ =================== 
+Expected output: `LAPIC_NMI from 0x04 via eth1`
+ =================== 
+Expected output: `Local APIC address {address}`
+ =================== 
+Expected output: `MADT from {address} via eth1`.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Note: The placeholders are case-sensitive, so make sure to use the correct casing for the variables you want to extract.
+ =================== 
+Note: The log messages may contain other information such as timestamps, hostnames, etc. that are not relevant to this challenge. Please only focus on the template part enclosed by backticks.
+ =================== 
+Note: The log messages may contain other information such as timestamps, hostnames, etc. that are not relevant to this challenge. Please only focus on the template part enclosed by backticks.
+ =================== 
+Expected output: `PCI Interrupt Routing Table from {pci_interrupt_routing_table} via eth1`
+ =================== 
+Expected output: `PCI Interrupt Routing Table from {pci_interrupt_routing_table} via eth1`
+ =================== 
+Note: The log messages may contain other information such as timestamps, hostnames, etc. that are not relevant to this challenge. Please only focus on the template part enclosed by backticks.
+ =================== 
+Note: The log messages may contain other information such as timestamps, hostnames, etc. that are not relevant to this challenge. Please focus only on the template part enclosed by backticks.
+ =================== 
+Note: The input log messages may contain non-printable characters, so you must use a raw string literal to pass the log message as a string to the template.
+ =================== 
+Note: The log messages may contain other information such as timestamps, hostnames, etc. that are not relevant to this challenge. Please only focus on the template part enclosed by backticks.
+ =================== 
+Note: The log messages may contain other information such as timestamps, hostnames, etc. that are not relevant to this challenge. Please only focus on the template part enclosed by backticks.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template accordingly.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the extracted template.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template to match the actual format of the log message.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template to match the actual format of the log message.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template depending on the input.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template depending on the input.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template depending on the input.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The placeholders are case-sensitive, so make sure to use the correct casing for the variables you want to extract.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The output will be a string, so please use the appropriate method to print it.
+ =================== 
+Note: The output will be a string, so please use the appropriate method to print it.
+ =================== 
+Note: The log message is not a template, it's just a plain text message.
+ =================== 
+Note: The log message is not a template, it's just a plain text message.
+ =================== 
+Note: The log message is not a template, it's just a plain text message.
+ =================== 
+Note: The log message is not a template, it's just a plain text message.
+ =================== 
+Note: The log message is not a template, it's just a plain text message.
+ =================== 
+Expected output: `VGA+ from {address}`
+ =================== 
+Expected output: `mounted filesystem with {ordered_data_mode}.`
+ =================== 
+Expected output: `mounted filesystem with {ordered_data_mode}.`
+ =================== 
+Expected output: `mounted filesystem with {ordered_data_mode}.`
+ =================== 
+Please provide the extracted template in the format of `template = {placeholders}`.
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1`.
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1`.
+ =================== 
+Expected output: `DHCPDISCOVER from {address} via eth1`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `PCI Hot Plug PCI Core version: {version}`
+ =================== 
+What is the template of the log message?
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The log messages may vary in format and content, so you should be prepared to handle different types of templates.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template depending on the input.
+ =================== 
+Note: The log messages may contain other information, such as timestamps or hostnames, but for this challenge, you only need to extract the IP address.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template depending on the log message you receive.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Input: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1`
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Expected output: `Disabled at runtime from {address} via eth1`.
+ =================== 
+Note: The log messages are not guaranteed to be in any particular format, and may contain placeholders for variables that you will need to replace with actual values.
+ =================== 
+Note: The log message may contain placeholders for variables, such as `{placeholders}` or `{timestamp}`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template depending on the input.
+ =================== 
+Note: The log message may contain placeholders for variables, such as `{placeholders}` or `{{placeholders}}`, which you must replace with the corresponding template to extract the desired information.
+ =================== 
+Expected output: `Hash tables configured ({established} {bind})`
+ =================== 
+Expected output: `Direct-Access ANSI SCSI revision: {revision}`.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Expected output: `Disk quotas {dquot_6.5.1}`
+ =================== 
+Expected output: `Mounted root ({filesystem}).`
+ =================== 
+Please provide the extracted template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template accordingly.
+ =================== 
+Input: `initializing netlink socket (disabled)`
+
+Output: `initializing netlink socket via eth0`
+ =================== 
+Expected output: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1`
+ =================== 
+Expected output: `4.1.0-ioctl from {address}`.
+ =================== 
+Output: `allocating divert_blk for {address} via eth0`
+ =================== 
+Note: The log messages may contain placeholders for variables, such as `{address}`, `{port}`, etc. You must abstract these placeholders to extract the corresponding template.
+ =================== 
+Output: `not allocating {device} for non-ethernet device lo`
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template depending on the input.
+ =================== 
+Expected output: `eth0: {e1000_probe} via eth0`.
+ =================== 
+Expected output: `eth0: {nic_link} is Up {speed} Mbps Full Duplex`.
+ =================== 
+Expected output: `eth1: {e1000_probe}`
+ =================== 
+Expected output: `no floppy controllers found from {placeholders}`
+ =================== 
+Expected output: `RNG not detected from {rng_address} via eth1`
+ =================== 
+Expected output: `Wait for ready from {placeholders}`
+ =================== 
+Expected output: `Wait for ready from {placeholders}`
+ =================== 
+Expected output: `Wait for ready from {placeholders}`
+ =================== 
+Expected output: `Wait for ready from {placeholders}`
+ =================== 
+Expected output: `Wait for ready from {placeholders}`
+ =================== 
+Expected output: `Wait for ready from {placeholders}`
+ =================== 
+Note: The log messages may contain placeholders for variables, such as `{address}`, which you must replace with the corresponding template to extract the variable.
+ =================== 
+Output: `Unknown cmd {address} cmd(80081272) on /dev/sda`
+ =================== 
+Input: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1`
+ =================== 
+Input: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1`
+ =================== 
+Input: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1`
+ =================== 
+Input: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1`
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Expected output: `autorun DONE. from {address} via eth1`
+ =================== 
+Expected output: `autorun DONE. from {address} via eth1`
+ =================== 
+Expected output: `Autodetecting RAID arrays from {placeholders}.`
+ =================== 
+Expected output: `Autodetecting RAID arrays from {placeholders}.`
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template accordingly.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template accordingly.
+ =================== 
+Expected output: `MAX_MD_DEVS=256, MD_SB_DISKS=27`
+ =================== 
+Expected output: `Release Date: {date}`
+ =================== 
+Note: The `{}` are placeholders for the variables that you need to extract from the log message.
+ =================== 
+Note: The log messages may contain placeholders for variables, which you must replace with actual values to create a valid template.
+ =================== 
+Expected output: `probe new device {address} via bus 2:slot 14:func 0`.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Input: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1`
+ =================== 
+Expected output: `rpc.statd startup succeeded from {placeholders}`
+ =================== 
+Expected output: `portmap startup succeeded from {placeholders}`
+ =================== 
+Expected output: `Starting ts_fixup: succeeded from {placeholders}`
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template accordingly.
+ =================== 
+Note: The log message may contain multiple lines, but you must provide a single answer for the entire log message.
+ =================== 
+Output: `scanning {channel} [Phy {phy}] for non-raid devices`
+ =================== 
+Note: The placeholders are case-sensitive, so make sure to use the correct casing when replacing them with their corresponding values.
+ =================== 
+Expected output: `asking for cache data failed from {cache_data}`
+ =================== 
+Expected output: `assuming drive cache: {write_through}`
+ =================== 
+Note: The placeholders are case-sensitive, so make sure to use the correct casing for the variables you want to extract.
+ =================== 
+Note: The output will be a string, so please do not use `print()` or any other function that modifies the original variable.
+ =================== 
+Please provide the output of the template extraction.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `syslog-ng startup succeeded from 00:11:43:e3:ba:c3 via eth1`
+ =================== 
+Expected output: `syslog-ng version {version} starting`
+ =================== 
+Expected output: `Detected {processor}`
+ =================== 
+Expected output: `Using {timer_frequency} MHz HPET timer.`
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The placeholders are case-sensitive, so make sure to use the correct casing for the variables you want to extract.
+ =================== 
+Note: The log messages may contain other information such as timestamps, hostnames, and so on. This challenge is focused solely on extracting the template from the log message.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Expected output: `usbhid from {driver_name} via eth1`
+ =================== 
+Expected output: `probe of {error_code} failed with error -6`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Note: The `#` characters are used to indicate that a variable should be replaced with its value.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `User {#29#}, coming from {#30#}, authenticated.`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `Now running on {placeholders} privileges.`
+ =================== 
+Expected output: `Local disconnected: Connection closed from {placeholders}.`
+ =================== 
+Expected output: `connection lost: {'Connection closed.'}`
+ =================== 
+Expected output: `Mounting NFS filesystems: {mount_points}`
+ =================== 
+Expected output: `Mounting other filesystems from {mount_point} via {interface}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the log message you want to extract the template from.
+ =================== 
+Please provide the log message you want to extract the template from.
+ =================== 
+Please provide the input log message.
+ =================== 
+Note: The log message may contain multiple lines, but you must provide a single response for the entire log message.
+ =================== 
+Note: The log message may contain multiple lines, so please make sure to extract the template from all lines.
+ =================== 
+Note: The log message may contain multiple lines, but you should only extract the template from the first line of the log message.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Note: The log message may contain multiple lines, but you should only process the first line of the log message.
+ =================== 
+Note: The log message may contain multiple lines, but you must provide a single answer for the entire log message.
+ =================== 
+Input: `Warning: we failed to resolve data source name bn14 bn15 bn16 bn17 bn18 bn19 bn20 bn21 bn22 bn23 bn24 bn25 bn26 bn27 bn28 bn29 bn30 bn31 bn32 bn33 bn34 bn35 bn36 bn37 bn38 bn39 bn40 bn41 bn42 bn43 bn44 bn45 bn46 bn47 bn48 bn49 bn50 bn51 bn52 bn53 bn54 bn55 bn56 bn57 bn58 bn59 bn6
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Input: `Warning: we failed to resolve data source name bn398 bn399 bn400 bn401 bn402 bn403 bn404 bn405 bn406 bn407 bn408 bn409 bn410 bn411 bn412 bn413 bn414 bn415 bn416 bn417 bn418 bn419 bn420 bn421 bn422 bn423 bn424 bn425 bn426 bn427 bn428 bn429 bn430 bn431 bn432 bn433 bn434 bn
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Output: `DHCPDISCOVER from {address} via eth1`
+ =================== 
+Expected output: `Warning: we failed to resolve data source name `{datasourcename}``.
+ =================== 
+Note: The `#` characters are used to indicate that a variable should be replaced with its value.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Output: `RD_update ({address}/var/lib/ganglia/rrds/{node}/pkts_out.rrd): illegal attempt to update using time {time} when last update time is {last_time} (`
+ =================== 
+Output: `RRD_update ({address}) via eth1`
+ =================== 
+Expected output: `RD_update from {time} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Output: `DHCPDISCOVER from {address} via eth1`
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Input: `Warning: we failed to resolve data source name dn398 dn399 dn400 dn401 dn402 dn403 dn404 dn405 dn406 dn407 dn408 dn409 dn410 dn411 dn412 dn413 dn414 dn415 dn416 dn417 dn418 dn419 dn420 dn421 dn422 dn423 dn424 dn425 dn426 dn427 dn428 dn429 dn430 dn431 dn432 dn433 dn434 dn
+ =================== 
+Output: `DHCPDISCOVER from {address} via eth1`
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Please provide the log message you want to extract the template from, and I will help you with that.
+ =================== 
+Expected output: `Warning: we failed to resolve {trusted_host_name} via eth1`
+ =================== 
+Expected output: `startup succeeded from {placeholders}`
+ =================== 
+Expected output: `Now running on {placeholders} privileges.`
+ =================== 
+Expected output: `User {#29#}, coming from {#30#}, authenticated.`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Note: The log messages may vary in format and content, so you must be flexible in your approach.
+ =================== 
+Output: `not allocating {device} for non-ethernet device sit0`
+ =================== 
+Input log: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1`
+ =================== 
+Expected output: `Server listening on {port} via eth0`.
+ =================== 
+Expected output: `error: Bind to {port} on 0.0.0.0 failed: Address already in use.`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `Cannot open file {file} for writing (No such file or directory)`
+ =================== 
+Note: The log messages may contain placeholders for variables, such as `{address}`, which you must replace with the corresponding value to extract the template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Input log: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1`
+ =================== 
+Expected output: `xinetd startup succeeded from {placeholders}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`.
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`.
+ =================== 
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Expected output: `Started working: {available_service}`.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template accordingly.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template accordingly.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template accordingly.
+ =================== 
+Note: The log messages are not always in the same format, so you may need to adjust the template accordingly.
+ =================== 
+Expected output: `removing {echo}`
+ =================== 
+Expected output: `removing {echo}`
+ =================== 
+Note: The log messages may contain placeholders for variables, such as `{address}`, `{placeholders}` etc.
+ =================== 
+Note: The log messages may contain placeholders for variables, such as `address`, `port`, and `via`. You must abstract these placeholders to extract the corresponding template.
+ =================== 
+Note: The log messages may contain placeholders for variables, such as `address`, `port`, etc. You must abstract these placeholders to extract the corresponding template.
+ =================== 
+Note: The log messages may contain placeholders for variables, such as `{placeholders}` or `{{placeholders}}`, which you must replace with the corresponding template to extract the desired information.
+ =================== 
+Note: The log messages may contain placeholders for variables, such as `{address}`, `{port}`, etc. You must abstract these placeholders to extract the corresponding template.
+ =================== 
+Note: The log messages may contain placeholders for variables, such as `address`, `port`, etc. You must abstract these placeholders to extract the corresponding template.
+ =================== 
+Note: The log messages are not always in the format you expect, so be prepared to handle different formats.
+ =================== 
+Note: The log messages may contain placeholders for variables, such as `{address}`, `{port}`, etc. You must abstract these placeholders to extract the corresponding template.
+ =================== 
+Input: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1`
+ =================== 
+Input: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1`
+ =================== 
+Please provide the template of the log message.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Output: `RRD_update ({address}) via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Output: `unable to qualify {domain_name} -- using short name`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Output: `unable to qualify {domain_name} -- using short name`
+ =================== 
+Output: `unable to qualify {domain_name} -- using short name`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Output: `unable to qualify {domain_name} -- using short name`
+ =================== 
+Output: `unable to qualify {domain_name} -- using short name`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `session closed for {user}`
+ =================== 
+What is the template of the log message?
+ =================== 
+What is the template of the log message?
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `Local disconnected: Connection closed from {placeholders}.`
+ =================== 
+Expected output: `connection lost: {'Connection closed.'}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `Device: {temperature} via eth1`.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `NEW SWEEP from {address} via eth1`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Expected output: `No topology change from {address} via eth1`
+ =================== 
+Expected output: `No configuration change required from {address} via eth1`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Expected output: `data_thread() got not answer from any {datasources}`
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 
+Please provide the corresponding template.
+ =================== 

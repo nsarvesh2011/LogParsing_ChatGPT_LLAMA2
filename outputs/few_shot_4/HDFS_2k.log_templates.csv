@@ -1,0 +1,140 @@
+,EventTemplate,Occurrences
+0,PacketResponder {block} terminating,311
+1,BLOCK* NameSystem.addStoredBlock: {path} updated: {ip_address} is added to {block} size {size},80
+2,Received block {block} of size {size} from {path},30
+3,Receiving block {block} src: {src_path} dest: {dest_path},275
+4,"Note: The log messages are not always in the same format, and some may have additional information or different syntax.",181
+5,BLOCK* NameSystem.allocateBlock: {path} {block},115
+6,Received block {block} of size {size} from {source},171
+7,BLOCK* NameSystem.addStoredBlock: {path} updated: {ip_address}:{port} is added to {block} size {size},24
+8,BLOCK* NameSystem.addStoredBlock: {ip_address} is added to {block} size {size},22
+9,Received block {block} of size {size} from {ip_address}.,10
+10,Verification succeeded for {block},18
+11,Receiving block {path} src: {src_ip} dest: {dest_ip},13
+12,"Note: The log messages are not always in the same format, and some may have different templates.",51
+13,"Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.",29
+14,Deleting block {block} file {path},263
+15,10.251.194.213:Got exception while serving {block} to {destination}:,1
+16,Served block {block} to {path},14
+17,Served block {block} to {destination}:,9
+18,10.250.{5|7}.*:50010 Served block {block} to {destination},1
+19,10.251.30.85,2
+20,10.251.{126|91}:Got exception while serving {block} to {destination}:,1
+21,10.251.71.68:Got exception while serving {block} to {destination}:,1
+22,10.251.{123|38}:Got exception while serving {block} to {destination}:,1
+23,10.250.13.188,2
+24,10.251.214.32:Got exception while serving {block} to {destination}:,1
+25,10.251.199.19,1
+26,10.250.9.207:Got exception while serving {block} to {destination}:,1
+27,10.251.202.134:Got exception while serving {block} to {destination}:,1
+28,10.250.{6|8}.{2|3}Got exception while serving {block} to {destination}:,1
+29,10.250.14.196:Got exception while serving {block} to {destination}:,2
+30,"10.251.{10,107}.227:Got exception while serving {block} to {destination}:",1
+31,10.251.203.166:Got exception while serving {block} to {destination}:,1
+32,10.251.90.64,1
+33,10.250.10.{144}:Got exception while serving {block} to {destination}:,1
+34,10.251.71.146:Got exception while serving {block} to {destination}:,1
+35,10.251.67.113:Got exception while serving {block} to {destination}:,1
+36,10.251.74.:Got exception while serving {block} to {destination}:,1
+37,10.251.214.112:Got exception while serving {path} to {destination}:,1
+38,10.251.{111|42}.80:Got exception while serving {block} to {destination}:,1
+39,10.251.{number}:Got exception while serving {path} to {destination}:,5
+40,10.251.{126|39}.255:Got exception while serving {block} to {destination}:,1
+41,10.251.73.220:Got exception while serving {block} to {destination}:,1
+42,10.251.73.188,1
+43,10.251.{90|110}:Got exception while serving {path} to {destination}:,1
+44,Receiving block {block} src: {src} dest: {destination},4
+45,Please note that the templates may vary based on the log format and the placeholders in the input log message.,1
+46,BLOCK* NameSystem.addStoredBlock: {path} updated: {ip_address}:50010 is added to {block} size {size},14
+47,BLOCK* NameSystem.addStoredBlock: {block_map} updated: {ip_address} is added to {path} size {size},2
+48,BLOCK* NameSystem.delete: {path} is added to invalidSet of {ip_address}:50010,171
+49,10.251.67.225,1
+50,10.251.{ip_address}:Got exception while serving {path} to {destination}:,2
+51,10.251.26.8:Got exception while serving {block} to {destination}:,1
+52,10.251.71.97:Got exception while serving {block} to {destination}:,2
+53,10.:Served block {block} to {destination}:,17
+54,10.251.{215|50}:50010 Served block {block} to {destination},1
+55,10.251.{3-9}:50010:Served block {block} to {destination},1
+56,10.251.66.102:Got exception while serving {block} to {destination}:,2
+57,10.251.{90|199}:Served block {block} to {destination},1
+58,10.251.75.228,1
+59,10.251.{number}:Got exception while serving {path} to {destination},2
+60,10.251.{214|112}:50010 Served block {block} to {destination},1
+61,10.251.123.99:Got exception while serving {block} to {destination}:,1
+62,10.251.{111|214}.{5}:Got exception while serving {block} to {destination},1
+63,10.250.11.194:Got exception while serving {block} to {destination}:,2
+64,10.250.10.{ip_address}:Served block {block} to {destination},1
+65,10.:Got exception while serving {block} to {destination}:,2
+66,10.251.26.8,2
+67,10.250.19.227:Got exception while serving {block} to {destination}:,1
+68,10.251.123.1:Got exception while serving {block} to {destination}:,1
+69,10.251.90.239,1
+70,10.251.31.5,1
+71,10.250.17.225,1
+72,10.251.215.70:Got exception while serving {block} to {destination}:,1
+73,"10.251.{10,19}:50010 Served block {block} to {destination}",1
+74,10.250.15.198:Got exception while serving {block} to {destination}:,1
+75,10.251.198.33:Got exception while serving {block} to {destination}:,1
+76,10.250.19.227,1
+77,10.251.70.112,1
+78,10.251.215.16:Got exception while serving {block} to {destination}:,1
+79,10.250.10.{176}:50010 Served block {blk_} to {/10.251.29.{239}},1
+80,"10.251.{10,122}:Got exception while serving {block} to {destination}:",1
+81,10.251.111.209:Got exception while serving {block} to {destination}:,1
+82,10.251.70.211,1
+83,10.:Served block {block} to {path},1
+84,10.251.126.22,1
+85,10.251.70.211:Got exception while serving {block} to {destination}:,1
+86,10.251.125.193:Got exception while serving {block} to {destination}:,1
+87,10.251.107.50:Got exception while serving {block} to {destination}:,2
+88,BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}:50010,39
+89,BLOCK* NameSystem.delete: {block} is added to invalidSet of {ip_address}:{port},3
+90,Received block {block} of size {size} from {path}.,1
+91,10.250.11.53:Got exception while serving {block} to {destination}:,2
+92,10.251.70.5,1
+93,10.251.74.79,1
+94,10.251.42.246:Got exception while serving {block} to {destination}:,1
+95,"10.251.{4,5}:Got exception while serving {block} to {destination}:",1
+96,10.251.71.240,1
+97,10.251.122.38,1
+98,10.251.67.225:Got exception while serving {block} to {destination}:,1
+99,10.251.197.226,1
+100,10.251.26.177,1
+101,10.251.39.179,2
+102,10.250.10.{...}:Served block {block} to {destination},1
+103,10.251.123.132:Got exception while serving {block} to {destination}:,1
+104,10.251.203.149:Got exception while serving {block} to {destination}:,1
+105,10.251.{126|31}:Got exception while serving {path} to {destination}:,1
+106,10.251.70.37,1
+107,10.251.214.130:Got exception while serving {block} to {destination}:,1
+108,10.251.30.101:Got exception while serving {block} to {destination}:,1
+109,10.251.195.33:Got exception while serving {block} to {destination}:,1
+110,10.251.{194|111}.{50010}:Served block {block} to {destination},1
+111,10.250.10.223,1
+112,10.250.10.223:Got exception while serving {block} to {destination}:,1
+113,Served block {block} to {destination},2
+114,10.251.{127|215}:Got exception while serving {path} to {destination}:,1
+115,BLOCK* NameSystem.delete: {path} is added to invalidSet of {ip_address}:{port},1
+116,10.250.15.101:Got exception while serving {block} to {destination}:,1
+117,Starting thread to transfer {block} to {destination}:,1
+118,BLOCK* NameSystem.deleteBlock: {path} {block},2
+119,BLOCK* NameSystem.addStoredBlock: {block_map} updated: {ip_address}:{port} is added to {path} size {size},1
+120,10.251.202.181:Got exception while serving {block} to {destination}:,1
+121,10.251.75.143:Got exception while serving {block} to {destination}:,1
+122,10.251.126.227:Got exception while serving {block} to {destination}:,1
+123,"10.251.{123,197}:Served block {block} to {destination}",1
+124,10.250.7.230,1
+125,10.251.90.64:Got exception while serving {block} to {destination}:,1
+126,"10.251.{2,3}.{1,4}:Got exception while serving {path} to {destination}:",1
+127,10.:Served {block} to {destination},1
+128,10.251.39.{ip_address}:Got exception while serving {path} to {destination}:,1
+129,10.250.7.32,1
+130,10.251.107.98,1
+131,10.250.14.143:Got exception while serving {block} to {destination}:,1
+132,Please note that the templates may vary based on the input log message.,1
+133,Received block {block} src: {src} dest: {dest} of size {size},1
+134,Please provide the log message delimited by backticks.,1
+135,Please provide the log message template delimited by backticks.,1
+136,BLOCK* ask 10.250.14.38:50010 to replicate {path} to datanode(s) 10.251.122.38:50010,1
+137,Received block {block} src: {src_path} dest: {dest_path} of size {size},1
+138,\n,1

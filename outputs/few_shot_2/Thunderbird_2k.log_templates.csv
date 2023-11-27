@@ -1,0 +1,79 @@
+,EventTemplate,Occurrences
+0,session closed ({user}),24
+1,What is the template of the log message?,76
+2,{placeholders},14
+3,data_thread({datasource}) got not answer from any,788
+4,Please provide the extracted template.,733
+5,"Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.",62
+6,No configuration change required ({placeholders}),62
+7,connection {'service': 'lost'},3
+8,data_thread({datasource}) got not answer from any {datasource},31
+9,qualifying ({domain_name}),8
+10,Please provide the template of the log message.,52
+11,qualifying ({domain}),2
+12,"to=root, ctladdr=root (0/0), delay=00:00:03, xdelay=00:00:00, mailer=relay, pri=1623894, relay=[{placeholders}], dsn=4.0.0, stat=Deferred: Connection refused by {placeholders}",1
+13,"
+DHCPACK ({service}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)
+",3
+14,DHCPREQUEST ({ip}): unknown lease {lease}.,9
+15,"
+DHCPOFFER ({service}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)
+",4
+16,RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step),11
+17,Please provide the abstracted variables for the given log message.,1
+18," '{print $2}'
+",3
+19,Please provide the output of the template delimited by backticks.,3
+20,"
+removing ftp
+",5
+21,My {service} ({host}) unknown; sleeping for retry,5
+22,"
+(supports {placeholders})
+",1
+23,IRQ0 ({placeholders}),1
+24,IRQ2 ({placeholders}),1
+25,IRQ{9},1
+26,Please provide the corresponding template.,10
+27,"
+echo $(sed -n 's/.*\(PCI Interrupt Routing Table \).*//g' /var/log/messages)
+",1
+28,Please provide the abstracted variables.,13
+29,"Note: The placeholders are case-sensitive, so make sure to use the correct casing when replacing them with your variables.",1
+30,Please provide the abstracted template.,5
+31,"
+Trace cache: {placeholders}
+",5
+32,Disabling {service},1
+33,' '{print $2}',1
+34,removing {service},3
+35,RNG ({placeholders}),1
+36,Please help me to extract the template of the log message.,4
+37,autorun ({placeholders}),2
+38,Please provide the output of the log message template.,2
+39,"
+RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step)
+",1
+40,startup ({service}),3
+41,Please provide the output of the template extraction.,1
+42,Please provide the abstracted variables from the log message.,2
+43,"
+ Registering {module}
+",1
+44,connection ({service}),2
+45,"
+Now running on {placeholders} privileges.
+",2
+46,Please provide the output you want.,3
+47,"Note: The log message may contain placeholders for variables, which will be replaced with actual values when the template is rendered.",3
+48,Please provide the log message delimited by backticks.,7
+49,"Please provide the log message you want to extract the template from, and I will help you with that.",12
+50, Warning: we failed to resolve data source name {data_source},1
+51,Please provide the input log's template delimited by backticks.,1
+52,Please provide the log message template delimited by backticks.,4
+53, Warning: we failed to resolve {placeholders},1
+54,not allocating {service} for non-ethernet device {device},1
+55,error ({port}): Address already in use.,1
+56,"What is the template of the log message?
+
+Note: The log message may contain placeholders for variables that are not explicitly mentioned in the question.",1

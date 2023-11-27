@@ -1,0 +1,324 @@
+,EventTemplate,Occurrences
+0,user_name{placeholders} session_id{placeholders} reason{placeholders},24
+1,session opened for {user} by ({uid=0}),19
+2,({{placeholders}}),14
+3,{placeholders},122
+4,{Thunderbird_B8},31
+5,data_thread() got not answer from any {Thunderbird_C5} datasource,30
+6,10.100.20.250,188
+7,10.100.28.250,35
+8,10.100.24.250,18
+9,{Thunderbird_B7},30
+10,10.100.16.250,84
+11,data_thread() got not answer from any {Thunderbird_A4} datasource,31
+12,{Thunderbird_B4},31
+13,data_thread() got not answer from any {Thunderbird_C8} datasource,30
+14,10.100.18.250,86
+15,NEW SWEEP,62
+16,10.100.26.250,21
+17,{Thunderbird_B3},30
+18,{{input}},64
+19,10.100.22.250,100
+20,No topology change,62
+21,No configuration change required,62
+22,data_thread() got not answer from any {Thunderbird_A1} datasource,30
+23,data_thread() got not answer from any {Thunderbird_C2} datasource,30
+24,data_thread() got not answer from any {Thunderbird_A3} datasource,31
+25,data_thread() got not answer from any {Thunderbird_A5} datasource,31
+26,{Thunderbird_A6},30
+27,Local disconnected: Connection closed.,3
+28,'Connection closed.',3
+29,{Thunderbird_B6},31
+30,data_thread() got not answer from any {Thunderbird_C1} datasource,30
+31,{Thunderbird_C4},31
+32,data_thread() got not answer from any {Thunderbird_D7} datasource,30
+33,{Thunderbird_A7},29
+34,{Thunderbird_B5},30
+35,data_thread() got not answer from any {Thunderbird_D4} datasource,30
+36,{Thunderbird_C6},30
+37,unable to qualify {input},10
+38,<200511091901.jA9J1UvC004306@eadmin1>,1
+39,How do you extract the template from this log message?,5
+40,data_thread() got not answer from any {Thunderbird_A2} datasource,30
+41,"from=root, size=1594553, class=0, nrcpts=1, msgid=",1
+42,"from=root, size=1593894, class=0, nrcpts=1, msgid=<200511091901.jA9J1WSU011176@badmin1>, relay=",1
+43,"from=root, size=1597080, class=0, nrcpts=1, msgid=",2
+44,What is the template of the input log message?,3
+45,DHCPDISCOVER from {placeholders},5
+46,DHCPOFFER on {placeholders} to {placeholders} via {placeholders},5
+47,"from=root, size=1595423, class=0, nrcpts=1, msgid=",1
+48,A_net,15
+49,DHCPACK on {placeholders} via eth1,3
+50,DHCPREQUEST for {placeholders} via {interface},3
+51,START: tftp pid=16563 from=10.100.4.251,1
+52,DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.,9
+53,10.100.30.250,10
+54,10.100.14.250,7
+55,10.100.12.250,7
+56,"
+Output: ",5
+57,kernel time sync disabled {0041},1
+58,time reset +{0.182379},1
+59,DN{731}Pkts_out.rrd,2
+60,Received {34} packets,1
+61,10.100.10.250,8
+62,LOCAL(0),1
+63,kernel time sync enabled {0001},1
+64,#3#,1
+65,({placeholders}),3
+66,(root) CMD (/projects/tbird/temps/get_temps {a}),1
+67,'(root) CMD (/projects/tbird/temps/get_temps b)',1
+68,c,1
+69,d,1
+70,'(root) CMD (/projects/tbird/temps/get_temps e),1
+71,) unknown; sleeping for retry,1
+72,aadmin1,1
+73,) unknown;,2
+74,sleeping for retry,1
+75,gpg_key,1
+76,S0 S4 S5,1
+77,DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000,1
+78,FADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd6b0,1
+79,HPET (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd81c,1
+80,HPET id: 0xffffffff base: 0xfed00000,1
+81,INT_SRC_OVR,1
+82,"INT_SRC_OVR {bus=0, bus_irq=9, global_irq=9, high=level}",1
+83,address[0xfec00000],1
+84,address[0xfec80000],1
+85,address[0xfec83000],1
+86,IRQ0 used by override.,1
+87,IRQ2 used by override.,1
+88,IRQ9 used by override.,1
+89,Interpreter enabled,1
+90,0x01 0x00 enabled,1
+91,0x02 0x06,1
+92,0x03 0x01 enabled,1
+93,0x04 0x07,1
+94,0x,1
+95,0x1,3
+96,0xfee00000,1
+97,MADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd724,1
+98,MCFG (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd854,1
+99,PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 7 10 11 12),1
+100,3 4 5 6 7 10 *11 12,1
+101,PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 7 10 11 12),1
+102,PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 7 10 11 12),1
+103,PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 7 10 11 12),1
+104,PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 7 10 11 12),1
+105,PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 7 10 11 12),1
+106,PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 7 10 11 12),1
+107,PCI Interrupt Routing Table {placeholders},10
+108,PCI Root Bridge {placeholders},1
+109,0000:00:02.0,1
+110,0000:00:04.0,1
+111,0000:00:05.0{A},1
+112,0000:00:06.0,1
+113,0000:02:0e.0,2
+114,"0000:06:07.0{A} -> GSI 64 (level, low) -> IRQ 185",2
+115,"0000:07:08.0{A} -> GSI 65 (level, low) -> IRQ 193",2
+116,0000:09:0d.0{A},1
+117,Power Button {PWRF},1
+118,Processor {CPU0} (supports C1),1
+119,Processor {CPU1} (supports {C1}),1
+120,Processor {CPU2} (supports {C1}),1
+121,Processor {CPU3} (supports {C1}),1
+122,RSDP (v000 {placeholders}) @ 0x00000000000fd650,1
+123,RSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd664,1
+124,MSFT 0x0100000a,1
+125,Subsystem revision {revision},1
+126,Using {IOAPIC} for interrupt routing,1
+127,Intel(R) Xeon(TM) CPU 3.60GHz stepping 03,1
+128,L2 cache: {2048K},5
+129,0,3
+130,3,2
+131, Trace cache: {uops} L1 D cache: {dcache},5
+132,VGA+ {80}x{25},1
+133,ordered_data_mode,3
+134,sys_ia32.c,1
+135,"apic_id {8}, version {32}, address {0x{fec00000}}, GSI {0-23}",1
+136,"9,version,address,GSI",1
+137,"10,32,0x{fec83000},64-87",1
+138,1024Kbytes,1
+139,PCI Hot Plug PCI Core version: 0.5,1
+140,What is the template of the input log?,1
+141, Registered protocol family {family},1
+142,16,1
+143,17,1
+144,family 2,1
+145,),1
+146,bus 00,1
+147,Transparent bridge - 0000:00:1e.0,1
+148,Using {ACPI_IRQ_ROUTING},1
+149,e0000000,1
+150,Using configuration type {configuration_type},1
+151,Compressed image,1
+152,Disabled at runtime{placeholders},1
+153,Initializing.{name},1
+154, Registering netfilter hooks,1
+155,"{""start_time"": ""2023-03-14T15:00:00Z"", ""end_time"": ""2023-03-14T16:00:00Z""}",1
+156,hook_name,1
+157,"
+{placeholders}
+",1
+158,02,2
+159,root {placeholders},1
+160,MegaRAID Model: {placeholders} RAID1 139G Rev: {placeholders},1
+161,PE/PV Model: 1x2 SCSI BP Rev: 1.0,1
+162,initialized,1
+163,")
+",1
+164,4.1.0-ioctl,1
+165,allocating divert_blk for {input},1
+166,allocating divert_blk for {eth1},1
+167,not allocating divert_blk for {placeholders},2
+168,USB HID core driver,1
+169,Intel(R) PRO/1000 Network Connection,2
+170,eth0:e1000_watchdog:NIC Link is Up 1000 Mbps Full Duplex,1
+171,no floppy controllers found,1
+172,RNG_not_detected,1
+173,Wait for ready failed before probe !,6
+174,Assuming 33MHz system bus speed for PIO modes; override with idebus=128,1
+175,cmd fd(5) cmd(80081272),1
+176,"(""C"") 2000-2002 Netfilter core team",4
+177,Installing {key_data} data,1
+178,DONE,2
+179,RAID arrays.,2
+180,autorun {name}: John {age}: 30 {city}: New York,2
+181,"MAX_MD_DEVS=256, MD_SB_DISKS=27",1
+182,Fri Dec 10 19:02:14 EST 2004,1
+183,Mon Sep 27 22:15:07 EDT 2004,1
+184,version:516A bios:H418,1
+185,0x1028:0x0013:0x1028:0x016c,1
+186,common for all mice,1
+187,startup succeeded,3
+188,succeeded,4
+189,Version 1.0.6 Starting,1
+190,driver_name={LSI Logic MegaRAID},1
+191,scanning 0 [Phy 0] for non-raid devices,1
+192,scanning {scsi_channel_1},1
+193,asking for cache data failed,1
+194,write through,1
+195,sda1{input}sda2{input}sda3{input}sda4{input},1
+196,{{module_name}} {{capability}},1
+197,"0x60,0x64",2
+198,syslog-ng{placeholders},1
+199,syslog-ng version 1.6.7 starting,1
+200,3591.360 MHz,1
+201,Using {HPET_timer},1
+202,HPET_YEAR=2023 HPET_MONTH=3 HPET_DAY=14 HPET_HOUR=15 HPET_MINUTE=23 HPET_SECOND=45,1
+203,Creating /dev entries,1
+204,hiddev,1
+205,new,1
+206,usbfs,1
+207,usbhid,1
+208,failed with error -6,1
+209,"connection from ""#28#""",2
+210,"User 29#, coming from 30#, authenticated.",2
+211,Now running on {user_id} privileges.,2
+212,failed,1
+213,an3,2
+214,data source name,4
+215,an270 an271 an272 an273 an274 an275 an276 an277 an278 an279 an280 an281 an282 an283 an284 an285 an286 an287 an288 an289 an290 an291 an292 an293 an294 an295 an296 an297 an298 an299 an300,1
+216,Input: `an654 an655 an656 an657 an658 an659 an660 an661 an662 an663 an664 an665 an666 an667 an668 an669 an670 an671 an672 an673 an674 an675 an676 an677 an678 an679 an680 an681 an682 an683 an684 an685 an686 an687 an688 an689 an690 an691 an692 an693 an694 an695 an696 an697 an698 an699 an700 an701 an702,1
+217,an782,1
+218,{{ bn14 }},1
+219,bn164,1
+220,bn270,1
+221,Input: `bn398 bn399 bn400 bn401 bn402 bn403 bn404 bn405 bn406 bn407 bn408 bn409 bn410 bn411 bn412 bn413 bn414 bn415 bn416 bn417 bn418 bn419 bn420 bn421 bn422 bn423 bn424 bn425 bn426 bn427 bn428 bn429 bn430 bn431 bn432 bn433 bn434 bn435 bn436 bn,1
+222,bn548,1
+223,"
+This will output ",2
+224,"{{""Warning: we failed to resolve data source name ""}}dadmin2{{"" dadmin3 dadmin4""}}",1
+225,CN{776}Pkts_out.rrd,1
+226,data_thread() got not answer from any {Thunderbird_D2} datasource,1
+227,bn804,1
+228,bn910,1
+229,"You will see a list of 103 variables, each with a name and a value. The values are the actual data that was tried to be resolved but failed.",1
+230,"
+Warning: we failed to resolve data source name
+",2
+231,"
+Expected output: ",1
+232,"
+Expected output:
+",1
+233,variable: {template},1
+234,cn782,1
+235,"Abstraction:
+```
+{cn910} {cn911} {cn912} {cn913} {cn914} {cn915} {cn916} {cn917} {cn918} {cn919} {cn920} {cn921} {cn922} {cn923} {cn924} {cn925} {cn926} {cn927} {cn928} {cn929} {cn930} {cn931} {cn932} {cn933} {cn934} {cn935} {cn936} {cn937} {cn938} {cn939} {cn940} {cn941}",1
+236,"You will see a list of 100 variables, each with a name and a value. The values are separated by spaces.
+
+Your task is to write a Python script that reads the log message and prints out the corresponding template for each variable.
+
+For example, if the log message is:
+```
+Warning: we failed to resolve data source name dn14 dn15 dn16 dn17 dn18 dn19 dn20 dn21 dn22 dn23 dn24 dn25 dn26 dn27 dn28 dn29 dn30 dn31 dn32 dn33 dn34 dn35 dn36 dn37 dn38 dn39 dn40 dn41 dn42 dn43 dn44",1
+237,"You will see a list of 216 data sources, each with a name and a warning message. The output should be a single line containing the template for all the warning messages, with placeholders for the data source names.",1
+238,Input: `Warning: we failed to resolve data source name {dn270} {dn271} {dn272} {dn273} {dn274} {dn275} {dn276} {dn277} {dn278} {dn279} {dn280} {dn281} {dn282} {dn283} {dn284} {dn285} {dn286} {dn287} {dn288} {dn289} {dn290} {dn291} {dn292} {dn293} {dn294} {dn295} {dn296} {dn297} {dn298} {dn299} {dn300} {,1
+239,log message,1
+240,{{ dn526 }},1
+241,data_source_name,1
+242,"Note: The log message may contain placeholders for variables, which should be replaced with the actual values.",1
+243, Warning: we failed to resolve trusted host name {dadmin3} {dadmin4},1
+244,10,1
+245,Server listening on 22 port {placeholders}.,1
+246,error: Bind to port 22 on 0.0.0.0 failed: Address already in use.,1
+247,/dev/logsurfer,1
+248,Changing permissions on special file {placeholders},1
+249,xinetd succeeded,1
+250,Reading included configuration file: /etc/xinetd.d/chargen [file=/etc/xinetd.conf] [line=15] {content},1
+251,Reading included configuration file: /etc/xinetd.d/chargen-udp,1
+252,/etc/xinetd.d/cups-lpd,1
+253,"
+{file=""/etc/xinetd.d/daytime""}
+",1
+254,"
+/etc/xinetd.d/daytime-udp
+",1
+255,Reading included configuration file: /etc/xinetd.d/echo,1
+256,/etc/xinetd.d/echo-udp,1
+257,"
+/etc/xinetd.d/eklogin
+",1
+258,"
+{input}
+",2
+259,Reading included configuration file: {file}/{line},1
+260,"
+/etc/xinetd.d/kshell
+",1
+261,/etc/xinetd.d/ktalk,1
+262,"
+/etc/xinetd.d/rsync
+",1
+263,"
+/etc/xinetd.d/tftp
+",1
+264,"{{""Reading included configuration file:""}} {{ ""/etc/xinetd.d/time"" }} {{ ""[file=""}} {{ ""/etc/xinetd.d/time"" }} {{""]}}",1
+265,/etc/xinetd.d/time-udp,1
+266,Started working: 1 available service,1
+267,remove {input},3
+268,removing daytime {daytime},2
+269,removing echo {name} {age},2
+270,remove {eklogin},1
+271,ftp_remove {file} {path},1
+272,remove {ntalk},1
+273,HP LaserJet P1005,1
+274,remove {rsync},1
+275,removing telnet,1
+276,{{time}},2
+277,libwrap loadavg options compiled in,1
+278,10.100.8.250,2
+279,"from=root, size=629060, class=0, nrcpts=1, msgid=",1
+280,"from=root, size=1596872, class=0, nrcpts=1, msgid=",1
+281,\[(\w+)\],1
+282,"from=root, size=1593894, class=0, nrcpts=1, msgid=",1
+283,").
+6. You can then use the ",1
+284," button to abstract the variables and display them in a table.
+
+Here's an example of how the filtered log messages might look:
+
+",1
+285,"/dev/sda,Temperature changed -2 Celsius to 26 Celsius since last report",1

@@ -1,0 +1,8072 @@
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `({{placeholders}})`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `({{placeholders}})`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `({{placeholders}})`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `({{placeholders}})`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `({{placeholders}})`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `({{placeholders}})`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `({{placeholders}})`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `({{placeholders}})`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `({{placeholders}})`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `({{placeholders}})`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `({{placeholders}})`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `({{placeholders}})`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `({{placeholders}})`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `({{placeholders}})`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `Local disconnected: Connection closed.`
+ =================== 
+Input: `{{lost_connection}}`
+
+Output: `'Connection closed.'`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `my_own_domain_name`
+
+Output: `unable to qualify {input}` -- using short name
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Input: `jA9J1UvC004306`
+Output: `<200511091901.jA9J1UvC004306@eadmin1>`
+ =================== 
+How do you extract the template from this log message?
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `my_own_domain_name`
+
+Output: `unable to qualify {input}` -- using short name`
+ =================== 
+Input: `my_own_domain_name`
+
+Output: `unable to qualify {input}` -- using short name`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `my_own_domain_name`
+
+Output: `unable to qualify {input}` -- using short name
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Input: `jA9J1Wd7019391`
+
+Output: `from=root, size=1594553, class=0, nrcpts=1, msgid=`
+ =================== 
+How do you extract the template from this log message?
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Input: `jA9J1WSU011176`
+
+Output: `from=root, size=1593894, class=0, nrcpts=1, msgid=<200511091901.jA9J1WSU011176@badmin1>, relay=`
+ =================== 
+How do you extract the template from this log message?
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Input: `jA9J1WFE024258`
+Output: `from=root, size=1597080, class=0, nrcpts=1, msgid=`
+ =================== 
+What is the template of the input log message?
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `my_own_domain_name`
+
+Output: `unable to qualify {input}` -- using short name
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPDISCOVER from {placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPOFFER on {placeholders} to {placeholders} via {placeholders}`
+ =================== 
+Input: `jA9J1dQ7016560`
+
+Output: `from=root, size=1595423, class=0, nrcpts=1, msgid=`
+ =================== 
+How do you extract the template from this log message?
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPACK on {placeholders} via eth1`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPREQUEST for {placeholders} via {interface}`
+ =================== 
+Input: `{{log}}`
+
+Output: `START: tftp pid=16563 from=10.100.4.251`
+ =================== 
+Input: `DHCPREQUEST for {ip} (from {client_ip}) via {interface}: unknown lease {lease}`
+
+Output: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.`
+ =================== 
+Input: `DHCPREQUEST for {ip} (from {client_ip}) via {interface}: unknown lease {lease}`
+
+Output: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.`
+ =================== 
+Input: `DHCPREQUEST for {ip} (from {client_ip}) via {interface}: unknown lease {lease}`
+
+Output: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.`
+ =================== 
+Input: `log`
+
+Output: `10.100.30.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.30.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPACK on {placeholders} via eth1`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPDISCOVER from {placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPDISCOVER from {placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPOFFER on {placeholders} to {placeholders} via {placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPOFFER on {placeholders} to {placeholders} via {placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPREQUEST for {placeholders} via {interface}`
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `DHCPREQUEST for {ip} (from {client_ip}) via {interface}: unknown lease {lease}`
+
+Output: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.`
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `DHCPREQUEST for {ip} (from {client_ip}) via {interface}: unknown lease {lease}`
+
+Output: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.`
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `DHCPREQUEST for {ip} (from {client_ip}) via {interface}: unknown lease {lease}`
+
+Output: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPACK on {placeholders} via eth1`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPDISCOVER from {placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPDISCOVER from {placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPOFFER on {placeholders} to {placeholders} via {placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPOFFER on {placeholders} to {placeholders} via {placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `DHCPREQUEST for {placeholders} via {interface}`
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `DHCPREQUEST for {ip} (from {client_ip}) via {interface}: unknown lease {lease}`
+
+Output: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.`
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `DHCPREQUEST for {ip} (from {client_ip}) via {interface}: unknown lease {lease}`
+
+Output: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.`
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `{{log}}`
+
+Output: `A_net`
+ =================== 
+Input: `DHCPREQUEST for {ip} (from {client_ip}) via {interface}: unknown lease {lease}`
+
+Output: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.30.250`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.30.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.14.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.12.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.14.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+What is the template for the input log?
+```
+{placeholders}
+```
+Output: `C Nodes/cn304/pkts_out.rrd`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.30.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `kernel time sync disabled {0041}`
+ =================== 
+Input: `log_message`
+
+Output: `time reset +{0.182379}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.14.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `RRD_update`
+
+Output: `DN{731}Pkts_out.rrd`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log_message`
+
+Output: `Received {34} packets`
+ =================== 
+Input: `log`
+
+Output: `10.100.30.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+What is the template for the input log?
+```
+{placeholders}
+```
+Output: `Illegal attempt to update using time 1131563117 when last update time is 1131563117 (minimum one second step)`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.12.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+What is the template for the input log?
+```
+{placeholders}
+```
+Output: `Illegal attempt to update using time 1131563149 when last update time is 1131563149 (minimum one second step)`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.12.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.14.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.12.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.10.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `10.100.10.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.14.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `RRD_update`
+
+Output: `DN{731}Pkts_out.rrd`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `LOCAL(0)`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `kernel time sync enabled {0001}`
+ =================== 
+Input: `log`
+
+Output: `#3#`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `RRD_update`
+
+Output: `({placeholders})`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.10.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.10.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.14.250`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.10.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `a`
+
+Output: ```(root) CMD (/projects/tbird/temps/get_temps {a})```
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `'(root) CMD (/projects/tbird/temps/get_temps b)'`.
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{{log}}}`
+
+Output: `c`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{{log}}}`
+
+Output: `d`
+ =================== 
+Expected output: `session opened for {user} by ({uid=0})`
+
+Note: The placeholder names are case-sensitive, so make sure to use the correct casing when replacing them in the template.
+ =================== 
+Input: `{{log}}`
+
+Output: `'(root) CMD (/projects/tbird/temps/get_temps e)`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+What is the template for the input log?
+```
+{placeholders}
+```
+Output: `Illegal attempt to update using time 1131563412 when last update time is 1131563412 (minimum one second step)`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `{{log}}`
+
+Output: `My unqualified host name (`eadmin1`) unknown; sleeping for retry`
+ =================== 
+Input: `host_name`
+
+Output: `aadmin1`
+ =================== 
+Input: `{{log}}`
+
+Output: `My unqualified host name (`badmin1`) unknown;`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `{{log}}`
+
+Output: `My unqualified host name (`cadmin1`) unknown;`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `dadmin1`
+
+Output: ```sleeping for retry```
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `module_name`
+
+Output: `gpg_key`
+ =================== 
+Input: `log_message`
+
+Output: `S0 S4 S5`
+ =================== 
+Input: `DSDT (v001 {placeholders} 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000`
+
+Output: `DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000`
+ =================== 
+Input: `FADT (v{placeholders} DELL PE BKC {placeholders} MSFT {placeholders}) @ {placeholders}`
+
+Output: `FADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd6b0`
+ =================== 
+Input: `HPET (v001 {placeholders}) @ 0x000000000000fd81c`
+
+Output: `HPET (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd81c`
+ =================== 
+Input: `HPET id: {id} base: {base}`
+
+Output: `HPET id: 0xffffffff base: 0xfed00000`
+ =================== 
+Input: `log`
+
+Output: `INT_SRC_OVR`
+ =================== 
+Input: `log`
+
+Output: `INT_SRC_OVR {bus=0, bus_irq=9, global_irq=9, high=level}`
+ =================== 
+Input: `log`
+
+Output: `address[0xfec00000]`
+ =================== 
+Input: `log`
+
+Output: `address[0xfec80000]`
+ =================== 
+Input: `log`
+
+Output: `address[0xfec83000]`
+ =================== 
+Input: `{{log}}`
+
+Output: `IRQ0 used by override.`
+ =================== 
+Input: `{{log}}`
+
+Output: `IRQ2 used by override.`
+ =================== 
+Input: `{{log}}`
+
+Output: `IRQ9 used by override.`
+ =================== 
+Input: `{{log}}`
+
+Output: `Interpreter enabled`
+ =================== 
+Input: `LAPIC (acpi_id[0x01] lapic_id[0x00] enabled)`
+
+Output: `0x01 0x00 enabled`
+ =================== 
+Input: `LAPIC`
+
+Output: `0x02 0x06`
+ =================== 
+Input: `LAPIC (acpi_id[0x03] lapic_id[0x01] enabled)`
+
+Output: `0x03 0x01 enabled`
+ =================== 
+Input: `LAPIC`
+
+Output: `0x04 0x07`
+ =================== 
+Input: `LAPIC_NMI (acpi_id[0x{placeholders}) high edge lint[0x{placeholders})`
+
+Output: `LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])`
+
+Explanation:
+The input log message contains a variable `acpi_id` with value `0x01`, and a variable `lint` with value `0x1`. You must replace these placeholders with the actual values from the input log message.
+
+Constraints:
+
+* The input log message will always contain at least one variable with a value that can be represented as a hexadecimal number (i.e., a string of digits preceded by a `0x`).
+* The input log message will never contain any other characters besides the variables and their values.
+* The placeholders
+ =================== 
+Input: `LAPIC_NMI (acpi_id[0x{placeholders}) high edge lint[0x{placeholders})`
+
+Output: `LAPIC_NMI (acpi_id[0x02] high edge lint[0x1])`
+
+Explanation:
+The input log message contains a variable `acpi_id` with value `0x02`, and a variable `lint` with value `0x1`. You must replace these placeholders with the actual values from the input log message.
+ =================== 
+Input: `LAPIC_NMI (acpi_id[0x{placeholders}) high edge lint[0x{placeholders})`
+
+Output: `LAPIC_NMI (acpi_id[0x03] high edge lint[0x1])`
+
+Explanation:
+The input log message contains a variable `acpi_id` with value `0x03`, and a variable `lint` with value `0x1`. You must replace these placeholders with the actual values from the input log message.
+ =================== 
+Input: `LAPIC_NMI (acpi_id[0x{placeholders}) high edge lint[0x{placeholders})`
+
+Output: `LAPIC_NMI (acpi_id[0x04] high edge lint[0x1])`
+
+Explanation:
+The input log message contains a variable `acpi_id` with value `0x04`, and a variable `lint` with value `0x1`. You must replace these placeholders with the actual values from the input log message.
+ =================== 
+Input: `log`
+
+Output: `0xfee00000`
+ =================== 
+Input: `MADT (v001 {placeholders}) @ 0x000000000000fd724`
+
+Output: `MADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd724`
+ =================== 
+Input: `MCFG (v001 {placeholders}) @ 0x000000000000{placeholder}`
+
+Output: `MCFG (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd854`
+ =================== 
+Input: `{{log}}`
+
+Output: `PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 7 10 11 12)`
+ =================== 
+Input: `log`
+
+Output: `3 4 5 6 7 10 *11 12`
+ =================== 
+Input: `{{log}}`
+
+Output: `PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 7 10 11 12)`
+ =================== 
+Input: `{{log}}`
+
+Output: `PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 7 10 11 12)`
+ =================== 
+Input: `{{log}}`
+
+Output: `PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 7 10 11 12)`
+ =================== 
+Input: `{{log}}`
+
+Output: `PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 7 10 11 12)`
+ =================== 
+Input: `{{log}}`
+
+Output: `PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 7 10 11 12)`
+ =================== 
+Input: `{{log}}`
+
+Output: `PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 7 10 11 12)`
+ =================== 
+Input: `log`
+
+Output: `PCI Interrupt Routing Table {placeholders}`
+ =================== 
+Input: `log`
+
+Output: `PCI Interrupt Routing Table {placeholders}`
+ =================== 
+Input: `log`
+
+Output: `PCI Interrupt Routing Table {placeholders}`
+ =================== 
+Input: `log`
+
+Output: `PCI Interrupt Routing Table {placeholders}`
+ =================== 
+Input: `log`
+
+Output: `PCI Interrupt Routing Table {placeholders}`
+ =================== 
+Input: `log`
+
+Output: `PCI Interrupt Routing Table {placeholders}`
+ =================== 
+Input: `log`
+
+Output: `PCI Interrupt Routing Table {placeholders}`
+ =================== 
+Input: `log`
+
+Output: `PCI Interrupt Routing Table {placeholders}`
+ =================== 
+Input: `log`
+
+Output: `PCI Interrupt Routing Table {placeholders}`
+ =================== 
+Input: `log`
+
+Output: `PCI Interrupt Routing Table {placeholders}`
+ =================== 
+Input: `log`
+
+Output: `PCI Root Bridge {placeholders}`
+ =================== 
+Input: `GSI 16 (level, low)`
+Output: `0000:00:02.0`
+ =================== 
+Input: `GSI 16 (level, low)`
+Output: `0000:00:04.0`
+ =================== 
+Input: `GSI 16 (level, low)`
+Output: `0000:00:05.0{A}`
+ =================== 
+Input: `GSI 16 (level, low)`
+Output: `0000:00:06.0`
+ =================== 
+Input: `GSI 46 (level, low)`
+Output: `0000:02:0e.0`
+ =================== 
+Input: `GSI 46 (level, low)`
+Output: `0000:02:0e.0`
+ =================== 
+Input: `{{log}}`
+
+Output: `0000:06:07.0{A} -> GSI 64 (level, low) -> IRQ 185`
+ =================== 
+Input: `{{log}}`
+
+Output: `0000:06:07.0{A} -> GSI 64 (level, low) -> IRQ 185`
+ =================== 
+Input: `{{log}}`
+
+Output: `0000:07:08.0{A} -> GSI 65 (level, low) -> IRQ 193`
+ =================== 
+Input: `{{log}}`
+
+Output: `0000:07:08.0{A} -> GSI 65 (level, low) -> IRQ 193`
+ =================== 
+Input: `{{log}}`
+
+Output: `0000:09:0d.0{A}`
+ =================== 
+Input: `Power Button (FF)`
+
+Output: `Power Button {PWRF}`
+ =================== 
+Input: `log`
+
+Output: `Processor {CPU0} (supports C1)`
+ =================== 
+Input: `log`
+
+Output: `Processor {CPU1} (supports {C1})`
+ =================== 
+Input: `log`
+
+Output: `Processor {CPU2} (supports {C1})`
+ =================== 
+Input: `log`
+
+Output: `Processor {CPU3} (supports {C1})`
+ =================== 
+Input: `RSDP (v000 {placeholders}) @ 0x{hex_address}`
+
+Output: `RSDP (v000 {placeholders}) @ 0x00000000000fd650`
+ =================== 
+Input: `RSDT (v001 {placeholders} 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd664`
+
+Output: `RSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd664`
+ =================== 
+Input: `SPCR (v001 {placeholders} MSFT 0x0100000a) @ 0x00000000000{placeholders}`
+
+Output: `MSFT 0x0100000a`
+ =================== 
+Input: `log`
+
+Output: `Subsystem revision {revision}`.
+ =================== 
+Input: `log_message`
+
+Output: `Using {IOAPIC} for interrupt routing`
+ =================== 
+Input: `{{log}}`
+
+Output: `Intel(R) Xeon(TM) CPU 3.60GHz stepping 03`
+ =================== 
+Input: `log`
+
+Output: `L2 cache: {2048K}`
+ =================== 
+Input: `log`
+
+Output: `L2 cache: {2048K}`
+ =================== 
+Input: `log`
+
+Output: `L2 cache: {2048K}`
+ =================== 
+Input: `log`
+
+Output: `L2 cache: {2048K}`
+ =================== 
+Input: `log`
+
+Output: `L2 cache: {2048K}`
+ =================== 
+Input: `{{physical_processor_id}}`
+
+Output: `0`
+ =================== 
+Input: `{{physical_processor_id}}`
+
+Output: `0`
+ =================== 
+Input: `{{physical_processor_id}}`
+
+Output: `0`
+ =================== 
+Input: `{{physical_processor_id}}`
+
+Output: `3`
+ =================== 
+Input: `{{physical_processor_id}}`
+
+Output: `3`
+ =================== 
+Input: `log`
+
+Output: ` Trace cache: {uops} L1 D cache: {dcache}`
+ =================== 
+Input: `log`
+
+Output: ` Trace cache: {uops} L1 D cache: {dcache}`
+ =================== 
+Input: `log`
+
+Output: ` Trace cache: {uops} L1 D cache: {dcache}`
+ =================== 
+Input: `log`
+
+Output: ` Trace cache: {uops} L1 D cache: {dcache}`
+ =================== 
+Input: `log`
+
+Output: ` Trace cache: {uops} L1 D cache: {dcache}`
+ =================== 
+Input: `log`
+
+Output: `VGA+ {80}x{25}`
+ =================== 
+Input: `log`
+
+Output: `ordered_data_mode`
+ =================== 
+Input: `log`
+
+Output: `ordered_data_mode`
+ =================== 
+Input: `log`
+
+Output: `ordered_data_mode`
+ =================== 
+Input: `log`
+
+Output: `sys_ia32.c`
+ =================== 
+Input: `log`
+
+Output: `apic_id {8}, version {32}, address {0x{fec00000}}, GSI {0-23}`
+ =================== 
+Input: `log`
+
+Output: `9,version,address,GSI`
+ =================== 
+Input: `log`
+
+Output: `10,32,0x{fec83000},64-87`
+ =================== 
+Input: `log`
+
+Output: `routing cache hash table of {buckets}`, `1024Kbytes`
+ =================== 
+Input: `{{log}}`
+
+Output: `PCI Hot Plug PCI Core version: 0.5`
+ =================== 
+What is the template of the input log?
+ =================== 
+Input: `log_message`
+
+Output: ` Registered protocol family {family}`
+ =================== 
+Input: `log`
+
+Output: `16`
+ =================== 
+Input: `log`
+
+Output: `17`
+ =================== 
+Input: `log`
+
+Output: `family 2`
+ =================== 
+Input: `log`
+
+Output: `Using software bounce buffering for IO (`SWIOTLB`)`
+ =================== 
+Input: `pci_bus`
+
+Output: `bus 00`
+ =================== 
+Input: `{{log}}`
+
+Output: `Transparent bridge - 0000:00:1e.0`
+ =================== 
+Input: `ACPI_IRQ_ROUTING`
+
+Output: `Using {ACPI_IRQ_ROUTING}`
+ =================== 
+Input: `MMCONFIG`
+
+Output: `e0000000`
+ =================== 
+Input: `log_message`
+
+Output: `Using configuration type {configuration_type}`
+ =================== 
+Input: `block 0`
+
+Output: `Compressed image`
+ =================== 
+Expected output: `Disabled at runtime{placeholders}`.
+ =================== 
+Input: `Hello, {name}!`
+
+Output: `Initializing.{name}`
+ =================== 
+Input: `netfilter_hook {placeholders}`
+
+Output: ` Registering netfilter hooks`
+ =================== 
+Input: `{"start_time": "2023-03-14T15:00:00Z", "end_time": "2023-03-14T16:00:00Z"}`
+ =================== 
+Input: `netfilter_unregister`
+
+Output: `hook_name`
+ =================== 
+Input: `log`
+
+Output: ```
+{placeholders}
+```
+ =================== 
+Input: `direct-access`
+
+Output: `02`
+ =================== 
+Input: `processor_ansi_scsi_revision`
+
+Output: `02`
+ =================== 
+Input: `dquota {placeholders} -a`
+
+Output: `Disk quotas dquot_6.5.1`
+
+Explanation:
+The log message contains a template with placeholders for the disk quota information. The `dquota` command is used to extract the template and print it. The `{placeholders}` are replaced with the actual values from the log message, resulting in the final output.
+ =================== 
+Input: `log_message`
+
+Output: `root {placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `MegaRAID Model: {placeholders} RAID1 139G Rev: {placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `PE/PV Model: 1x2 SCSI BP Rev: 1.0`
+ =================== 
+Input: `Hello {name}! How are you today?`
+
+Output: `initialized`
+ =================== 
+Input: `netlink`
+
+Output: ```
+initializing netlink socket (`{placeholders}`)
+```
+ =================== 
+Expected output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `4.1.0-ioctl`
+ =================== 
+Input: `eth0`
+
+Output: ```allocating divert_blk for {input}`
+```
+ =================== 
+Input: `eth1`
+
+Output: ```allocating divert_blk for {eth1}`
+ =================== 
+Input: `log`
+
+Output: `not allocating divert_blk for {placeholders}`
+ =================== 
+Input: `log_message`
+
+Output: `USB HID core driver`
+ =================== 
+Input: `log`
+
+Output: `Intel(R) PRO/1000 Network Connection`
+ =================== 
+Input: `{{log}}`
+
+Output: `eth0:e1000_watchdog:NIC Link is Up 1000 Mbps Full Duplex`
+ =================== 
+Input: `log`
+
+Output: `Intel(R) PRO/1000 Network Connection`
+ =================== 
+Input: `log_message`
+
+Output: `no floppy controllers found`
+ =================== 
+Input: `RNG_not_detected`
+
+Output: `RNG_not_detected`
+ =================== 
+Input: `{{log}}`
+
+Output: `Wait for ready failed before probe !`
+ =================== 
+Input: `{{log}}`
+
+Output: `Wait for ready failed before probe !`
+ =================== 
+Input: `{{log}}`
+
+Output: `Wait for ready failed before probe !`
+ =================== 
+Input: `{{log}}`
+
+Output: `Wait for ready failed before probe !`
+ =================== 
+Input: `{{log}}`
+
+Output: `Wait for ready failed before probe !`
+ =================== 
+Input: `{{log}}`
+
+Output: `Wait for ready failed before probe !`
+ =================== 
+Input: `idebus=128`
+
+Output: `Assuming 33MHz system bus speed for PIO modes; override with idebus=128`
+ =================== 
+Input: `log`
+
+Output: `cmd fd(5) cmd(80081272)`
+ =================== 
+Input: `log_message`
+
+Output: `("C") 2000-2002 Netfilter core team`
+ =================== 
+Input: `log_message`
+
+Output: `("C") 2000-2002 Netfilter core team`
+ =================== 
+Input: `log_message`
+
+Output: `("C") 2000-2002 Netfilter core team`
+ =================== 
+Input: `log_message`
+
+Output: `("C") 2000-2002 Netfilter core team`
+ =================== 
+Input: `key_data`
+
+Output: `Installing {key_data} data`
+ =================== 
+Input: `log`
+
+Output: `DONE`
+ =================== 
+Input: `log`
+
+Output: `DONE`
+ =================== 
+Input: `log`
+
+Output: `RAID arrays.`
+ =================== 
+Input: `log`
+
+Output: `RAID arrays.`
+ =================== 
+Input: `{"name": "John", "age": 30, "city": "New York"}`
+
+Output: `autorun {name}: John {age}: 30 {city}: New York`
+ =================== 
+Input: `{"name": "John", "age": 30, "city": "New York"}`
+
+Output: `autorun {name}: John {age}: 30 {city}: New York`
+ =================== 
+Input: `driver`
+
+Output: `MAX_MD_DEVS=256, MD_SB_DISKS=27`
+ =================== 
+Input: `log`
+
+Output: `Fri Dec 10 19:02:14 EST 2004`
+ =================== 
+Input: `log`
+
+Output: `Mon Sep 27 22:15:07 EDT 2004`
+ =================== 
+Input: `log`
+
+Output: `version:516A bios:H418`
+ =================== 
+Input: `device 0x1028:0x0013:0x1028:0x016c: bus 2:slot 14:func 0`
+
+Output: `0x1028:0x0013:0x1028:0x016c`
+ =================== 
+Input: `mouse`
+
+Output: ````common for all mice`
+```
+ =================== 
+Input: `log`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `startup succeeded`
+ =================== 
+Input: `log`
+
+Output: `startup succeeded`
+ =================== 
+Input: `ts_fixup`
+
+Output: `succeeded`
+ =================== 
+Input: `Hello {name}! How are you today?`
+
+Output: `Version 1.0.6 Starting`
+ =================== 
+Input: `driver_name=LSI Logic MegaRAID`
+
+Output: `driver_name={LSI Logic MegaRAID}`
+ =================== 
+Input: `scanning {channel} [Phy {phy}] for non-raid devices`
+
+Output: `scanning 0 [Phy 0] for non-raid devices`
+ =================== 
+Input: `scsi_channel_1`
+
+Output: `scanning {scsi_channel_1}`
+ =================== 
+Input: `{{log_message}}`
+
+Output: `asking for cache data failed`
+ =================== 
+Input: `drive_cache`
+
+Output: `write through`
+ =================== 
+Input: `log_message`
+
+Output: `sda1{input}sda2{input}sda3{input}sda4{input}`
+ =================== 
+Input: `module_name=my_module&capability=read_write`
+
+Output: `{{module_name}} {{capability}}`
+ =================== 
+Input: `log`
+
+Output: `0x60,0x64`
+ =================== 
+Input: `log`
+
+Output: `0x60,0x64`
+ =================== 
+Expected output: `syslog-ng{placeholders}`
+
+Note: The placeholders are not actual variables, they are just a way to indicate where the variables should be placed in the template.
+ =================== 
+Input: `syslog-ng version {version}`
+
+Output: `syslog-ng version 1.6.7 starting`
+ =================== 
+Input: `processor`
+
+Output: `3591.360 MHz`
+ =================== 
+Input: `log`
+
+Output: `Using {HPET_timer}`
+ =================== 
+Input: `2023-03-14 15:23:45`
+
+Output: `HPET_YEAR=2023 HPET_MONTH=3 HPET_DAY=14 HPET_HOUR=15 HPET_MINUTE=23 HPET_SECOND=45`
+ =================== 
+Input: `Creating {placeholders} entries`
+
+Output: `Creating /dev entries`
+ =================== 
+Input: `driver_name hiddev_name`
+
+Output: `hiddev`
+ =================== 
+Input: `driver_hub`
+
+Output: `new`
+ =================== 
+Input: `driver_name`
+
+Output: `usbfs`
+ =================== 
+Input: `driver {placeholders}`
+
+Output: `usbhid`
+ =================== 
+Input: `vesafb0`
+
+Output: `failed with error -6`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `log_message`
+
+Output: `connection from "#28#"`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `User {user_id}#, coming from {origin}#, authenticated.`
+
+Output: `User 29#, coming from 30#, authenticated.`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `user_id=123&username="john"`
+
+Output: `Now running on {user_id} privileges.`
+ =================== 
+Input: `{{log}}`
+
+Output: `Local disconnected: Connection closed.`
+ =================== 
+Input: `{{lost_connection}}`
+
+Output: `'Connection closed.'`
+ =================== 
+Input: `nfs_mount_point`
+
+Output: `succeeded`
+ =================== 
+Input: `other_filesystem`
+
+Output: `failed`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `an{3}`
+Output: `an3`
+ =================== 
+Input: `an{3}`
+Output: `an3`
+ =================== 
+Input: `an142`
+Output: `data source name`
+ =================== 
+Input: `an270`
+Output: `an270 an271 an272 an273 an274 an275 an276 an277 an278 an279 an280 an281 an282 an283 an284 an285 an286 an287 an288 an289 an290 an291 an292 an293 an294 an295 an296 an297 an298 an299 an300`
+ =================== 
+Input: `an401`
+
+Output: `data source name`
+ =================== 
+Input: `an526`
+Output: `data source name`
+ =================== 
+Input: `an654 an655 an656 an657 an658 an659 an660 an661 an662 an663 an664 an665 an666 an667 an668 an669 an670 an671 an672 an673 an674 an675 an676 an677 an678 an679 an680 an681 an682 an683 an684 an685 an686 an687 an688 an689 an690 an691 an692 an693 an694 an695 an696 an697 an698 an699 an700 an701 an702
+ =================== 
+Input: `an782`
+Output: `an782`
+ =================== 
+Input: `an910`
+Output: `data source name`
+ =================== 
+You will see a list of 103 variables, each with a name and a value. You must print the template for each variable, using the name of the variable as the placeholder. For example, if the variable `bn14` has the value `apple`, you should print the template `{{ bn14 }}`.
+
+Note: The log message may contain any number of variables, and the values may be any type of data (strings, numbers, booleans, etc.). You must handle all cases correctly.
+ =================== 
+You will need to extract the following variables from the log message:
+
+* `bn142`
+* `bn143`
+* `bn144`
+* `bn145`
+* `bn146`
+* `bn147`
+* `bn148`
+* `bn149`
+* `bn150`
+* `bn151`
+* `bn152`
+* `bn153`
+* `bn154`
+* `bn155`
+* `bn156`
+* `bn157`
+* `bn158`
+* `bn159`
+* `bn160`
+* `bn161`
+* `bn162`
+* `bn163`
+* `bn164`
+
+ =================== 
+Input: `bn270`
+Output: `bn270 bn271 bn272 bn273 bn274 bn275 bn276 bn277 bn278 bn279 bn280 bn281 bn282 bn283 bn284 bn285 bn286 bn287 bn288 bn289 bn290 bn291 bn292 bn293 bn294 bn295 bn296 bn297 bn298 bn299 bn300 bn301 bn302 bn303 bn304 bn305 bn306 bn3
+ =================== 
+Input: `bn398 bn399 bn400 bn401 bn402 bn403 bn404 bn405 bn406 bn407 bn408 bn409 bn410 bn411 bn412 bn413 bn414 bn415 bn416 bn417 bn418 bn419 bn420 bn421 bn422 bn423 bn424 bn425 bn426 bn427 bn428 bn429 bn430 bn431 bn432 bn433 bn434 bn435 bn436 bn
+ =================== 
+You will need to extract the following variables from the log message:
+
+* `bn526`
+* `bn527`
+* `bn528`
+* `bn529`
+* `bn530`
+* `bn531`
+* `bn532`
+* `bn533`
+* `bn534`
+* `bn535`
+* `bn536`
+* `bn537`
+* `bn538`
+* `bn539`
+* `bn540`
+* `bn541`
+* `bn542`
+* `bn543`
+* `bn544`
+* `bn545`
+* `bn546`
+* `bn547`
+* `bn548`
+
+ =================== 
+You can use the following code to extract the template:
+```
+import re
+
+template = re.search(r'bn\d{3}', log_message).group()
+print(template)
+```
+This will output `bn654`.
+ =================== 
+Input: `dadmin2`
+
+Output: `{{"Warning: we failed to resolve data source name "}}dadmin2{{" dadmin3 dadmin4"}}`
+ =================== 
+Input: `log_message`
+
+Output: `connection from "#28#"`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `RRD_update`
+
+Output: `CN{776}Pkts_out.rrd`
+ =================== 
+Input: `RRD_update`
+
+Output: `({placeholders})`
+ =================== 
+What is the template for the input log?
+```
+{placeholders}
+```
+Output: `badmin3`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+You will need to extract the following variables from the log message:
+
+* `bn782`
+* `bn783`
+* `bn784`
+* `bn785`
+* `bn786`
+* `bn787`
+* `bn788`
+* `bn789`
+* `bn790`
+* `bn791`
+* `bn792`
+* `bn793`
+* `bn794`
+* `bn795`
+* `bn796`
+* `bn797`
+* `bn798`
+* `bn799`
+* `bn800`
+* `bn801`
+* `bn802`
+* `bn803`
+* `bn804`
+
+ =================== 
+You will see a list of 100 variables, each with a name and value. You must print the template for each variable using the corresponding placeholder. For example, `bn910` should be replaced with the actual value of the variable `bn910`.
+
+Hint: You can use regular expressions to extract the placeholders and their values from the log message.
+ =================== 
+You will see a list of 103 variables, each with a name and a value. The values are the actual data that was tried to be resolved but failed.
+ =================== 
+Abstraction:
+```
+{placeholders}
+```
+Expected output:
+```
+Warning: we failed to resolve data source name
+```
+ =================== 
+Abstraction:
+```
+$template = 'Warning: we failed to resolve data source name {cn_name}';
+print $template;
+```
+Expected output: `Warning: we failed to resolve data source name cn270 cn271 cn272 cn273 cn274 cn275 cn276 cn277 cn278 cn279 cn280 cn281 cn282 cn283 cn284 cn285 cn286 cn287 cn288 cn289 cn290 cn291 cn292 cn293 cn294 cn295 cn296 cn297 cn298 cn299 c
+ =================== 
+Abstraction:
+```
+{placeholders}
+```
+Expected output:
+```
+Warning: we failed to resolve data source name
+```
+ =================== 
+Abstraction:
+```
+{placeholders}
+```
+Expected output:
+```
+Warning: we failed to resolve data source name cn526 cn527 cn528 cn529 cn530 cn531 cn532 cn533 cn534 cn535 cn536 cn537 cn538 cn539 cn540 cn541 cn542 cn543 cn544 cn545 cn546 cn547 cn548 cn549 cn550 cn551 cn552 cn553 cn554 cn555 cn556 cn557 cn558 cn5
+ =================== 
+You will see a list of 22 variables, each with a name and a value. You must use the `template` function to extract the corresponding template for each variable. For example, the template for `cn654` is `cn654`.
+
+Please provide the output for each variable in the format `variable: {template}`
+ =================== 
+You will see a list of 50 variables, each with a name and a value. You must print the template for each variable using the corresponding placeholder. For example, `cn782` should be replaced with the actual value of the variable `cn782`.
+
+Hint: You can use regular expressions to extract the placeholders and their values from the log message.
+ =================== 
+Abstraction:
+```
+{cn910} {cn911} {cn912} {cn913} {cn914} {cn915} {cn916} {cn917} {cn918} {cn919} {cn920} {cn921} {cn922} {cn923} {cn924} {cn925} {cn926} {cn927} {cn928} {cn929} {cn930} {cn931} {cn932} {cn933} {cn934} {cn935} {cn936} {cn937} {cn938} {cn939} {cn940} {cn941}
+ =================== 
+You will see a list of 100 variables, each with a name and a value. The values are separated by spaces.
+
+Your task is to write a Python script that reads the log message and prints out the corresponding template for each variable.
+
+For example, if the log message is:
+```
+Warning: we failed to resolve data source name dn14 dn15 dn16 dn17 dn18 dn19 dn20 dn21 dn22 dn23 dn24 dn25 dn26 dn27 dn28 dn29 dn30 dn31 dn32 dn33 dn34 dn35 dn36 dn37 dn38 dn39 dn40 dn41 dn42 dn43 dn44
+ =================== 
+You will see a list of 216 data sources, each with a name and a warning message. The output should be a single line containing the template for all the warning messages, with placeholders for the data source names.
+ =================== 
+Input: `Warning: we failed to resolve data source name {dn270} {dn271} {dn272} {dn273} {dn274} {dn275} {dn276} {dn277} {dn278} {dn279} {dn280} {dn281} {dn282} {dn283} {dn284} {dn285} {dn286} {dn287} {dn288} {dn289} {dn290} {dn291} {dn292} {dn293} {dn294} {dn295} {dn296} {dn297} {dn298} {dn299} {dn300} {
+ =================== 
+Input: `log message`
+
+Output: `Warning: we failed to resolve data source name {dn398} {dn399} {dn400} {dn401} {dn402} {dn403} {dn404} {dn405} {dn406} {dn407} {dn408} {dn409} {dn410} {dn411} {dn412} {dn413} {dn414} {dn415} {dn416} {dn417} {dn418} {dn419} {dn420} {dn421} {dn422} {dn423} {dn424} {dn425} {dn426} {dn427
+ =================== 
+You will see a list of 600 variables, each with a name and a value. You must print the template for each variable, using the name of the variable as the placeholder. For example, if the variable `dn526` has the value `hello`, you should print the template `{{ dn526 }}`.
+
+Note: The variables are numbered from 1 to 600, but you can use any range of numbers for your solution.
+ =================== 
+You can use the following code to extract the template:
+```
+import re
+
+template = re.search(r'dn\d+', log_message).group()
+print(template)
+```
+This will output `dn654`.
+ =================== 
+You will see a list of 856 placeholders, each representing a variable in the log message. You must extract the corresponding template by replacing each placeholder with a variable name. For example, `dn782` could be replaced with `data_source_name`.
+
+Please provide the extracted template as an answer.
+ =================== 
+Note: The log message may contain placeholders for variables, which should be replaced with the actual values.
+ =================== 
+Input: `dadmin3` `dadmin4`
+
+Output: ` Warning: we failed to resolve trusted host name {dadmin3} {dadmin4}`
+ =================== 
+Expected output: `startup succeeded`
+
+Note: The placeholders are case-sensitive.
+ =================== 
+Input: `user_id=123&username="john"`
+
+Output: `Now running on {user_id} privileges.`
+ =================== 
+Input: `User {user_id}#, coming from {origin}#, authenticated.`
+
+Output: `User 29#, coming from 30#, authenticated.`
+ =================== 
+Input: `log`
+
+Output: `10.100.10.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10`
+ =================== 
+Input: `log`
+
+Output: `not allocating divert_blk for {placeholders}`
+ =================== 
+Input: `Hello {name}! How are you today?`
+
+Output: `succeeded`
+ =================== 
+Input: `Server listening on {port} port {placeholders}.`
+
+Output: `Server listening on 22 port {placeholders}.`
+ =================== 
+Input: `{{log}}`
+
+Output: `error: Bind to port 22 on 0.0.0.0 failed: Address already in use.`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `file_name`
+Output: `/dev/logsurfer`
+ =================== 
+Input: `/dev/logsurfer`
+
+Output: `Changing permissions on special file {placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.30.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `Hello {name}! How are you today?`
+
+Output: `succeeded`
+ =================== 
+Input: `xinetd {placeholders}`
+
+Output: `xinetd succeeded`
+ =================== 
+Input: `The following is the content of the configuration file: {placeholders}`
+
+Output: `Reading included configuration file: /etc/xinetd.d/chargen [file=/etc/xinetd.conf] [line=15] {content}`
+ =================== 
+Input: `Reading included configuration file: {placeholders}`
+
+Output: `Reading included configuration file: /etc/xinetd.d/chargen-udp`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `/etc/xinetd.d/cups-lpd`
+ =================== 
+Input: `daytime`
+
+Output: ```
+{file="/etc/xinetd.d/daytime"}
+```
+ =================== 
+Input: `daytime-udp`
+
+Output: ```
+/etc/xinetd.d/daytime-udp
+```
+ =================== 
+Input: `echo {placeholders}`
+
+Output: `Reading included configuration file: /etc/xinetd.d/echo`
+ =================== 
+Input: `echo $file`
+
+Output: `/etc/xinetd.d/echo-udp`
+ =================== 
+What is the template of the input log?
+```
+/etc/xinetd.d/eklogin
+```
+ =================== 
+Input: `gssftp`
+
+Output: ```
+{input}
+```
+ =================== 
+Input: `klogin`
+
+Output: ```
+{input}
+```
+ =================== 
+Input: `{{log}}`
+
+Output: `Reading included configuration file: {file}/{line}`
+ =================== 
+Input: `kshell`
+
+Output: ```
+/etc/xinetd.d/kshell
+```
+ =================== 
+Input: `{{{ Log message }}}`
+
+Output: `/etc/xinetd.d/ktalk`
+ =================== 
+What is the template of the input log?
+```
+/etc/xinetd.d/rsync
+```
+ =================== 
+What is the template of the input log?
+```
+/etc/xinetd.d/tftp
+```
+ =================== 
+Input: `template`
+
+Output: `{{"Reading included configuration file:"}} {{ "/etc/xinetd.d/time" }} {{ "[file="}} {{ "/etc/xinetd.d/time" }} {{"]}}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `/etc/xinetd.d/time-udp`
+ =================== 
+Input: `{{start_time}} {{available_services}}`
+
+Output: `Started working: 1 available service`
+ =================== 
+Input: `chargen`
+
+Output: `remove {input}`
+ =================== 
+Input: `chargen`
+
+Output: `remove {input}`
+ =================== 
+Input: `daytime {placeholders}`
+
+Output: `removing daytime {daytime}`
+ =================== 
+Input: `daytime {placeholders}`
+
+Output: `removing daytime {daytime}`
+ =================== 
+Input: `echo {name} {age}`.
+
+Output: `removing echo {name} {age}`
+ =================== 
+Input: `echo {name} {age}`.
+
+Output: `removing echo {name} {age}`
+ =================== 
+Input: `eklogin`
+
+Output: `remove {eklogin}`
+ =================== 
+Input: `ftp_remove {file} {path}`
+
+Output: `ftp_remove {file} {path}`
+ =================== 
+Input: `klogin`
+
+Output: `remove {input}`
+ =================== 
+Input: `kshell`
+
+Output: `{{input}}`
+ =================== 
+Input: `ntalk`
+
+Output: `remove {ntalk}`
+ =================== 
+Input: `printer_name` = `Hp LaserJet P1005`
+
+Output: `HP LaserJet P1005`
+ =================== 
+Input: `rsync`
+
+Output: `remove {rsync}`
+ =================== 
+Input: `telnet {placeholders}`
+
+Output: `removing telnet`
+ =================== 
+Input: `2023-02-17T14:30:00Z`
+
+Output: `{{time}}`
+ =================== 
+Input: `2023-02-17T14:30:00Z`
+
+Output: `{{time}}`
+ =================== 
+Input: `xinetd`
+
+Output: `libwrap loadavg options compiled in`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `RRD_update`
+
+Output: `({placeholders})`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.10.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.8.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Input: `jA9JBVPb007417`
+
+Output: `from=root, size=629060, class=0, nrcpts=1, msgid=`
+ =================== 
+How do you extract the template from this log message?
+ =================== 
+Input: `my_own_domain_name`
+
+Output: `unable to qualify {input}` -- using short name
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `my_own_domain_name`
+
+Output: `unable to qualify {input}` -- using short name
+ =================== 
+Input: `my_own_domain_name`
+
+Output: `unable to qualify {input}` -- using short name`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `my_own_domain_name`
+
+Output: `unable to qualify {input}` -- using short name`
+ =================== 
+Input: `my_own_domain_name`
+
+Output: `unable to qualify {input}` -- using short name
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Input: `jA9JBWxH019649`
+
+Output: `from=root, size=1596872, class=0, nrcpts=1, msgid=`
+ =================== 
+How to solve this problem?
+
+Answer: You can use the `template` filter in Kibana to extract the template from the log message. Here's an example of how you can do this:
+
+1. Open the Kibana dashboard and navigate to the "Filters" page.
+2. Click on the "Add Filter" button and select "Template" from the list of available filters.
+3. In the filter editor, enter the following pattern in the "Pattern" field: `\[(\w+)\]`. This will match any sequence of one or more word characters that are enclosed in square brackets.
+4. Click on the "Add Variable" button and select "Placeholder" from the list of available variables. This will create a new placeholder variable that you can use to extract the value of the matched pattern.
+5. In the filter editor, enter the following expression in the "Expression" field: `${_
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Input: `jA9JBWEr014256`
+Output: `from=root, size=1593894, class=0, nrcpts=1, msgid=`
+ =================== 
+What is the template of the input log message?
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+What is the template of the input log message?
+ =================== 
+How to solve this problem?
+
+Answer: You can use the `template` filter in Kibana to extract the template from the log message. Here's an example of how you can do this:
+
+1. Open the Kibana dashboard and navigate to the "Filters" page.
+2. Click on the "Add Filter" button and select "Template" from the list of available filters.
+3. In the filter configuration, enter the following pattern: `\[(\w+)\]`
+4. Click on the "Apply" button to apply the filter.
+5. The log messages will now be filtered to show only the variables enclosed in backticks (``).
+6. You can then use the `Abstract` button to abstract the variables and display them in a table.
+7. To print the input log's template delimited by backticks, you can use the "Print" button next to the
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Expected output: `user_name{placeholders} session_id{placeholders} reason{placeholders}`
+ =================== 
+Input: `jA9JBXVI027337`
+Output: `from=root, size=1597080, class=0, nrcpts=1, msgid=`
+ =================== 
+How to solve this problem?
+
+Answer: You can use the `template` filter in Kibana to extract the template from the log message. Here's an example of how you can do this:
+
+1. Open the Kibana dashboard and navigate to the "Filters" page.
+2. Click on the "Add Filter" button and select "Template" from the list of available filters.
+3. In the filter configuration, enter the following pattern: `\[(\w+)\]`
+4. Click on the "Apply" button to apply the filter.
+5. The log messages will now be filtered to show only the variables enclosed in backticks (``).
+6. You can then use the `Abstract` button to abstract the variables and display them in a table.
+
+Here's an example of how the filtered log messages might look:
+
+`to=root, ctladdr=root (0
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.8.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.12.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.14.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.30.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.12.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `Local disconnected: Connection closed.`
+ =================== 
+Input: `{{lost_connection}}`
+
+Output: `'Connection closed.'`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.28.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.26.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.30.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.10.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A2} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C5} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B8}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A7}`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C1} datasource`
+ =================== 
+Input: `device`, `temperature`, `last_report`
+
+Output: `/dev/sda,Temperature changed -2 Celsius to 26 Celsius since last report`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A1} datasource`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C8} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B7}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B3}`
+ =================== 
+Input: `Thunderbird_D5`
+
+Output: `{{input}}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `Thunderbird_D8`
+
+Output: `{{input}}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B4}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D4} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_A6}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_C2} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.18.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A5} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A4} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_C4}`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{{log_message}}}`
+
+Output: `NEW SWEEP`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_A3} datasource`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B5}`
+ =================== 
+Input: `log`
+
+Output: `10.100.24.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.30.250`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{Thunderbird_B6}`
+ =================== 
+Input: `log`
+
+Output: `data_thread()` `{placeholders}`
+ =================== 
+Input: `{{log}}`
+
+Output: `No topology change`
+ =================== 
+Input: `{{log}}`
+
+Output: `No configuration change required`
+ =================== 
+Input: `log`
+
+Output: `10.100.12.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `{{log}}`
+
+Output: `data_thread() got not answer from any {Thunderbird_D7} datasource`
+ =================== 
+Input: `log`
+
+Output: `10.100.16.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.22.250`
+ =================== 
+Input: `log`
+
+Output: `10.100.20.250`
+ =================== 

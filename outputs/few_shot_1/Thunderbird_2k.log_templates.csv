@@ -1,0 +1,148 @@
+,EventTemplate,Occurrences
+0,session closed for {user},24
+1,session opened for {user} by ({uid=0}),19
+2,CMD from {hour} via cron,14
+3,data_thread() got not answer from any {datasources},819
+4,Please provide the corresponding template.,569
+5,NEW SWEEP from {address} via eth1,62
+6,No topology change from {address} via eth1,62
+7,No configuration change required from {address} via eth1,62
+8,Local disconnected: Connection closed from {placeholders}.,3
+9,connection lost: {'Connection closed.'},3
+10,unable to qualify {domain_name} -- using short name,10
+11,What is the template of the log message?,21
+12,DHCPDISCOVER from {address} via eth1,11
+13,DHCPOFFER from {address} via eth1,5
+14,DHCPDISCOVER from {address} via eth1: network {network} no free leases,15
+15,DHCPACK from {address} via eth1,3
+16,DHCPREQUEST from {address} via eth1,3
+17,Please provide the extracted template.,19
+18,DHCPREQUEST from {address} via eth1: unknown lease {lease}.,9
+19,RD_update ({address}/var/lib/ganglia/rrds/{node}/pkts_out.rrd): illegal attempt to update using time {time} when last update time is {last_time} (,2
+20,kernel time sync disabled via eth0,1
+21,time reset {timestamp},1
+22,RRD_update ({address}/var/lib/ganglia/rrds/D Nodes/{node_name}/pkts_out.rrd): illegal attempt to update using time {time} when last update time is {last_update_time} (minimum one second step),3
+23,#,3
+24,RRD_update ({address}) via eth1,3
+25,RRD_update ({time}) illegal attempt to update using {time} when last update time is {last_time} (minimum one second step),2
+26,synchronized to {stratum} via eth1,1
+27,"Note: The log messages may contain other information such as timestamps, hostnames, and IP addresses, but for this challenge, we will focus on extracting the template from the given log message.",1
+28,"Note: The log messages may vary in format and content, so you must be flexible in your approach.",25
+29,CMD from {address} via eth1,4
+30,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1,12
+31,My unqualified host name ({address}) unknown; sleeping for retry,1
+32,My unqualified host name ({unqualified_host_name}) unknown; sleeping for retry,4
+33,"Note: The log messages are not always in the same format, so you may need to adjust the template depending on the input.",7
+34,S0 S4 S5,1
+35,DSDT from {address} via eth1,1
+36,Please provide the template of the log message.,10
+37,HPET from {address} via eth1,1
+38,HPET id: {base},1
+39,"Note: The log messages may contain non-printable characters, so you must use the appropriate escaping mechanisms to handle them correctly.",1
+40,{high level},1
+41,IRQ0 used by {override}.,1
+42,IRQ2 used by {override}.,1
+43,IRQ9 used by {override}.,1
+44,Note: The log messages may vary based on your environment and configuration.,1
+45,LAPIC from 0x01 via eth1,1
+46,LAPIC from 0x02 via eth1,1
+47,LAPIC from 0x03 via eth1,1
+48,LAPIC from 0x04 via eth1,1
+49,LAPIC_NMI from 0x01 via eth1,1
+50,LAPIC_NMI from 0x02 via eth1,1
+51,LAPIC_NMI from 0x03 via eth1,1
+52,LAPIC_NMI from 0x04 via eth1,1
+53,Local APIC address {address},1
+54,MADT from {address} via eth1,1
+55,"Note: The placeholders are case-sensitive, so make sure to use the correct casing for the variables you want to extract.",4
+56,"Note: The log messages may contain other information such as timestamps, hostnames, etc. that are not relevant to this challenge. Please only focus on the template part enclosed by backticks.",5
+57,PCI Interrupt Routing Table from {pci_interrupt_routing_table} via eth1,2
+58,"Note: The log messages may contain other information such as timestamps, hostnames, etc. that are not relevant to this challenge. Please focus only on the template part enclosed by backticks.",1
+59,"Note: The input log messages may contain non-printable characters, so you must use a raw string literal to pass the log message as a string to the template.",1
+60,"Note: The log messages are not always in the same format, so you may need to adjust the template accordingly.",9
+61,"Note: The log messages are not always in the same format, so you may need to adjust the template to match the actual format of the log message.",2
+62,"Note: The output will be a string, so please use the appropriate method to print it.",2
+63,"Note: The log message is not a template, it's just a plain text message.",5
+64,VGA+ from {address},1
+65,mounted filesystem with {ordered_data_mode}.,3
+66,template = {placeholders},1
+67,PCI Hot Plug PCI Core version: {version},1
+68,"Note: The log messages may vary in format and content, so you should be prepared to handle different types of templates.",1
+69,"Note: The log messages may contain other information, such as timestamps or hostnames, but for this challenge, you only need to extract the IP address.",1
+70,"Note: The log messages are not always in the same format, so you may need to adjust the template depending on the log message you receive.",1
+71,Disabled at runtime from {address} via eth1,1
+72,"Note: The log messages are not guaranteed to be in any particular format, and may contain placeholders for variables that you will need to replace with actual values.",1
+73,{timestamp},1
+74,{{placeholders}},2
+75,Hash tables configured ({established} {bind}),1
+76,Direct-Access ANSI SCSI revision: {revision},1
+77,Disk quotas {dquot_6.5.1},1
+78,Mounted root ({filesystem}).,1
+79,initializing netlink socket via eth0,1
+80,4.1.0-ioctl from {address},1
+81,allocating divert_blk for {address} via eth0,1
+82,{port},3
+83,not allocating {device} for non-ethernet device lo,1
+84,eth0: {e1000_probe} via eth0,1
+85,eth0: {nic_link} is Up {speed} Mbps Full Duplex,1
+86,eth1: {e1000_probe},1
+87,no floppy controllers found from {placeholders},1
+88,RNG not detected from {rng_address} via eth1,1
+89,Wait for ready from {placeholders},6
+90,{address},2
+91,Unknown cmd {address} cmd(80081272) on /dev/sda,1
+92,autorun DONE. from {address} via eth1,2
+93,Autodetecting RAID arrays from {placeholders}.,2
+94,"MAX_MD_DEVS=256, MD_SB_DISKS=27",1
+95,Release Date: {date},1
+96,{},1
+97,"Note: The log messages may contain placeholders for variables, which you must replace with actual values to create a valid template.",1
+98,probe new device {address} via bus 2:slot 14:func 0,1
+99,rpc.statd startup succeeded from {placeholders},1
+100,portmap startup succeeded from {placeholders},1
+101,Starting ts_fixup: succeeded from {placeholders},1
+102,"Note: The log message may contain multiple lines, but you must provide a single answer for the entire log message.",2
+103,scanning {channel} [Phy {phy}] for non-raid devices,1
+104,"Note: The placeholders are case-sensitive, so make sure to use the correct casing when replacing them with their corresponding values.",1
+105,asking for cache data failed from {cache_data},1
+106,assuming drive cache: {write_through},1
+107,print(),1
+108,Please provide the output of the template extraction.,1
+109,syslog-ng startup succeeded from 00:11:43:e3:ba:c3 via eth1,1
+110,syslog-ng version {version} starting,1
+111,Detected {processor},1
+112,Using {timer_frequency} MHz HPET timer.,1
+113,"Note: The log messages may contain other information such as timestamps, hostnames, and so on. This challenge is focused solely on extracting the template from the log message.",1
+114,usbhid from {driver_name} via eth1,1
+115,probe of {error_code} failed with error -6,1
+116,"User {#29#}, coming from {#30#}, authenticated.",2
+117,Now running on {placeholders} privileges.,2
+118,Mounting NFS filesystems: {mount_points},1
+119,Mounting other filesystems from {mount_point} via {interface},1
+120,Please provide the log message you want to extract the template from.,3
+121,Please provide the input log message.,1
+122,"Note: The log message may contain multiple lines, but you must provide a single response for the entire log message.",1
+123,"Note: The log message may contain multiple lines, so please make sure to extract the template from all lines.",1
+124,"Note: The log message may contain multiple lines, but you should only extract the template from the first line of the log message.",1
+125,"Please provide the log message you want to extract the template from, and I will help you with that.",18
+126,"Note: The log message may contain multiple lines, but you should only process the first line of the log message.",1
+127,Input: `Warning: we failed to resolve data source name bn14 bn15 bn16 bn17 bn18 bn19 bn20 bn21 bn22 bn23 bn24 bn25 bn26 bn27 bn28 bn29 bn30 bn31 bn32 bn33 bn34 bn35 bn36 bn37 bn38 bn39 bn40 bn41 bn42 bn43 bn44 bn45 bn46 bn47 bn48 bn49 bn50 bn51 bn52 bn53 bn54 bn55 bn56 bn57 bn58 bn59 bn6,1
+128,Input: `Warning: we failed to resolve data source name bn398 bn399 bn400 bn401 bn402 bn403 bn404 bn405 bn406 bn407 bn408 bn409 bn410 bn411 bn412 bn413 bn414 bn415 bn416 bn417 bn418 bn419 bn420 bn421 bn422 bn423 bn424 bn425 bn426 bn427 bn428 bn429 bn430 bn431 bn432 bn433 bn434 bn,1
+129,Warning: we failed to resolve data source name ,1
+130,RD_update from {time} via eth1,1
+131,Input: `Warning: we failed to resolve data source name dn398 dn399 dn400 dn401 dn402 dn403 dn404 dn405 dn406 dn407 dn408 dn409 dn410 dn411 dn412 dn413 dn414 dn415 dn416 dn417 dn418 dn419 dn420 dn421 dn422 dn423 dn424 dn425 dn426 dn427 dn428 dn429 dn430 dn431 dn432 dn433 dn434 dn,1
+132,Warning: we failed to resolve {trusted_host_name} via eth1,1
+133,startup succeeded from {placeholders},1
+134,not allocating {device} for non-ethernet device sit0,1
+135,Server listening on {port} via eth0,1
+136,error: Bind to {port} on 0.0.0.0 failed: Address already in use.,1
+137,Cannot open file {file} for writing (No such file or directory),1
+138,xinetd startup succeeded from {placeholders},1
+139,Reading included configuration file: {file}/{line},17
+140,Started working: {available_service},1
+141,removing {echo},2
+142,{placeholders},1
+143,via,1
+144,port,2
+145,"Note: The log messages are not always in the format you expect, so be prepared to handle different formats.",1
+146,Device: {temperature} via eth1,1

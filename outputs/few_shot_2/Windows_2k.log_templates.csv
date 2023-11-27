@@ -1,0 +1,18 @@
+,EventTemplate,Occurrences
+0,Please provide the input log message and I will help you extract the template.,2
+1,Please provide the output of the template delimited by backticks.,571
+2,Please help me to extract the template of this log message.,4
+3,Please provide the corresponding template.,456
+4,Please provide the output of the abstracted template.,661
+5,Please provide the output of the abstracted variables.,2
+6,Please provide the output of the abstracted log template.,2
+7,"NonStart: Success, startup processing not required as expected.",2
+8,Startup processing thread terminated normally,2
+9,{placeholders},283
+10,Reboot mark refs incremented to: 1,1
+11,"Please provide the placeholders for the variables in the template, separated by commas.",1
+12,Please provide the output of the abstracted log message.,2
+13,Idle processing thread terminated normally,1
+14,Can you please help me to extract the template of this log message?,7
+15,Can you please help me with this task?,1
+16,Please provide the output of the log message template delimited by backticks.,2

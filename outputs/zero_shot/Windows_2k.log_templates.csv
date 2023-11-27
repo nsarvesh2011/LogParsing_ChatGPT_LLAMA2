@@ -1,0 +1,350 @@
+,EventTemplate,Occurrences
+0,What is the template of the input log?,2
+1,00000001@2016/9/27:20:30:31.455,1
+2,00000002@2016/9/27:20:30:31.458,1
+3,00000003@2016/9/27:20:30:31.458,1
+4,Ending TrustedInstaller initialization.{input},2
+5,Starting the TrustedInstaller main loop. start_time {start_time} end_time {end_time} duration {duration},2
+6,TrustedInstaller service starts successfully.{YYYY-MM-DDTHH:mm:ssZ},2
+7,Windows opt-in: False,2
+8,Cleaning up report files older than 10 days.,2
+9,SQM: Requesting upload of all unsent reports.,2
+10,C:\Windows\servicing\sqm*,2
+11,Failed to start standard sample upload. [HRESULT = 0x80004005 - E_FAIL],2
+12,C:\Windows\servicing\sqm\*_all.sqm,2
+13,Warning: Failed to upload all unsent reports. [HRESULT = 0x80004005 - E_FAIL],2
+14,"No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.",2
+15,Checking to ensure startup processing was not required.,2
+16,"
+This will output the following:
+",1
+17,"Creating NT transaction (seq 1), objectname ",2
+18,"00000006 Created NT transaction (seq 1) result 0x00000000, handle @0x214",1
+19,CSI perf trace:,3
+20,"Success, startup processing not required as expected.",2
+21,{pid},2
+22,CSI Store 00000008 initialized,1
+23,WindowsUpdateAgent,608
+24,Unrecognized {package_name} attribute.,280
+25,0x800f080d,224
+26,Failed to get next element ,224
+27,Failed to internally open package.,18
+28,"Read out cached package applicability for package: Package_for_KB3121255~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",2
+29,"Read out cached package applicability for package: Package_for_KB2656356~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112",2
+30,Read out cached package applicability for package: Package_for_KB3108664~31bf3856ad364e35~amd64~~6.1.1.0,2
+31,"Read out cached package applicability for package: Package_for_KB3115858~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+32,"Read out cached package applicability for package: Package_for_KB3127220~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",2
+33,"Read out cached package applicability for package: Package_for_KB3060716~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",2
+34,Read out cached package applicability for package: Package_for_KB3006137~31bf3856ad364e35~amd64~~6.1.1.0,2
+35,Read out cached package applicability for package: Package_for_KB3067903~31bf3856ad364e35~amd64~~6.1.1.0,2
+36,"Read out cached package applicability for package: Package_for_KB3086255~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",2
+37,Read out cached package applicability for package: Package_for_KB3146706~31bf3856ad364e35~amd64~~6.1.1.2,2
+38,Read out cached package applicability for package: Package_for_KB3182203~31bf3856ad364e35~amd64~~6.1.1.1,2
+39,Read out cached package applicability for package: Package_for_KB3075226~31bf3856ad364e35~amd64~~6.1.1.1,2
+40,Read out cached package applicability for package: Package_for_KB3185319~31bf3856ad364e35~amd64~~11.2.1.0,2
+41,"Read out cached package applicability for package: Package_for_KB3033929~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112",2
+42,Read out cached package applicability for package: Package_for_KB2978742~31bf3856ad364e35~amd64~~6.1.1.0,2
+43,Read out cached package applicability for package: Package_for_KB3177186~31bf3856ad364e35~amd64~~6.1.1.1,2
+44,Read out cached package applicability for package: Package_for_KB3055642~31bf3856ad364e35~amd64~~6.1.1.0,2
+45,"Read out cached package applicability for package: Package_for_KB3078601~31bf3856ad364e35~amd64~~6.1.1.5, ApplicableState: 112, CurrentState:112",2
+46,Read out cached package applicability for package: Package_for_KB3147071~31bf3856ad364e35~amd64~~6.1.1.1,2
+47,"Read out cached package applicability for package: Package_for_KB3019978~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 80, CurrentState:0",2
+48,"Read out cached package applicability for package: Package_for_KB2563227~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",2
+49,Read out cached package applicability for package: Package_for_KB3126587~31bf3856ad364e35~amd64~~6.1.1.1,2
+50,"Read out cached package applicability for package: Package_for_KB2789645~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+51,Read out cached package applicability for package: Package_for_KB3138901~31bf3856ad364e35~amd64~~6.1.1.0,2
+52,Read out cached package applicability for package: Package_for_KB2607047~31bf3856ad364e35~amd64~~6.1.1.1,2
+53,Read out cached package applicability for package: Package_for_KB3011780~31bf3856ad364e35~amd64~~6.1.1.5,2
+54,"Read out cached package applicability for package: Package_for_KB3170455~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 112, CurrentState:112",2
+55,Read out cached package applicability for package: Package_for_KB2891804~31bf3856ad364e35~amd64~~6.1.1.1,2
+56,Read out cached package applicability for package: Package_for_KB3156017~31bf3856ad364e35~amd64~~6.1.1.0,2
+57,Read out cached package applicability for package: Package_for_KB3084135~31bf3856ad364e35~amd64~~6.1.1.0,2
+58,Read out cached package applicability for package: Package_for_KB2560656~31bf3856ad364e35~amd64~~6.1.1.2,2
+59,Read out cached package applicability for package: Package_for_KB3184471~31bf3856ad364e35~amd64~~6.1.1.1,2
+60,Read out cached package applicability for package: Package_for_KB3146963~31bf3856ad364e35~amd64~~6.1.1.0,2
+61,Read out cached package applicability for package: Package_for_KB2918077~31bf3856ad364e35~amd64~~6.1.1.0,2
+62,"Read out cached package applicability for package: Package_for_KB2716513~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:0",2
+63,Read out cached package applicability for package: Package_for_KB2489256~31bf3856ad364e35~amd64~~6.1.1.1,2
+64,"Read out cached package applicability for package: Package_for_KB3138962~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+65,Read out cached package applicability for package: Package_for_KB2552343~31bf3856ad364e35~amd64~~6.1.1.0,4
+66,Read out cached package applicability for package: Package_for_KB3059317~31bf3856ad364e35~amd64~~6.1.1.0,2
+67,Read out cached package applicability for package: Package_for_KB2973201~31bf3856ad364e35~amd64~~6.1.1.2,2
+68,Read out cached package applicability for package: Package_for_KB3072305~31bf3856ad364e35~amd64~~6.1.1.2,2
+69,Read out cached package applicability for package: Package_for_KB3078667~31bf3856ad364e35~amd64~~6.1.1.0,2
+70,"Read out cached package applicability for package: Package_for_KB3020369~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112",2
+71,Read out cached package applicability for package: Package_for_KB2943357~31bf3856ad364e35~amd64~~6.1.1.3,2
+72,"Read out cached package applicability for package: Package_for_KB3168965~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 80, CurrentState:112",2
+73,Read out cached package applicability for package: Package_for_KB2620704~31bf3856ad364e35~amd64~~6.1.1.0,2
+74,Read out cached package applicability for package: {placeholders},2
+75,Read out cached package applicability for package: Package_for_KB2763523~31bf3856ad364e35~amd64~~6.1.1.1,2
+76,"Read out cached package applicability for package: Package_for_KB3075220~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:0",2
+77,Read out cached package applicability for package: Package_for_KB2813347~31bf3856ad364e35~amd64~~6.1.1.0,2
+78,"Read out cached package applicability for package: Package_for_KB3080446~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 80, CurrentState:112",2
+79,"Read out cached package applicability for package: Package_for_KB2515325~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+80,"Read out cached package applicability for package: Package_for_KB2957189~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112",2
+81,"Read out cached package applicability for package: Package_for_KB2718704~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+82,Read out cached package applicability for package: Package_for_KB2479943~31bf3856ad364e35~amd64~~6.1.1.0,2
+83,Read out cached package applicability for package: Package_for_KB3138612~31bf3856ad364e35~amd64~~6.1.1.1,2
+84,Read out cached package applicability for {package_name}~{version}~{platform},6
+85,Read out cached package applicability for package: Package_for_KB3107998~31bf3856ad364e35~amd64~~6.1.1.2,2
+86,Read out cached package applicability for package: Package_for_KB3071756~31bf3856ad364e35~amd64~~6.1.1.2,2
+87,Read out cached package applicability for package: Package_for_KB2840631~31bf3856ad364e35~amd64~~6.1.1.0,2
+88,Read out cached package applicability for package: Package_for_KB2631813~31bf3856ad364e35~amd64~~6.1.1.1,2
+89,Read out cached package applicability for package: Package_for_KB2640148~31bf3856ad364e35~amd64~~6.1.2.0,2
+90,Read out cached package applicability for package: Package_for_KB3093513~31bf3856ad364e35~amd64~~6.1.1.0,2
+91,Read out cached package applicability for package: Package_for_KB2894844~31bf3856ad364e35~amd64~~6.1.1.1,2
+92,Read out cached package applicability for package: Package_for_KB3108670~31bf3856ad364e35~amd64~~6.1.1.0,2
+93,Read out cached package applicability for package: Package_for_KB2547666~31bf3856ad364e35~amd64~~6.1.1.0,2
+94,"Read out cached package applicability for package: Package_for_KB2798162~31bf3856ad364e35~amd64~~6.1.1.5, ApplicableState: 80, CurrentState:112",2
+95,Read out cached package applicability for package: Package_for_KB2574819~31bf3856ad364e35~amd64~~6.1.2.0,4
+96,"Read out cached package applicability for {package} with ApplicableState: 112, CurrentState: 112",4
+97,Read out cached package applicability for package: Package_for_KB2857650~31bf3856ad364e35~amd64~~6.1.1.1,2
+98,Read out cached package applicability for package: Package_for_KB3118401~31bf3856ad364e35~amd64~~6.1.1.1,2
+99,"Read out cached package applicability for package: Package_for_KB2585542~31bf3856ad364e35~amd64~~6.1.1.3, ApplicableState: 80, CurrentState:112",2
+100,Read out cached package applicability for package: Package_for_KB2931356~31bf3856ad364e35~amd64~~6.1.1.0,2
+101,Read out cached package applicability for package: Package_for_KB2900986~31bf3856ad364e35~amd64~~6.1.1.1,2
+102,Read out cached package applicability for package: Package_for_KB2985461~31bf3856ad364e35~amd64~~6.1.1.0,2
+103,"Read out cached package applicability for package: Package_for_KB3092601~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",2
+104,"Read out cached package applicability for package: Package_for_KB2836942~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+105,Read out cached package applicability for package: Package_for_KB2937610~31bf3856ad364e35~amd64~~6.1.1.3,2
+106,"Read out cached package applicability for package: Package_for_KB3035126~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 112, CurrentState:112",2
+107,"Read out cached package applicability for package: Package_for_KB3076895~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112",2
+108,Read out cached package applicability for package: Package_for_KB3021674~31bf3856ad364e35~amd64~~6.1.1.2,2
+109,Read out cached package applicability for package: Package_for_KB2919469~31bf3856ad364e35~amd64~~6.1.1.0,2
+110,Read out cached package applicability for package: Package_for_KB2823180~31bf3856ad364e35~amd64~~6.1.1.0,2
+111,"Read out cached package applicability for package: Package_for_KB2809215~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:0",2
+112,Read out cached package applicability for package: Package_for_KB2809900~31bf3856ad364e35~amd64~~6.1.1.0,2
+113,Read out cached package applicability for package: Package_for_KB3150220~31bf3856ad364e35~amd64~~6.1.1.1,2
+114,Read out cached package applicability for package: Package_for_KB3175024~31bf3856ad364e35~amd64~~6.1.2.0,2
+115,"Read out cached package applicability for package: Package_for_KB3126446~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",2
+116,Read out cached package applicability for package: Package_for_KB2968294~31bf3856ad364e35~amd64~~6.1.1.1,2
+117,Read out cached package applicability for package: Package_for_KB3080079~31bf3856ad364e35~amd64~~6.1.1.1,2
+118,"Read out cached package applicability for package: Package_for_KB2868626~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 80, CurrentState:112",2
+119,Read out cached package applicability for package: Package_for_KB2929733~31bf3856ad364e35~amd64~~6.1.1.0,2
+120,Read out cached package applicability for package: Package_for_KB2893294~31bf3856ad364e35~amd64~~6.1.1.1,2
+121,Read out cached package applicability for package: Package_for_KB3145739~31bf3856ad364e35~amd64~~6.1.1.1,2
+122,Read out cached package applicability for package: Package_for_KB2972211~31bf3856ad364e35~amd64~~6.1.1.0,2
+123,"Read out cached package applicability for package: Package_for_KB947821~31bf3856ad364e35~amd64~~6.1.34.0, ApplicableState: 112, CurrentState:0",2
+124,Read out cached package applicability for package: Package_for_KB3020370~31bf3856ad364e35~amd64~~6.1.1.2,2
+125,Read out cached package applicability for package: Package_for_KB3003743~31bf3856ad364e35~amd64~~6.1.1.1,2
+126,Read out cached package applicability for package: Package_for_KB3020387~31bf3856ad364e35~amd64~~6.1.1.2,2
+127,Read out cached package applicability for package: Package_for_KB2884256~31bf3856ad364e35~amd64~~6.1.1.1,2
+128,Read out cached package applicability for package: Package_for_KB3163245~31bf3856ad364e35~amd64~~6.1.1.1,2
+129,Read out cached package applicability for package: Package_for_KB2660075~31bf3856ad364e35~amd64~~6.1.1.0,2
+130,Read out cached package applicability for package: Package_for_KB3022777~31bf3856ad364e35~amd64~~6.1.1.0,2
+131,"Read out cached package applicability for package: Package_for_KB3161561~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112",2
+132,Read out cached package applicability for package: Package_for_KB2800095~31bf3856ad364e35~amd64~~6.1.2.0,2
+133,"Read out cached package applicability for package: Package_for_KB2818604~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:0",2
+134,Read out cached package applicability for package: Package_for_KB2570947~31bf3856ad364e35~amd64~~6.1.1.0,2
+135,"Read out cached package applicability for package: Package_for_KB3035132~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+136,Read out cached package applicability for package: Package_for_KB2972100~31bf3856ad364e35~amd64~~6.1.1.0,2
+137,Read out cached package applicability for package: Package_for_KB2966583~31bf3856ad364e35~amd64~~6.1.1.2,2
+138,Read out cached package applicability for package: Package_for_KB2685811~31bf3856ad364e35~amd64~~6.1.1.11,2
+139,Read out cached package applicability for package: Package_for_KB3110329~31bf3856ad364e35~amd64~~6.1.1.1,2
+140,Package_for_KB2545698~31bf3856ad364e35~amd64~~6.1.1.3,2
+141,Read out cached package applicability for package: Package_for_KB3124280~31bf3856ad364e35~amd64~~6.1.1.1,2
+142,Read out cached package applicability for package: Package_for_KB2676562~31bf3856ad364e35~amd64~~6.1.1.3,2
+143,Read out cached package applicability for package: Package_for_KB2970228~31bf3856ad364e35~amd64~~6.1.1.2,2
+144,Read out cached package applicability for package: Package_for_KB2512715~31bf3856ad364e35~amd64~~6.1.1.1,2
+145,"Read out cached package applicability for package: Package_for_KB2965788~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112",2
+146,Read out cached package applicability for package: Package_for_KB3030377~31bf3856ad364e35~amd64~~6.1.1.2,2
+147,Read out cached package applicability for package: Package_for_KB3021917~31bf3856ad364e35~amd64~~6.1.1.3,2
+148,Read out cached package applicability for package: Package_for_KB2853952~31bf3856ad364e35~amd64~~6.1.1.2,2
+149,"Read out cached package applicability for package: Package_for_KB2706045~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:0",2
+150,"Read out cached package applicability for package: Package_for_KB2510531~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+151,Read out cached package applicability for package: Package_for_KB2847927~31bf3856ad364e35~amd64~~6.1.1.1,2
+152,Read out cached package applicability for package: Package_for_KB2604115~31bf3856ad364e35~amd64~~6.1.1.3,2
+153,Read out cached package applicability for package: Package_for_KB3013531~31bf3856ad364e35~amd64~~6.1.2.0,2
+154,Read out cached package applicability for package: Package_for_KB2893519~31bf3856ad364e35~amd64~~6.1.1.0,2
+155,"Read out cached package applicability for package: Package_for_KB2703157~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:0",2
+156,Read out cached package applicability for package: Package_for_KB3133977~31bf3856ad364e35~amd64~~6.1.1.2,2
+157,Read out cached package applicability for package: Package_for_KB3109094~31bf3856ad364e35~amd64~~6.1.1.1,2
+158,Read out cached package applicability for package: Package_for_KB2506212~31bf3856ad364e35~amd64~~6.1.1.2,2
+159,Read out cached package applicability for package: Package_for_KB3076949~31bf3856ad364e35~amd64~~6.1.1.0,2
+160,Read out cached package applicability for package: Package_for_KB2871997~31bf3856ad364e35~amd64~~6.1.2.5,2
+161,Read out cached package applicability for package: Package_for_KB3164035~31bf3856ad364e35~amd64~~6.1.1.1,2
+162,Read out cached package applicability for package: Package_for_KB2843630~31bf3856ad364e35~amd64~~6.1.3.1,2
+163,Read out cached package applicability for package: Package_for_KB2862330~31bf3856ad364e35~amd64~~6.1.2.0,2
+164,"Read out cached package applicability for package: Package_for_KB2834140~31bf3856ad364e35~amd64~~6.1.2.0, ApplicableState: 112, CurrentState:0",2
+165,Read out cached package applicability for package: Package_for_KB2726535~31bf3856ad364e35~amd64~~6.1.1.1,2
+166,Read out cached package applicability for package: Package_for_KB3046269~31bf3856ad364e35~amd64~~6.1.1.0,2
+167,Read out cached package applicability for package: Package_for_KB3139398~31bf3856ad364e35~amd64~~6.1.1.1,2
+168,Read out cached package applicability for package: Package_for_KB2719857~31bf3856ad364e35~amd64~~6.1.1.2,2
+169,Read out cached package applicability for package: Package_for_KB2603229~31bf3856ad364e35~amd64~~6.1.1.0,2
+170,Read out cached package applicability for package: Package_for_KB3109560~31bf3856ad364e35~amd64~~6.1.1.1,2
+171,Read out cached package applicability for package: Package_for_KB2807986~31bf3856ad364e35~amd64~~6.1.1.2,2
+172,Read out cached package applicability for package: Package_for_KB3135983~31bf3856ad364e35~amd64~~6.1.1.0,2
+173,Read out cached package applicability for package: Package_for_KB2667402~31bf3856ad364e35~amd64~~6.1.2.0,2
+174,Read out cached package applicability for package: Package_for_KB2791765~31bf3856ad364e35~amd64~~6.1.1.2,2
+175,"Read out cached package applicability for package: {placeholders}~31bf3856ad364e35~amd64~~6.3.9600.18080, ApplicableState: 112, CurrentState:0",2
+176,"Read out cached package applicability for package: Package_for_KB3139940~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+177,"Read out cached package applicability for package: Package_for_KB2719033~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:0",2
+178,Read out cached package applicability for package: Package_for_KB3109103~31bf3856ad364e35~amd64~~6.1.1.0,2
+179,Read out cached package applicability for package: Package_for_KB2864202~31bf3856ad364e35~amd64~~6.1.1.0,2
+180,"Read out cached package applicability for package: Package_for_KB3074543~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",2
+181,"Read out cached package applicability for package: Package_for_KB3040272~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112",2
+182,Read out cached package applicability for package: Package_for_KB3142042~31bf3856ad364e35~amd64~~6.1.1.2,2
+183,"Read out cached package applicability for package: Package_for_KB3042058~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112",2
+184,"Read out cached package applicability for package: Package_for_KB3023215~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",2
+185,Read out cached package applicability for package: Package_for_KB3108381~31bf3856ad364e35~amd64~~6.1.1.1,2
+186,Read out cached package applicability for package: Package_for_KB2868038~31bf3856ad364e35~amd64~~6.1.1.2,2
+187,Read out cached package applicability for package: Package_for_KB2750841~31bf3856ad364e35~amd64~~6.1.1.3,2
+188,Read out cached package applicability for package: Package_for_KB3185911~31bf3856ad364e35~amd64~~6.1.1.0,2
+189,Read out cached package applicability for package: Package_for_KB3138910~31bf3856ad364e35~amd64~~6.1.1.0,2
+190,Read out cached package applicability for package: Package_for_KB2862335~31bf3856ad364e35~amd64~~6.1.1.2,2
+191,Read out cached package applicability for package: Package_for_KB2908783~31bf3856ad364e35~amd64~~6.1.1.2,2
+192,"Read out cached package applicability for package: Package_for_KB3020393~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 64, CurrentState:0",2
+193,Read out cached package applicability for package: Package_for_KB2772930~31bf3856ad364e35~amd64~~6.1.1.1,2
+194,Read out cached package applicability for package: Package_for_KB2621146~31bf3856ad364e35~amd64~~6.1.1.0,2
+195,Read out cached package applicability for package: Package_for_KB2601626~31bf3856ad364e35~amd64~~6.1.1.0,2
+196,Read out cached package applicability for package: Package_for_KB2923545~31bf3856ad364e35~amd64~~6.1.1.1,2
+197,Read out cached package applicability for package: Package_for_KB2509553~31bf3856ad364e35~amd64~~6.1.1.2,2
+198,"Read out cached package applicability for package: Package_for_KB2758857~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+199,"Read out cached package applicability for package: Package_for_KB2846960~31bf3856ad364e35~amd64~~6.1.1.3, ApplicableState: 80, CurrentState:112",2
+200,Read out cached package applicability for package: Package_for_KB2770660~31bf3856ad364e35~amd64~~6.1.1.0,2
+201,Read out cached package applicability for package: Package_for_KB3123479~31bf3856ad364e35~amd64~~6.1.1.0,2
+202,"Read out cached package applicability for package: Package_for_KB3072630~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+203,Read out cached package applicability for package: Package_for_KB3179573~31bf3856ad364e35~amd64~~6.1.1.0,2
+204,"Read out cached package applicability for package: Package_for_KB2952664~31bf3856ad364e35~amd64~~6.1.19.0, ApplicableState: 112, CurrentState:112",2
+205,Read out cached package applicability for package: Package_for_KB3149090~31bf3856ad364e35~amd64~~6.1.1.1,2
+206,Read out cached package applicability for package: Package_for_KB3178034~31bf3856ad364e35~amd64~~6.1.1.1,2
+207,Read out cached package applicability for package: Package_for_KB3097989~31bf3856ad364e35~amd64~~6.1.1.1,2
+208,Read out cached package applicability for package: Package_for_KB2853587~31bf3856ad364e35~amd64~~6.1.1.2,2
+209,Read out cached package applicability for package: Package_for_KB2732059~31bf3856ad364e35~amd64~~6.1.5.1,2
+210,Read out cached package applicability for package: Package_for_KB3164033~31bf3856ad364e35~amd64~~6.1.1.0,2
+211,Read out cached package applicability for package: Package_for_KB3080149~31bf3856ad364e35~amd64~~6.1.1.1,2
+212,Read out cached package applicability for package: Package_for_KB3046017~31bf3856ad364e35~amd64~~6.1.1.1,2
+213,Read out cached package applicability for package: Package_for_KB3067904~31bf3856ad364e35~amd64~~6.1.1.2,2
+214,Read out cached package applicability for package: Package_for_KB2912390~31bf3856ad364e35~amd64~~6.1.1.2,2
+215,"Read out cached package applicability for package: Package_for_KB2632503~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:0",2
+216,Read out cached package applicability for package: Package_for_KB2991963~31bf3856ad364e35~amd64~~6.1.1.0,2
+217,Read out cached package applicability for package: Package_for_KB2911501~31bf3856ad364e35~amd64~~6.1.1.2,2
+218,Read out cached package applicability for package: Package_for_KB2984972~31bf3856ad364e35~amd64~~6.1.1.4,2
+219,"Read out cached package applicability for package: Package_for_KB3121461~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 80, CurrentState:112",2
+220,Read out cached package applicability for package: Package_for_KB3161958~31bf3856ad364e35~amd64~~6.1.1.1,2
+221,"Read out cached package applicability for package: Package_for_KB2888049~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112",2
+222,Read out cached package applicability for package: Package_for_KB2773072~31bf3856ad364e35~amd64~~6.1.1.5,2
+223,Read out cached package applicability for package: Package_for_KB2579686~31bf3856ad364e35~amd64~~6.1.1.1,2
+224,"Read out cached package applicability for package: Package_for_KB3075222~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:0",2
+225,Read out cached package applicability for {package},2
+226,"Read out cached package applicability for package: Package_for_KB2544893~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 80, CurrentState:112",2
+227,"Read out cached package applicability for package: Package_for_KB2685939~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 80, CurrentState:112",2
+228,"Read out cached package applicability for package: Package_for_KB2729452~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+229,Read out cached package applicability for package: Package_for_KB3020388~31bf3856ad364e35~amd64~~6.1.1.1,2
+230,Read out cached package applicability for package: Package_for_KB2742599~31bf3856ad364e35~amd64~~6.1.1.0,2
+231,Read out cached package applicability for package: Package_for_KB3181988~31bf3856ad364e35~amd64~~6.1.1.1,2
+232,Read out cached package applicability for package: Package_for_KB2685813~31bf3856ad364e35~amd64~~6.1.1.11,2
+233,Read out cached package applicability for package: Package_for_KB2690533~31bf3856ad364e35~amd64~~6.1.1.0,2
+234,"Read out cached package applicability for package: Package_for_KB3075249~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+235,Read out cached package applicability for package: Package_for_KB3156016~31bf3856ad364e35~amd64~~6.1.1.1,2
+236,Read out cached package applicability for package: Package_for_KB3139914~31bf3856ad364e35~amd64~~6.1.1.0,2
+237,Read out cached package applicability for package: Package_for_KB2621440~31bf3856ad364e35~amd64~~6.1.1.5,2
+238,Read out cached package applicability for package: Package_for_KB3054476~31bf3856ad364e35~amd64~~6.1.1.0,2
+239,Read out cached package applicability for package: Package_for_KB3122648~31bf3856ad364e35~amd64~~6.1.1.0,2
+240,Read out cached package applicability for package: Package_for_KB3042553~31bf3856ad364e35~amd64~~6.1.1.1,2
+241,Read out cached package applicability for package: Package_for_KB2732487~31bf3856ad364e35~amd64~~6.1.2.0,2
+242,"Read out cached package applicability for package: Package_for_KB3005607~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+243,Read out cached package applicability for package: Package_for_KB3184143~31bf3856ad364e35~amd64~~6.1.1.4,2
+244,Read out cached package applicability for package: Package_for_KB2992611~31bf3856ad364e35~amd64~~6.1.1.0,2
+245,Read out cached package applicability for package: Package_for_KB2727528~31bf3856ad364e35~amd64~~6.1.1.1,2
+246,Read out cached package applicability for package: Package_for_KB2506014~31bf3856ad364e35~amd64~~6.1.1.0,2
+247,Read out cached package applicability for package: Package_for_KB2868116~31bf3856ad364e35~amd64~~6.1.1.1,2
+248,Read out cached package applicability for package: Package_for_KB2861698~31bf3856ad364e35~amd64~~6.1.1.0,2
+249,Read out cached package applicability for package: Package_for_KB3092627~31bf3856ad364e35~amd64~~6.1.1.0,2
+250,"Read out cached package applicability for package: Package_for_KB2984976~31bf3856ad364e35~amd64~~6.1.1.3, ApplicableState: 80, CurrentState:112",2
+251,Read out cached package applicability for package: Package_for_KB3102429~31bf3856ad364e35~amd64~~6.1.2.0,2
+252,"Read out cached package applicability for package: Package_for_KB3005788~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:0",2
+253,"Read out cached package applicability for package: Package_for_KB3006121~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",2
+254,Read out cached package applicability for package: Package_for_KB2813430~31bf3856ad364e35~amd64~~6.1.1.4,2
+255,Read out cached package applicability for package: Package_for_KB3033889~31bf3856ad364e35~amd64~~6.1.1.0,2
+256,"Read out cached package applicability for package: Package_for_KB3037574~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",2
+257,Read out cached package applicability for package: Package_for_KB2977292~31bf3856ad364e35~amd64~~6.1.1.0,2
+258,Read out cached package applicability for package: Package_for_KB3161949~31bf3856ad364e35~amd64~~6.1.1.0,2
+259,"Read out cached package applicability for package: Package_for_KB3006625~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+260,Read out cached package applicability for package: Package_for_KB3159398~31bf3856ad364e35~amd64~~6.1.1.1,2
+261,"Read out cached package applicability for package: Package_for_KB3035017~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:0",2
+262,"Read out cached package applicability for package: Package_for_KB2993651~31bf3856ad364e35~amd64~~6.1.1.3, ApplicableState: 80, CurrentState:112",2
+263,Read out cached package applicability for package: Package_for_KB3184122~31bf3856ad364e35~amd64~~6.1.1.0,2
+264,Read out cached package applicability for package: Package_for_KB2786081~31bf3856ad364e35~amd64~~6.1.1.0,2
+265,"Read out cached package applicability for package: Package_for_KB2761217~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",2
+266,Read out cached package applicability for package: Package_for_KB3142024~31bf3856ad364e35~amd64~~6.1.1.1,2
+267,Read out cached package applicability for package: Package_for_KB2835174~31bf3856ad364e35~amd64~~6.1.1.0,2
+268,Read out cached package applicability for package: Package_for_KB2808679~31bf3856ad364e35~amd64~~6.1.1.2,2
+269,"Read out cached package applicability for package: Package_for_KB2532531~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+270,Read out cached package applicability for package: Package_for_KB2973112~31bf3856ad364e35~amd64~~6.1.1.0,2
+271,"Read out cached package applicability for package: Package_for_KB2653956~31bf3856ad364e35~amd64~~6.1.1.5, ApplicableState: 80, CurrentState:112",2
+272,Read out cached package applicability for package: Package_for_KB3101722~31bf3856ad364e35~amd64~~6.1.1.0,2
+273,Read out cached package applicability for package: Package_for_KB3155178~31bf3856ad364e35~amd64~~6.1.1.0,2
+274,Read out cached package applicability for package: Package_for_KB2978120~31bf3856ad364e35~amd64~~6.1.1.0,2
+275,Read out cached package applicability for package: Package_for_KB3140245~31bf3856ad364e35~amd64~~6.1.1.0,2
+276,Read out cached package applicability for package: Package_for_KB3010788~31bf3856ad364e35~amd64~~6.1.1.1,2
+277,Read out cached package applicability for package: Package_for_KB982018~31bf3856ad364e35~amd64~~6.1.3.2,2
+278,Read out cached package applicability for package: Package_for_KB2705219~31bf3856ad364e35~amd64~~6.1.2.0,2
+279,Read out cached package applicability for package: Package_for_KB3004375~31bf3856ad364e35~amd64~~6.1.3.1,4
+280,Read out cached package applicability for package: Package_for_KB3138378~31bf3856ad364e35~amd64~~6.1.1.0,2
+281,Read out cached package applicability for package: Package_for_KB2506928~31bf3856ad364e35~amd64~~6.1.2.0,2
+282,Read out cached package applicability for package: Package_for_KB2799926~31bf3856ad364e35~amd64~~6.1.1.0,2
+283,Read out cached package applicability for package: Package_for_KB2491683~31bf3856ad364e35~amd64~~6.1.1.1,2
+284,Read out cached package applicability for package: Package_for_KB2654428~31bf3856ad364e35~amd64~~6.1.1.0,2
+285,"Read out cached package applicability for package: Package_for_KB3004361~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",2
+286,Read out cached package applicability for package: Package_for_KB3108371~31bf3856ad364e35~amd64~~6.1.1.0,2
+287,Read out cached package applicability for package: Package_for_KB2892074~31bf3856ad364e35~amd64~~6.1.1.0,2
+288,Read out cached package applicability for package: Package_for_KB2973351~31bf3856ad364e35~amd64~~6.1.1.1,2
+289,Read out cached package applicability for package: Package_for_KB2729094~31bf3856ad364e35~amd64~~6.1.2.0,2
+290,Read out cached package applicability for package: Package_for_KB2511455~31bf3856ad364e35~amd64~~6.1.1.0,2
+291,Read out cached package applicability for package: Package_for_KB2564958~31bf3856ad364e35~amd64~~6.1.1.1,2
+292,Read out cached package applicability for package: Package_for_KB3045685~31bf3856ad364e35~amd64~~6.1.1.0,2
+293,"Read out cached package applicability for package: Package_for_KB2836943~31bf3856ad364e35~amd64~~6.1.2.0, ApplicableState: 80, CurrentState:112",2
+294,Read out cached package applicability for package: Package_for_KB2698365~31bf3856ad364e35~amd64~~6.1.1.2,2
+295,"Read out cached package applicability for package: Package_for_KB3031432~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 80, CurrentState:112",2
+296,Read out cached package applicability for package: Package_for_KB2928120~31bf3856ad364e35~amd64~~6.1.1.2,2
+297,"Read out cached package applicability for package: Package_for_KB3087039~31bf3856ad364e35~amd64~~6.1.1.4, ApplicableState: 80, CurrentState:112",1
+298,Read out cached package applicability for package: Package_for_KB2736422~31bf3856ad364e35~amd64~~6.1.1.0,1
+299,Read out cached package applicability for package: Package_for_KB3156019~31bf3856ad364e35~amd64~~6.1.1.1,1
+300,Package_for_RollupFix~31bf3856ad364e35~amd64~~7601.23545.1.4,1
+301,Read out cached package applicability for package: Package_for_KB2862152~31bf3856ad364e35~amd64~~6.1.1.1,1
+302,Read out cached package applicability for package: Package_for_KB2852386~31bf3856ad364e35~amd64~~6.1.1.3,1
+303,Read out cached package applicability for package: Package_for_KB2647753~31bf3856ad364e35~amd64~~6.1.4.0,1
+304,Read out cached package applicability for package: Package_for_KB3177467~31bf3856ad364e35~amd64~~6.1.1.1,1
+305,backup_log,2
+306,Reboot mark refs incremented to: {1},1
+307,Starts,1
+308,0x47e9e0,1
+309,Begin CSI Store,1
+310,"
+Performing 1 operations; 1 are not lock/unlock and follow:
+",1
+311,"Store coherency cookie matches last scavenge cookie, skipping scavenge.",1
+312,coldpatching=FALSE applyflags=7,1
+313,"
+Creating NT transaction (seq 2)
+",1
+314,"Created NT transaction (seq 2) result 0x00000000, handle @0xb8",1
+315,Scavenge: {disposition},1
+316,00000010@2016/9/27:20:40:54.787,1
+317,Reboot mark refs: 0,1
+318,Idle {placeholders},1
+319,Ending the TrustedInstaller main loop.,1
+320,Starting {placeholders}finalization.,1
+321,Ending TrustedInstaller finalization.,1
+322,Starting TrustedInstaller initialization.{start_time},1
+323,00000001@2016/9/28:16:00:46.160,1
+324,00000002@2016/9/28:16:00:46.200,1
+325,00000003@2016/9/28:16:00:46.213,1
+326,"
+The ",1
+327,00000006,1
+328,What is the template of the input log message?,9
+329,Offline image is: read-only,1
+330,writeable,1
+331,Begin,1
+332,End,1
+333,CSI Store 0x000000000105d5b0 initialized,1
+334,Session: {client} initialized by client {SPP},1
+335,Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SYSTEM,1
+336,What is the template of the log message?,2
+337,Unloading offline registry hive: bf1a281b-ad7b-4476-ac95-f47682990ce7GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SAM,1
+338,Unloading offline registry hive: bf1a281b-ad7b-4476-ac95-f47682990ce7GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/DEFAULT,1
+339,Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Users/default/ntuser.dat,1
+340,Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat,1
+341,CSI Store 3065408 (0x00000000002ec640),1

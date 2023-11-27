@@ -1,0 +1,207 @@
+,EventTemplate,Occurrences
+0,session closed ({user}),24
+1,"Please note that the placeholders are not necessarily in the same order as the original log message, and some placeholders may be empty or missing.",20
+2,{},14
+3,"Note: The placeholders are case-sensitive, so make sure to use the correct casing when replacing them with their corresponding values.",697
+4,"synchronized to {ip}, stratum {stratum}",569
+5,data_thread ({process_id}): got not answer from any {ip},30
+6,ib_sm_sweep.c:{process_id}: ********************** NEW SWEEP ********************,62
+7,data_thread ({process_id}): got not answer from any [Thunderbird_B3] datasource,30
+8,ib_sm_sweep.c:{process_id}: No topology change,62
+9,ib_sm_sweep.c:{process_id}: No configuration change required,62
+10,Local ({placeholders}),3
+11,connection lost: {'connection': 'closed.'},3
+12,data_thread ({datasource}): got not answer from any {ip},30
+13,data_thread ({process_id}): got not answer from any {ip} datasource,32
+14,unable to qualify {domain_name} -- using short name,6
+15,"from=root, size=629060, class=0, nrcpts=1, msgid=<{process_id}>, relay=#7#@localhost",1
+16,"to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[{ip}], dsn=4.0.0, stat=Deferred: Connection refused by {ip}",1
+17,unable to qualify {short_name} -- using short name,4
+18,"from=root, size=1594553, class=0, nrcpts=1, msgid=<{process_id}>, relay=#7#@localhost",1
+19,"to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1624553, relay=[{ip}], dsn=4.0.0, stat=Deferred: Connection refused by {ip}",2
+20,"from=root, size=1593894, class=0, nrcpts=1, msgid=<{process_id}>, relay=#7#@localhost",1
+21,"to=root, ctladdr=root (0/0), delay=00:00:03, xdelay=00:00:00, mailer=relay, pri=1623894, relay=[{ip}], dsn=4.0.0, stat=Deferred: Connection refused by {ip}",1
+22,"from=root, size=1597080, class=0, nrcpts=1, msgid=<{process_id}>, relay=#7#@localhost",1
+23,"to=root, ctladdr=root (0/0), delay=00:00:03, xdelay=00:00:00, mailer=relay, pri=1627080, relay=[{ip}], dsn=4.0.0, stat=Deferred: Connection refused by {ip}",1
+24,DHCPDISCOVER ({ip}): via {interface},5
+25,DHCPOFFER ({ip}): {time} via {interface},5
+26,"from=root, size=1595423, class=0, nrcpts=1, msgid=<{process_id}>, relay=#7#@localhost",1
+27,"to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1625423, relay=[{ip}], dsn=4.0.0, stat=Deferred: Connection refused by {ip}",1
+28,": This placeholder represents the process ID of the system that generated the log message.
+* ",15
+29,DHCPACK ({ip}): {time},3
+30,DHCPREQUEST ({ip}): from {ip} via {interface},3
+31,Please provide the output of the template delimited by backticks.,32
+32,DHCPREQUEST ({ip}): unknown lease {lease_id}.,9
+33,RRD_update ({path}): illegal attempt to update using time {timestamp} when last update time is {timestamp} (minimum one second step),11
+34,kernel time sync disabled {disabled},1
+35,time ({timestamp}),1
+36,"Note: The placeholders are denoted in bold, and the variables are denoted in plain text.",1
+37,kernel time sync enabled ({enabled}),1
+38,"synchronized to {#3#}, stratum {1}",1
+39,"bash
+(root) CMD (/projects/tbird/temps/get_temps a)
+",1
+40,"bash
+(root) CMD (/projects/tbird/temps/get_temps b)
+",1
+41,"bash
+(root) CMD (/projects/tbird/temps/get_temps d)
+",1
+42,"bash
+(root) CMD (/projects/tbird/temps/get_temps e)
+",1
+43,My ({host}) unknown; sleeping for retry,5
+44,"Please note that the templates are case sensitive, so make sure to match the case of the placeholders in the output.",1
+45,({placeholders}),1
+46,"Please note that the log messages are not always in a consistent format, and some may contain placeholders for variables that are not always present.",1
+47,Please provide the template of the log message.,3
+48,HPET id: 0x{placeholder1} base: 0x{placeholder2},1
+49,"Note: The placeholders are case-sensitive, so make sure to use the correct casing for the variables you want to extract.",2
+50,IOAPIC ({id} {address} {gsi_base}),1
+51,IOAPIC ({address}): {gsi_base},2
+52,IR0 used by {process_name}.,1
+53,IRQ2 used by {override}.,1
+54,IRQ{9}: used by override.,1
+55,"Note: The placeholders are not limited to the ones provided in the examples, you can use any variable available in the log message.",1
+56,"Note: The placeholders are in lowercase, and the variables are in uppercase.",5
+57,"Note: The placeholders are not limited to the ones I provided, you can use any variable in the log message.",1
+58,"Please note that the placeholders are not limited to the ones I provided, you can use any variable in the log message as long as it is enclosed by backticks.",1
+59,LAPIC_NMI ({acpi_id}): high edge lint ({lint}),4
+60,"Please note that the templates are case-sensitive, so make sure to match the correct case when replacing variables with their corresponding values.",3
+61,MADT ({device_id} @ {ip}),1
+62,MCFG ({device_id} @ {address}),1
+63,PCI Interrupt Link ({link}) *{number},1
+64,{stratum},26
+65,"PCI Interrupt Link ({link}): *0, disabled.",2
+66,"PCI Interrupt Link ({interrupt_link}): *0, disabled.",1
+67,PCI Interrupt Link ({link}): disabled.,1
+68,PCI Root Bridge ({root_bridge}): 00:00,1
+69,:,1
+70,Note: The placeholders are case-sensitive.,1
+71,{placeholders},7
+72,": This part of the template indicates that the update was attempted with a time difference of at least one second from the previous update.
+
+Therefore, the log message can be abstracted as ",4
+73,print(),1
+74,"RSDT ({device_id}): @ {address},",1
+75,Subsystem ({revision}): illegal attempt to update using time 1131563319 when last update time is 1131563319 (minimum one second step),1
+76,Physical Processor ID: {processor_id},5
+77,VGA+ {placeholders},1
+78,mounted {file_system} with ordered data mode.,3
+79,sys_ia32.c ({process_id}): v {version} 2002/03/24 13:02:28 ak Exp ,1
+80,GSI {gsi},1
+81,"apic_id {apic_id}, version {version}, address {address}, GSI {gsi}",2
+82,"routing cache hash table of {bucket_size} buckets, {memory_size}Kbytes",1
+83,PCI Hot Plug {version}: 0.5,1
+84,"
+* ",2
+85, and ,1
+86,. The template of this log message is ,1
+87,Please provide the corresponding template for this log message.,1
+88,Please provide the corresponding template for the log message.,1
+89,Compressed {image} found at block {block_number},1
+90,Disabled at runtime.: illegal attempt to update using time 1131563319 when last update time is 1131563319 (minimum one second step),1
+91,Initializing {process_id},1
+92,starting ({mode}),1
+93,Unregistering {hook},1
+94,": This placeholder represents the time at which the update occurred.
+* ",1
+95,Direct-Access {revision},1
+96,Processor {placeholders},1
+97,"Please note that the templates are case-sensitive, so make sure to match the correct case when using them.",1
+98,Mounted {file_system}.,1
+99,"Please note that the placeholders are not limited to the ones I provided, you can use any variable in the log message.",1
+100,"PE/PV Model:{placeholders}, Rev:{placeholders}",1
+101,initialized ({process_id}),1
+102,passed,1
+103,allocating {resource} for {interface},2
+104,"Note: The placeholders are case sensitive, so make sure to use the correct casing when replacing them with their corresponding values.",2
+105,eth0: {nic_name} Link is Up {speed} Mbps Full Duplex,1
+106,e1000_probe ({device}): Intel(R) PRO/1000 Network Connection,1
+107,no {controllers} found,1
+108,RNG ({rng_detected}): not detected,1
+109,Wait for {service} failed before probe !,6
+110,"Note: The placeholders are denoted in bold, and the variables to be replaced are in plain text.",1
+111,"Please note that the templates are case sensitive, so make sure to match the case of the placeholders in the log message with the case of the variables in the template.",4
+112,autorun ({process_id}) DONE.,2
+113,Please provide the output of the log message template.,3
+114,autorun ({process_id}),2
+115,removing {service},18
+116,"Note: The placeholders are not limited to the examples provided, you can use any variable in the log message that you want to extract.",1
+117,"Note: The log messages are not always in the same format, so you may need to adjust the templates accordingly.",1
+118,PS/2 mouse device common for all {mice},1
+119,startup ({process_id}): succeeded,3
+120,starting {service}: succeeded,1
+121,"Please note that the templates are case-sensitive, so make sure to match the casing of the placeholders in the log message with the corresponding variables in the template.",1
+122,scanning {channel} [Phy {phy_number}] for non-raid devices,1
+123,scanning {channel} [virtual] for logical drives,1
+124,assuming {drive_cache}: write through,1
+125,"Note: The placeholders are not necessarily in the same order as the original log message, and some may be missing if they are not present in the log message.",2
+126,Note: The placeholders are not limited to the examples provided and can be any variable present in the log message.,1
+127,"KBD port at {port}, irq {irq}",1
+128,startup succeeded,1
+129,Using {time_keeping} based timekeeping.,1
+130,probe ({service}) failed with error -6,1
+131,connection ({service}),2
+132,"User ({#})#, coming from ({#}), authenticated.",2
+133,Now running on ,2
+134,Mounting {service}: succeeded,1
+135,Note: The log message may contain placeholders for variables that are not present in the input log.,1
+136,Please provide the output you want to get.,1
+137,Please provide the log message template delimited by backticks.,10
+138,Please provide the template of the log message delimited by backticks.,2
+139,Please provide the log message delimited by backticks.,4
+140, ,1
+141,Please provide the input log's template delimited by backticks.,8
+142, Warning: we failed to resolve {placeholders},1
+143,succeeded,2
+144,listening ({port}),1
+145,"Note: The placeholders are not limited to the ones provided, you can add more as needed.",1
+146,startup succeeded ({process_id}),1
+147,": The path to the included configuration file.
+* ",1
+148,"
+In this case, the template is ",1
+149,"
+Reading included configuration file: /etc/xinetd.d/cups-lpd, line 17
+",1
+150,"
+ Reading included configuration file: /etc/xinetd.d/daytime, [line=11]
+",1
+151, Reading {file}: {line},1
+152,".
+* ",2
+153,"
+ Reading included configuration file: {file}, [line={line_number}]
+",1
+154," is replaced with the line number of the configuration file, which in this case is ",1
+155,"
+ Reading included configuration file: /etc/xinetd.d/gssftp, [line=13]
+",1
+156," is replaced with the actual line number of the configuration file, which in this case is ",1
+157," is the name of the included configuration file.
+* ",1
+158," is replaced with the line number of the line being read from the configuration file, which in this case is ",1
+159," is replaced with the line number of the line being read from the configuration file. In this case, it is ",1
+160,"
+ Reading included configuration file: /etc/xinetd.d/tftp, [line=13]
+",1
+161,"
+ Reading included configuration file: /etc/xinetd.d/time-udp, [line=17]
+",1
+162,": This part of the template indicates that the update was attempted using a time that is within one second of the previous update time.
+
+Therefore, the log message can be abstracted as ",1
+163,"from=root, size=629060, class=0, nrcpts=1, msgid=<{process_id}>",1
+164,"to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=relay, pri=659060, relay=[{ip}], dsn=4.0.0, stat=Deferred: Connection refused by {ip}",1
+165,"from=root, size=1596872, class=0, nrcpts=1, msgid=<{process_id}>, relay=#7#@localhost",1
+166,"to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1626872, relay=[{ip}], dsn=4.0.0, stat=Deferred: Connection refused by {ip}",1
+167,"from=root, size=1593894, class=0, nrcpts=1, msgid=<{process_id}>",1
+168,"to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1623894, relay=[{ip}], dsn=4.0.0, stat=Deferred: Connection refused by {ip}",1
+169,"from=root, size=1594553, class=0, nrcpts=1, msgid=<{process_id}>",1
+170,"from=root, size=1597080, class=0, nrcpts=1, msgid=<{process_id}>",1
+171,"to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1627080, relay=[{ip}], dsn=4.0.0, stat=Deferred: Connection refused by {ip}",1
+172,": This is a fixed string that indicates the minimum time step allowed for updates.
+
+Therefore, the log message can be abstracted as ",1

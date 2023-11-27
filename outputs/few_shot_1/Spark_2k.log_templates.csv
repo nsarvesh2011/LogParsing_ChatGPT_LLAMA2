@@ -1,0 +1,394 @@
+,EventTemplate,Occurrences
+0,Note: The log message may contain placeholders that need to be replaced with actual values.,1
+1,Note: The log message may contain placeholders for variables that you need to replace with actual values.,6
+2,Started reading broadcast variable {securityManager},2
+3,Started reading broadcast variable 9,105
+4,"Note: The log messages are not guaranteed to be in any particular format, so you may need to perform some processing on them before using this function.",1
+5,Started remoting; listening on addresses ,1
+6,Successfully started service 'sparkExecutorActorSystem' on port {port},1
+7,Started reading broadcast variable 70293f72-844a-4b39-9ad6-fb0ad7e364e4,1
+8,"Note: The log messages are not always in the same format, so you may need to adjust the template accordingly.",107
+9,"Note: The log message may contain placeholders for variables, which should be replaced with actual values to extract the corresponding template.",1
+10,Starting executor ID {executor_id} on host {host},1
+11,Started reading broadcast variable 40984,1
+12,"Note: The number in the log message is a placeholder, you must replace it with the corresponding template.",1
+13,"Note: The log messages are not guaranteed to be in any particular format, so you may need to perform some parsing or pattern matching to extract the relevant information.",1
+14,"Note: The input log messages are randomly generated, so you may not always get the same output.",106
+15,"Note: The input log messages are not always in the same format, so you may need to adapt your solution accordingly.",40
+16,What is the template of the log message?,33
+17,Started reading broadcast variable 5.2 KB,2
+18,Started reading broadcast variable 8.8 KB,2
+19,"Partition rdd_2_3 not found, computing it",1
+20,Started reading broadcast variable 4,6
+21,Started reading broadcast variable 7292,35
+22,Started reading broadcast variable 8,2
+23,Started reading broadcast variable 21.4 KB,1
+24,Started reading broadcast variable 281.6 KB,2
+25,Started reading broadcast variable mapreduce.task.id,1
+26,"Note: The log message may contain placeholders for variables that are not present in the input log. In such cases, you should return an empty string.",1
+27,Started reading broadcast variable mapreduce.job.id,1
+28,Started reading broadcast variable {0},1
+29,Started reading broadcast variable 93.0 B,2
+30,Started reading broadcast variable 0,1
+31,Started reading broadcast variable 384.0,2
+32,Started reading broadcast variable {4},1
+33,"Note: The log messages are not always in the same format, so you may need to adjust the template to match the actual message structure.",40
+34,Started reading broadcast variable {3},1
+35,Started reading broadcast variable 3,1
+36,Started reading broadcast variable {1},1
+37,Started reading broadcast variable 1,1
+38,Started reading broadcast variable {2},1
+39,Started reading broadcast variable 2,1
+40,Started reading broadcast variable 1072,1
+41,Started reading broadcast variable 1114,1
+42,Started reading broadcast variable 1074,1
+43,Started reading broadcast variable 1077,1
+44,Started reading broadcast variable 850.0,1
+45,Started reading broadcast variable 930.0,3
+46,Started reading broadcast variable 935.0,1
+47,"Times: total = {total}, boot = {boot}, init = {init}, finish = {finish}",235
+48,Note: The log message is a string and contains placeholders for variables that you need to extract using the template.,45
+49,Finished task {stage} in stage {tid}. {result_sent_to_driver},4
+50,Finished task 1.0 in stage 0.0 (TID {tid}). 2703 bytes result sent to driver,1
+51,Finished task 2.0 in stage 0.0 (TID {tid}). 2703 bytes result sent to driver,1
+52,Finished task {stage} in stage {stage}. 2703 bytes result sent to driver,20
+53,Running task {stage} in stage {tid},59
+54,Started reading broadcast variable 5.8 KB,6
+55,Started reading broadcast variable 10,1
+56,Started reading broadcast variable 9.6 KB,5
+57,"Note: The log messages are not always in the same format, so you may need to adjust the template to match the actual format of the log message.",105
+58,Found block rdd_2_3 locally,17
+59,Found block rdd_2_4 locally,17
+60,Started reading broadcast variable 4172,1
+61,Started reading broadcast variable 41,3
+62,Started reading broadcast variable 4162,1
+63,Started reading broadcast variable 4179,1
+64,Started reading broadcast variable 4175,1
+65,Finished task {stage} in stage {stage}. {result} bytes result sent to driver,2
+66,Finished task 1.0 in stage 1.0 (TID {tid}). 2428 bytes result sent to driver,1
+67,Finished task 0.0 in stage 1.0 (TID {tid}). 2474 bytes result sent to driver,1
+68,Finished task 2.0 in stage 1.0 (TID {tid}). 2523 bytes result sent to driver,1
+69,Running task {stage} in stage {stage_name},1
+70,Running task {stage} in stage {stage} (TID {tid}),70
+71,Started reading broadcast variable {11},1
+72,Started reading broadcast variable 5.4 KB,5
+73,Started reading broadcast variable 11,1
+74,Started reading broadcast variable 9.2 KB,6
+75,Finished task {stage} in stage {stage}. 2087 bytes result sent to driver,38
+76,Finished task 2.0 in stage 2.0 (TID {tid}). 2087 bytes result sent to driver,1
+77,). 2087 bytes result sent to driver,1
+78,"Note: The input log messages are randomly generated, so you may not always get the same template for each input.",154
+79,Running task {stage} in stage {stage}.(TID {tid}),1
+80,Started reading broadcast variable {12},1
+81,Started reading broadcast variable 5.6 KB,5
+82,Started reading broadcast variable 12,1
+83,Started reading broadcast variable 9.8,6
+84,Started reading broadcast variable 6_4,1
+85,Started reading broadcast variable 6_3,1
+86,Started reading broadcast variable 6,1
+87,{},4
+88,Started reading broadcast variable 287.0 B,1
+89,Started reading broadcast variable 344.0,1
+90,Started reading broadcast variable {9},1
+91,Started reading broadcast variable 252.0,1
+92,Started reading broadcast variable 265.0 B,1
+93,Finished task {stage} in stage {stage}. 2667 bytes result sent to driver,9
+94,Finished task 1.0 in stage 3.0 (TID {tid}). 2667 bytes result sent to driver,1
+95,Finished task 2.0 in stage 3.0 (TID {tid}). 2667 bytes result sent to driver,1
+96,Started reading broadcast variable {13},1
+97,Running task {task} in stage {stage} (TID {tid}),8
+98,Started reading broadcast variable 5.7 KB,6
+99,Started reading broadcast variable 13,1
+100,Started reading broadcast variable 10.1 KB,6
+101,Found block rdd_6_3 locally,2
+102,Found block rdd_6_1 locally,2
+103,Times: total = {template},2
+104,Started reading broadcast variable 42,13
+105,Finished task {stage} in stage {stage}. 2099 bytes result sent to driver,2
+106,Finished task 1.0 in stage 4.0 (TID {tid}). 2099 bytes result sent to driver,1
+107,Finished task 2.0 in stage 4.0 (TID {tid}). 2138 bytes result sent to driver,1
+108,Finished task {stage} in stage {stage}. 2138 bytes result sent to driver,1
+109,Started reading broadcast variable {14},1
+110,Started reading broadcast variable 14,1
+111,Note: The input log messages are generated randomly and may not always follow the same pattern.,1
+112,Finished task {stage} in stage {stage}. 2198 bytes result sent to driver,1
+113,Finished task {stage} in stage {stage}. {bytes} result sent to driver,3
+114,Finished task 2.0 in stage 5.0 (TID {tid}). 2198 bytes result sent to driver,1
+115,Finished task 1.0 in stage 5.0 (TID {tid}). 2272 bytes result sent to driver,1
+116,Started reading broadcast variable {15},1
+117,Started reading broadcast variable 15,1
+118,"Times: total = {total}, boot = -{boot}, init = {init}, finish = {finish}",3
+119,Finished task 2.0 in stage 6.0 (TID {tid}). 2087 bytes result sent to driver,1
+120,Finished task 1.0 in stage 6.0 (TID {tid}). 2087 bytes result sent to driver,1
+121,Started reading broadcast variable {16},1
+122,Started reading broadcast variable 16,2
+123,"Partition rdd_11_0 not found, computing it",1
+124,"Partition rdd_11_4 not found, computing it",1
+125,"Partition rdd_11_3 not found, computing it",1
+126,"Partition rdd_11_2 not found, computing it",1
+127,"Partition rdd_11_1 not found, computing it",1
+128,Started reading broadcast variable 152.0,1
+129,Started reading broadcast variable 157.0 B,1
+130,Started reading broadcast variable 145.0,1
+131,Started reading broadcast variable 199.0,1
+132,Started reading broadcast variable 160.0 B,1
+133,Finished task 1.0 in stage 7.0 (TID {tid}). 2667 bytes result sent to driver,1
+134,Finished task 2.0 in stage 7.0 (TID {tid}). 2667 bytes result sent to driver,1
+135,Started reading broadcast variable {17},1
+136,Started reading broadcast variable 17,1
+137,Found block rdd_11_0 locally,2
+138,Found block rdd_11_4 locally,2
+139,Found block rdd_11_3 locally,2
+140,Found block rdd_11_2 locally,2
+141,Found block rdd_11_1 locally,2
+142,Finished task {stage} in stage {stage}. 2141 bytes result sent to driver,3
+143,Finished task 2.0 in stage 8.0 (TID {tid}). 2141 bytes result sent to driver,1
+144,Finished task 1.0 in stage {stage} (TID {tid}). 2111 bytes result sent to driver,1
+145,Started reading broadcast variable {18},1
+146,Running task {stage} in stage {stage_number}.{tid},25
+147,Started reading broadcast variable 18,1
+148,Finished task {stage} in broadcast variable {variable}. 2239 bytes result sent to driver,1
+149,Finished task 2.0 in stage {stage} (TID {tid}). 2239 bytes result sent to driver,1
+150,Finished task {stage} in stage {stage_number}. {num_bytes} bytes result sent to driver,5
+151,Finished task 1.0 in stage {stage} (TID {tid}). 2298 bytes result sent to driver,1
+152,Started reading broadcast variable 19,1
+153,Finished task {stage} in TID {tid}. 2087 bytes result sent to driver,2
+154,Finished task {stage} in stage {stage_number}. {bytes} result sent to driver,9
+155,Finished task 2.0 in stage {stage} (TID {tid}). 2087 bytes result sent to driver,3
+156,Finished task 1.0 in stage {stage} (TID {tid}). 2087 bytes result sent to driver,2
+157,Started reading broadcast variable {20},1
+158,"Note: The input log messages are randomly generated, so you may not always get the same template.",10
+159,Started reading broadcast variable 5.5 KB,1
+160,Started reading broadcast variable 20,1
+161,Started reading broadcast variable 16_4,1
+162,"Partition rdd_16_3 not found, computing it",1
+163,Started reading broadcast variable 16_2,1
+164,"Partition rdd_16_1 not found, computing it",1
+165,Started reading broadcast variable 263.0 B,1
+166,Started reading broadcast variable 191.0 B,1
+167,Started reading broadcast variable 232.0,1
+168,Started reading broadcast variable 230.0 B,1
+169,Finished task {stage} in stage {stage_number}. {result_sent_to_driver},56
+170,Finished task 2.0 in stage {stage} (TID {tid}). 2667 bytes result sent to driver,3
+171,Finished task 1.0 in stage {stage} (TID {tid}). 2667 bytes result sent to driver,4
+172,Started reading broadcast variable {21},1
+173,Started reading broadcast variable 21,4
+174,Found block rdd_16_0 locally,2
+175,Found block rdd_16_4 locally,2
+176,Found block rdd_16_3 locally,2
+177,Found block rdd_16_1 locally,2
+178,Finished task {stage} in stage {stage}. 2155 bytes result sent to driver,1
+179,Finished task 1.0 in stage 12.0 (TID {tid}). 2105 bytes result sent to driver,1
+180,Finished task 2.0 in stage 12.0 (TID {tid}). 2155 bytes result sent to driver,1
+181,Started reading broadcast variable {22},1
+182,Started reading broadcast variable 22,1
+183,Finished task 2.0 in stage 13.0 (TID {tid}). 2241 bytes result sent to driver,1
+184,Finished task 1.0 in stage 13.0 (TID {tid}). 2241 bytes result sent to driver,1
+185,Started reading broadcast variable {23},1
+186,Started reading broadcast variable 23,1
+187,Finished task 2.0 in stage 14.0 (TID {tid}). 2087 bytes result sent to driver,1
+188,Finished task 1.0 in stage 14.0 (TID {tid}). 2087 bytes result sent to driver,1
+189,Started reading broadcast variable {24},1
+190,Started reading broadcast variable 24,1
+191,"Partition rdd_21_1 not found, computing it",1
+192,Started reading broadcast variable 21_2,1
+193,"Times: total = {total}, boot = -99, init = 139, finish = 0",1
+194,Started reading broadcast variable 162.0 B,1
+195,{variable},1
+196,Started reading broadcast variable 194.0,1
+197,Started reading broadcast variable {25},1
+198,Started reading broadcast variable 25,1
+199,Found block rdd_21_4 locally,2
+200,Found block rdd_21_3 locally,2
+201,Found block rdd_21_2 locally,2
+202,Found block rdd_21_1 locally,2
+203,Started reading broadcast variable 43,1
+204,Finished task 2.0 in stage 16.0 (TID {tid}). 2163 bytes result sent to driver,1
+205,Finished task 1.0 in stage {stage} (TID {tid}). 2163 bytes result sent to driver,1
+206,Started reading broadcast variable {26},1
+207,Started reading broadcast variable 26,2
+208,Started reading broadcast variable 9.7 KB,2
+209,Finished task {stage} in stage {stage}. 2156 bytes result sent to driver,1
+210,Finished task 2.0 in stage 17.0 (TID {tid}). 2156 bytes result sent to driver,1
+211,Finished task 1.0 in stage 17.0 (TID {tid}). 2156 bytes result sent to driver,1
+212,Started reading broadcast variable {27},1
+213,Started reading broadcast variable 27,1
+214,Finished task 1.0 in stage 18.0 (TID {tid}). 2087 bytes result sent to driver,1
+215,Started reading broadcast variable {28},1
+216,Started reading broadcast variable 28,1
+217,"Partition rdd_26_3 not found, computing it",1
+218,Started reading broadcast variable 26_2,1
+219,Started reading broadcast variable 26_1,1
+220,Started reading broadcast variable 16.0,3
+221,Started reading broadcast variable 16.0 B,1
+222,Started reading broadcast variable {29},1
+223,Started reading broadcast variable 29,1
+224,Found block rdd_26_4 locally,2
+225,Found block rdd_26_1 locally,2
+226,Finished task 1.0 in stage {stage} (TID {tid}). 2076 bytes result sent to driver,1
+227,Finished task 2.0 in stage {stage} (TID {tid}). 2076 bytes result sent to driver,1
+228,Started reading broadcast variable {30},1
+229,Started reading broadcast variable 30,2
+230,Finished task 1.0 in stage {stage} (TID {tid}). 2333 bytes result sent to driver,1
+231,Finished task 2.0 in stage 21.0 (TID {tid}). 2333 bytes result sent to driver,1
+232,{placeholders},2
+233,Started reading broadcast variable {31},1
+234,Started reading broadcast variable 31,1
+235,"Partition rdd_30_0 not found, computing it",1
+236,"Partition rdd_30_4 not found, computing it",1
+237,"Partition rdd_30_3 not found, computing it",1
+238,"Partition rdd_30_2 not found, computing it",1
+239,"Partition rdd_30_1 not found, computing it",1
+240,Started reading broadcast variable 165.0 B,1
+241,Started reading broadcast variable 250.0,1
+242,Started reading broadcast variable 251.0,1
+243,Finished task 2.0 in stage 22.0 (TID {tid}). 2667 bytes result sent to driver,1
+244,Finished task 3.0 in stage 22.0 (TID {tid}). 2667 bytes result sent to driver,1
+245,Started reading broadcast variable {32},1
+246,Started reading broadcast variable 32,1
+247,Found block rdd_30_3 locally,2
+248,Found block rdd_30_2 locally,2
+249,Found block rdd_30_1 locally,2
+250,Found block rdd_30_4 locally,2
+251,Started reading broadcast variable 40,3
+252,Finished task 0.0 in stage 23.0 (TID {tid}). 2211 bytes result sent to driver,1
+253,Finished task 2.0 in stage 23.0 (TID {tid}). 2223 bytes result sent to driver,1
+254,Finished task 1.0 in stage 23.0 (TID {tid}). 2223 bytes result sent to driver,1
+255,Started reading broadcast variable {33},1
+256,Started reading broadcast variable 29.5 KB,1
+257,Started reading broadcast variable 33,1
+258,Started reading broadcast variable 82.1 KB,1
+259,Committed template {variable},30
+260,Finished task 1.0 in stage 24.0 (TID {tid}). 2364 bytes result sent to driver,1
+261,Finished task 2.0 in stage 24.0 (TID {tid}). 2364 bytes result sent to driver,1
+262,Finished task 0.0 in stage 24.0 (TID {tid}). 2364 bytes result sent to driver,1
+263,Finished task {stage} in stage {stage}. 2364 bytes result sent to driver,13
+264,Running task {stage} in stage {stage_number}.0 (TID {tid}),8
+265,Started reading broadcast variable {34},1
+266,Started reading broadcast variable 34,1
+267,"Note: The log messages are not always in the same format, so you may need to adjust the template to match the actual format of the message.",1
+268,Finished task 0.0 in stage {stage} (TID {tid}). 2364 bytes result sent to driver,1
+269,Finished task 2.0 in stage 25.0 (TID {tid}). 2364 bytes result sent to driver,1
+270,Finished task 1.0 in stage {stage} (TID {tid}). 2364 bytes result sent to driver,1
+271,Started reading broadcast variable {37},1
+272,Started reading broadcast variable 37,1
+273,Started reading broadcast variable {36},1
+274,"Partition rdd_42_4 not found, computing it",1
+275,"Partition rdd_42_3 not found, computing it",1
+276,"Partition rdd_42_1 not found, computing it",1
+277,Started reading broadcast variable 36,1
+278,Started reading broadcast variable 47,1
+279,Started reading broadcast variable 5,3
+280,Started reading broadcast variable 60,1
+281,"Times: total = 42, boot = 20, init = 21, finish = 1",2
+282,Finished task 2.0 in stage {stage} (TID {tid}). 2703 bytes result sent to driver,1
+283,Finished task 1.0 in stage {stage} (TID {tid}). 2703 bytes result sent to driver,1
+284,"Partition rdd_42_6 not found, computing it",1
+285,"Partition rdd_42_7 not found, computing it",1
+286,"Partition rdd_42_8 not found, computing it",1
+287,"Times: total = {54}, boot = {21}, init = {28}, finish = {5}",1
+288,9,1
+289,"Partition rdd_42_10 not found, computing it{rdd}",1
+290,Started reading broadcast variable 72920,1
+291,"Partition rdd_42_11 not found, computing it{rdd}",1
+292,"Partition rdd_42_12 not found, computing it{rdd}",1
+293,"Partition rdd_42_14 not found, computing it{rdd}",1
+294,Started reading broadcast variable 920.0,1
+295,"Partition rdd_42_15 not found, computing it{rdd}",1
+296,"Partition rdd_42_16 not found, computing it{rdd}",1
+297,"Partition rdd_42_17 not found, computing it{rdd}",1
+298,"Partition rdd_42_18 not found, computing it{rdd}",1
+299,Started reading broadcast variable 42_19,1
+300,Finished task {stage} in stage {stage}. 2705 bytes result sent to driver,10
+301,"Partition rdd_42_20 not found, computing it{rdd}",1
+302,Finished task {stage} in stage {stage}. 2701 bytes result sent to driver,3
+303,"Partition rdd_42_21 not found, computing it{rdd}",1
+304,"Partition rdd_42_22 not found, computing it{rdd}",1
+305,"Partition rdd_42_23 not found, computing it",1
+306,"Partition rdd_42_24 not found, computing it{rdd}",1
+307,"Partition rdd_42_25 not found, computing it{rdd}",1
+308,"Partition rdd_42_26 not found, computing it",1
+309,"Partition rdd_42_27 not found, computing it{rdd}",1
+310,"Partition rdd_42_28 not found, computing it{rdd}",1
+311,"Partition rdd_42_30 not found, computing it{rdd}",1
+312,"Partition rdd_42_31 not found, computing it{rdd}",1
+313,"Partition rdd_42_32 not found, computing it{rdd}",1
+314,"Partition rdd_42_33 not found, computing it",1
+315,Started reading broadcast variable 240636,1
+316,"Partition rdd_42_35 not found, computing it{rdd}",1
+317,"Partition rdd_42_36 not found, computing it{rdd}",1
+318,Started reading broadcast variable 262512,1
+319,"Partition rdd_42_37 not found, computing it{rdd}",1
+320,"Partition rdd_42_38 not found, computing it",1
+321,Started reading broadcast variable 7303,1
+322,Started reading broadcast variable {38},1
+323,Started reading broadcast variable 38,1
+324,Found block rdd_42_2 locally,3
+325,Found block rdd_42_1 locally,3
+326,Finished task 2.0 in stage {stage} (TID {tid}). 2523 bytes result sent to driver,1
+327,Finished task 1.0 in stage {stage} (TID {tid}). 2428 bytes result sent to driver,1
+328,Found block rdd_42_5 locally,3
+329,Found block rdd_42_7 locally,3
+330,Found block rdd_42_6 locally,3
+331,Found block rdd_42_8 locally,3
+332,Found block rdd_42_{9},3
+333,Finished task {stage} in stage {stage}. 2263 bytes result sent to driver,1
+334,Found block rdd_42_10 locally,3
+335,Finished task {stage} in stage {stage}. 2427 bytes result sent to driver,1
+336,Found block rdd_42_11 locally,3
+337,Found block rdd_42_12 locally,3
+338,Found block rdd_42_13 locally,3
+339,Found block rdd_42_14 locally,3
+340,Finished task {stage} in stage {stage}. 2402 bytes result sent to driver,1
+341,Finished task {stage} in stage {stage}. 2486 bytes result sent to driver,2
+342,Found block rdd_42_15 locally,3
+343,Finished task {stage} in stage {stage}. 2404 bytes result sent to driver,1
+344,Finished task {stage} in stage {stage}. 2522 bytes result sent to driver,1
+345,Found block rdd_42_16 locally,3
+346,Found block rdd_42_17 locally,3
+347,Found block rdd_42_19 locally,3
+348,Found block rdd_42_18 locally,3
+349,Finished task {stage} in stage {stage}. 2523 bytes result sent to driver,1
+350,Finished task {stage} in stage {stage}. 2171 bytes result sent to driver,6
+351,"Note: The log messages are not always in the same format, so you may need to adjust the template to match the input.",2
+352,Found block rdd_42_20 locally,3
+353,Finished task {stage} in stage {stage}. 2517 bytes result sent to driver,1
+354,Finished task {stage} in stage {stage}. 2128 bytes result sent to driver,16
+355,Finished task {stage} in stage {stage}. 2349 bytes result sent to driver,4
+356,Found block rdd_42_21 locally,3
+357,Found block rdd_42_22 locally,3
+358,Found block rdd_42_24 locally,3
+359,Found block rdd_42_23 locally,3
+360,Finished task {stage} in stage {stage}. 2355 bytes result sent to driver,2
+361,Found block rdd_42_25 locally,3
+362,Finished task {stage} in stage {stage}. 2592 bytes result sent to driver,2
+363,Finished task {stage} in stage {stage}. {TID} bytes result sent to driver,1
+364,Found block rdd_42_26 locally,3
+365,Found block rdd_42_27 locally,3
+366,Found block rdd_42_29 locally,3
+367,Finished task {stage} in stage {stage}. 2182 bytes result sent to driver,1
+368,Finished task {stage} in stage {stage}. 2267 bytes result sent to driver,2
+369,Found block rdd_42_31 locally,2
+370,Found block rdd_42_32 locally,3
+371,Found block rdd_42_33 locally,2
+372,Found block rdd_42_30 locally,3
+373,Found block rdd_42_34 locally,2
+374,Finished task {stage} in stage {stage}. 2801 bytes result sent to driver,1
+375,Finished task {stage} in stage {stage}. 2859 bytes result sent to driver,1
+376,Found block rdd_42_35 locally,2
+377,Found block rdd_42_37 locally,2
+378,Found block rdd_42_38 locally,2
+379,Found block rdd_42_36 locally,2
+380,Found block rdd_42_39 locally,2
+381,Finished task {stage} in stage {stage}. 2430 bytes result sent to driver,1
+382,Finished task {stage} in stage {stage}. 2882 bytes result sent to driver,1
+383,Finished task {stage} in stage {stage}. 2673 bytes result sent to driver,1
+384,Started reading broadcast variable {39},1
+385,Started reading broadcast variable 39,1
+386,Started reading broadcast variable 49,1
+387,Started reading broadcast variable {40},1
+388,Started reading broadcast variable 6.0 KB,1
+389,Started reading broadcast variable 9.9 KB,1
+390,Finished task {stage} in stage {stage_number}. 2128 bytes result sent to driver,3
+391,Finished task 2.0 in stage {stage} (TID {tid}). 2128 bytes result sent to driver,1
+392,Finished task 1.0 in stage {stage} (TID {tid}). 2171 bytes result sent to driver,1
